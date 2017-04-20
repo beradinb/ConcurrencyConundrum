@@ -1,0 +1,720 @@
+Time: 2: Elf Tom:     Selected toy dinosaur, boy
+Time: 2: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 2: Elf Tom:     Placed toy dinosaur, boy
+Time: 3: Elf Tom:     Selected toy whistle, boy
+Time: 3: Elf Tom:     Wrapped toy whistle, boy
+Time: 4: Elf Tom:     Placed toy whistle, boy
+Time: 4: Elf Tom:     Selected toy train, girl
+Time: 5: Elf Tom:     Wrapped toy train, girl
+Time: 5: Elf Tom:     Placed toy train, girl
+Time: 7: Elf Tom:     Selected toy train, boy
+Time: 7: Elf Tom:     Wrapped toy train, boy
+Time: 8: Elf Tom:     Placed toy train, boy
+Time: 8: Elf Tom:     Selected toy doll, girl
+Time: 9: Elf Tom:     Wrapped toy doll, girl
+Time: 9: Elf Tom:     Placed toy doll, girl
+Time: 10: Elf Tom:     Selected toy fake tattoo, boy
+Time: 10: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 10: Elf Tom:     Placed toy fake tattoo, boy
+Time: 11: Elf Tom:     Selected toy whistle, boy
+Time: 12: Elf Tom:     Wrapped toy whistle, boy
+Time: 12: Elf Tom:     Placed toy whistle, boy
+Time: 14: Elf Tom:     Selected toy dinosaur, boy
+Time: 14: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 15: Elf Tom:     Placed toy dinosaur, boy
+Time: 16: Elf Tom:     Selected toy fake tattoo, boy
+Time: 16: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 17: Elf Tom:     Placed toy fake tattoo, boy
+Time: 18: Elf Tom:     Selected toy train, boy
+Time: 19: Elf Tom:     Wrapped toy train, boy
+Time: 19: Elf Tom:     Placed toy train, boy
+Time: 20: Elf Tom:     Selected toy doll, girl
+Time: 21: Elf Tom:     Wrapped toy doll, girl
+Time: 22: Elf Tom:     Placed toy doll, girl
+Time: 22: Elf Tom:     Selected toy dinosaur, girl
+Time: 23: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 23: Elf Tom:     Placed toy dinosaur, girl
+Time: 24: Elf Tom:     Selected toy train, boy
+Time: 25: Elf Tom:     Wrapped toy train, boy
+Time: 26: Elf Tom:     Placed toy train, boy
+Time: 27: Elf Tom:     Selected toy bracelet, girl
+Time: 27: Elf Tom:     Wrapped toy bracelet, girl
+Time: 28: Elf Tom:     Placed toy bracelet, girl
+Time: 29: Elf Tom:     Selected toy whistle, boy
+Time: 30: Elf Tom:     Wrapped toy whistle, boy
+Time: 30: Elf Tom:     Placed toy whistle, boy
+Time: 31: Elf Tom:     Selected toy dinosaur, boy
+Time: 31: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 32: Elf Tom:     Placed toy dinosaur, boy
+Time: 32: Elf Tom:     Selected toy whistle, boy
+Time: 33: Elf Tom:     Wrapped toy whistle, boy
+Time: 33: Elf Tom:     Placed toy whistle, boy
+Time: 34: Elf Tom:     Selected toy train, boy
+Time: 34: Elf Tom:     Wrapped toy train, boy
+Time: 35: Elf Tom:     Placed toy train, boy
+Time: 35: Elf Tom:     Selected toy fake tattoo, girl
+Time: 36: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 36: Elf Tom:     Placed toy fake tattoo, girl
+Time: 37: Elf Tom:     Selected toy bracelet, boy
+Time: 37: Elf Tom:     Wrapped toy bracelet, boy
+Time: 38: Elf Tom:     Placed toy bracelet, boy
+Time: 38: Elf Tom:     Selected toy whistle, boy
+Time: 39: Elf Tom:     Wrapped toy whistle, boy
+Time: 40: Elf Tom:     Placed toy whistle, boy
+Time: 41: Elf Tom:     Selected toy train, girl
+Time: 42: Elf Tom:     Wrapped toy train, girl
+Time: 42: Elf Tom:     Placed toy train, girl
+Time: 43: Elf Tom:     Selected toy train, boy
+Time: 44: Elf Tom:     Wrapped toy train, boy
+Time: 44: Elf Tom:     Placed toy train, boy
+Time: 46: Elf Tom:     Selected toy train, boy
+Time: 47: Elf Tom:     Wrapped toy train, boy
+Time: 47: Elf Tom:     Placed toy train, boy
+Time: 47: Elf Tom:     Selected toy whistle, girl
+Time: 48: Elf Tom:     Wrapped toy whistle, girl
+Time: 48: Elf Tom:     Placed toy whistle, girl
+Time: 49: Elf Tom:     Selected toy doll, boy
+Time: 50: Elf Tom:     Wrapped toy doll, boy
+Time: 50: Elf Tom:     Placed toy doll, boy
+Time: 52: Elf Tom:     Selected toy fake tattoo, girl
+Time: 52: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 53: Elf Tom:     Placed toy fake tattoo, girl
+Time: 54: Elf Tom:     Selected toy doll, boy
+Time: 55: Elf Tom:     Wrapped toy doll, boy
+Time: 55: Elf Tom:     Placed toy doll, boy
+Time: 57: Elf Tom:     Selected toy bracelet, boy
+Time: 58: Elf Tom:     Wrapped toy bracelet, boy
+Time: 58: Elf Tom:     Placed toy bracelet, boy
+Time: 59: Elf Tom:     Selected toy doll, boy
+Time: 60: Elf Tom:     Wrapped toy doll, boy
+Time: 60: Elf Tom:     Placed toy doll, boy
+Time: 61: Elf Tom:     Selected toy whistle, boy
+Time: 61: Elf Tom:     Wrapped toy whistle, boy
+Time: 61: Elf Tom:     Placed toy whistle, boy
+Time: 62: Elf Tom:     Selected toy whistle, girl
+Time: 63: Elf Tom:     Wrapped toy whistle, girl
+Time: 63: Elf Tom:     Placed toy whistle, girl
+Time: 64: Elf Tom:     Selected toy bracelet, girl
+Time: 64: Elf Tom:     Wrapped toy bracelet, girl
+Time: 65: Elf Tom:     Placed toy bracelet, girl
+Time: 66: Elf Tom:     Selected toy dinosaur, boy
+Time: 66: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 67: Elf Tom:     Placed toy dinosaur, boy
+Time: 68: Elf Tom:     Selected toy train, boy
+Time: 68: Elf Tom:     Wrapped toy train, boy
+Time: 68: Elf Tom:     Placed toy train, boy
+Time: 69: Elf Tom:     Selected toy doll, girl
+Time: 69: Elf Tom:     Wrapped toy doll, girl
+Time: 69: Elf Tom:     Placed toy doll, girl
+Time: 70: Elf Tom:     Selected toy fake tattoo, boy
+Time: 70: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 70: Elf Tom:     Placed toy fake tattoo, boy
+Time: 72: Elf Tom:     Selected toy train, girl
+Time: 73: Elf Tom:     Wrapped toy train, girl
+Time: 74: Elf Tom:     Placed toy train, girl
+Time: 75: Elf Tom:     Selected toy train, boy
+Time: 76: Elf Tom:     Wrapped toy train, boy
+Time: 76: Elf Tom:     Placed toy train, boy
+Time: 77: Elf Tom:     Selected toy fake tattoo, boy
+Time: 77: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 77: Elf Tom:     Placed toy fake tattoo, boy
+Time: 79: Elf Tom:     Selected toy fake tattoo, boy
+Time: 80: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 81: Elf Tom:     Placed toy fake tattoo, boy
+Time: 81: Elf Tom:     Selected toy train, boy
+Time: 82: Elf Tom:     Wrapped toy train, boy
+Time: 82: Elf Tom:     Placed toy train, boy
+Time: 83: Elf Tom:     Selected toy dinosaur, boy
+Time: 83: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 84: Elf Tom:     Placed toy dinosaur, boy
+Time: 85: Elf Tom:     Selected toy doll, girl
+Time: 85: Elf Tom:     Wrapped toy doll, girl
+Time: 86: Elf Tom:     Placed toy doll, girl
+Time: 87: Elf Tom:     Selected toy fake tattoo, boy
+Time: 87: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 87: Elf Tom:     Placed toy fake tattoo, boy
+Time: 89: Elf Tom:     Selected toy fake tattoo, girl
+Time: 89: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 90: Elf Tom:     Placed toy fake tattoo, girl
+Time: 90: Elf Tom:     Selected toy whistle, girl
+Time: 91: Elf Tom:     Wrapped toy whistle, girl
+Time: 91: Elf Tom:     Placed toy whistle, girl
+Time: 92: Elf Tom:     Selected toy doll, boy
+Time: 92: Elf Tom:     Wrapped toy doll, boy
+Time: 93: Elf Tom:     Placed toy doll, boy
+Time: 94: Elf Tom:     Selected toy train, boy
+Time: 94: Elf Tom:     Wrapped toy train, boy
+Time: 95: Elf Tom:     Placed toy train, boy
+Time: 95: Elf Tom:     Selected toy whistle, girl
+Time: 95: Elf Tom:     Wrapped toy whistle, girl
+Time: 95: Elf Tom:     Placed toy whistle, girl
+Time: 97: Elf Tom:     Selected toy whistle, girl
+Time: 97: Elf Tom:     Wrapped toy whistle, girl
+Time: 98: Elf Tom:     Placed toy whistle, girl
+Time: 99: Elf Tom:     Selected toy dinosaur, boy
+Time: 99: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 100: Elf Tom:     Placed toy dinosaur, boy
+Time: 100: Elf Tom:     Selected toy doll, girl
+Time: 100: Elf Tom:     Wrapped toy doll, girl
+Time: 101: Elf Tom:     Placed toy doll, girl
+Time: 101: Elf Tom:     Selected toy doll, boy
+Time: 102: Elf Tom:     Wrapped toy doll, boy
+Time: 102: Elf Tom:     Placed toy doll, boy
+Time: 104: Elf Tom:     Selected toy fake tattoo, girl
+Time: 104: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 105: Elf Tom:     Placed toy fake tattoo, girl
+Time: 106: Elf Tom:     Selected toy bracelet, girl
+Time: 106: Elf Tom:     Wrapped toy bracelet, girl
+Time: 107: Elf Tom:     Placed toy bracelet, girl
+Time: 108: Elf Tom:     Selected toy train, boy
+Time: 109: Elf Tom:     Wrapped toy train, boy
+Time: 109: Elf Tom:     Placed toy train, boy
+Time: 111: Elf Tom:     Selected toy bracelet, boy
+Time: 111: Elf Tom:     Wrapped toy bracelet, boy
+Time: 112: Elf Tom:     Placed toy bracelet, boy
+Time: 113: Elf Tom:     Selected toy train, girl
+Time: 114: Elf Tom:     Wrapped toy train, girl
+Time: 114: Elf Tom:     Placed toy train, girl
+Time: 116: Elf Tom:     Selected toy whistle, boy
+Time: 116: Elf Tom:     Wrapped toy whistle, boy
+Time: 117: Elf Tom:     Placed toy whistle, boy
+Time: 117: Elf Tom:     Selected toy doll, boy
+Time: 118: Elf Tom:     Wrapped toy doll, boy
+Time: 119: Elf Tom:     Placed toy doll, boy
+Time: 120: Elf Tom:     Selected toy bracelet, girl
+Time: 121: Elf Tom:     Wrapped toy bracelet, girl
+Time: 122: Elf Tom:     Placed toy bracelet, girl
+Time: 124: Elf Tom:     Selected toy doll, girl
+Time: 124: Elf Tom:     Wrapped toy doll, girl
+Time: 125: Elf Tom:     Placed toy doll, girl
+Time: 125: Elf Tom:     Selected toy whistle, girl
+Time: 125: Elf Tom:     Wrapped toy whistle, girl
+Time: 126: Elf Tom:     Placed toy whistle, girl
+Time: 128: Elf Tom:     Selected toy dinosaur, boy
+Time: 129: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 129: Elf Tom:     Placed toy dinosaur, boy
+Time: 130: Elf Tom:     Selected toy dinosaur, girl
+Time: 131: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 131: Elf Tom:     Placed toy dinosaur, girl
+Time: 132: Elf Tom:     Selected toy whistle, girl
+Time: 133: Elf Tom:     Wrapped toy whistle, girl
+Time: 133: Elf Tom:     Placed toy whistle, girl
+Time: 134: Elf Tom:     Selected toy bracelet, boy
+Time: 134: Elf Tom:     Wrapped toy bracelet, boy
+Time: 135: Elf Tom:     Placed toy bracelet, boy
+Time: 137: Elf Tom:     Selected toy bracelet, girl
+Time: 137: Elf Tom:     Wrapped toy bracelet, girl
+Time: 138: Elf Tom:     Placed toy bracelet, girl
+Time: 139: Elf Tom:     Selected toy bracelet, boy
+Time: 140: Elf Tom:     Wrapped toy bracelet, boy
+Time: 141: Elf Tom:     Placed toy bracelet, boy
+Time: 142: Elf Tom:     Selected toy doll, girl
+Time: 143: Elf Tom:     Wrapped toy doll, girl
+Time: 143: Elf Tom:     Placed toy doll, girl
+Time: 144: Elf Tom:     Selected toy fake tattoo, girl
+Time: 144: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 145: Elf Tom:     Placed toy fake tattoo, girl
+Time: 145: Elf Tom:     Selected toy bracelet, boy
+Time: 146: Elf Tom:     Wrapped toy bracelet, boy
+Time: 147: Elf Tom:     Placed toy bracelet, boy
+Time: 148: Elf Tom:     Selected toy train, girl
+Time: 148: Elf Tom:     Wrapped toy train, girl
+Time: 149: Elf Tom:     Placed toy train, girl
+Time: 150: Elf Tom:     Selected toy doll, girl
+Time: 150: Elf Tom:     Wrapped toy doll, girl
+Time: 151: Elf Tom:     Placed toy doll, girl
+Time: 153: Elf Tom:     Selected toy bracelet, boy
+Time: 153: Elf Tom:     Wrapped toy bracelet, boy
+Time: 153: Elf Tom:     Placed toy bracelet, boy
+Time: 154: Elf Tom:     Selected toy dinosaur, boy
+Time: 155: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 155: Elf Tom:     Placed toy dinosaur, boy
+Time: 156: Elf Tom:     Selected toy dinosaur, girl
+Time: 156: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 157: Elf Tom:     Placed toy dinosaur, girl
+Time: 157: Elf Tom:     Selected toy dinosaur, girl
+Time: 158: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 158: Elf Tom:     Placed toy dinosaur, girl
+Time: 159: Elf Tom:     Selected toy doll, boy
+Time: 159: Elf Tom:     Wrapped toy doll, boy
+Time: 160: Elf Tom:     Placed toy doll, boy
+Time: 160: Elf Tom:     Selected toy bracelet, boy
+Time: 161: Elf Tom:     Wrapped toy bracelet, boy
+Time: 161: Elf Tom:     Placed toy bracelet, boy
+Time: 162: Elf Tom:     Selected toy dinosaur, girl
+Time: 162: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 162: Elf Tom:     Placed toy dinosaur, girl
+Time: 164: Elf Tom:     Selected toy dinosaur, girl
+Time: 164: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 165: Elf Tom:     Placed toy dinosaur, girl
+Time: 165: Elf Tom:     Selected toy whistle, girl
+Time: 166: Elf Tom:     Wrapped toy whistle, girl
+Time: 167: Elf Tom:     Placed toy whistle, girl
+Time: 168: Elf Tom:     Selected toy dinosaur, boy
+Time: 169: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 169: Elf Tom:     Placed toy dinosaur, boy
+Time: 170: Elf Tom:     Selected toy dinosaur, girl
+Time: 171: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 171: Elf Tom:     Placed toy dinosaur, girl
+Time: 173: Elf Tom:     Selected toy bracelet, boy
+Time: 174: Elf Tom:     Wrapped toy bracelet, boy
+Time: 174: Elf Tom:     Placed toy bracelet, boy
+Time: 175: Elf Tom:     Selected toy fake tattoo, boy
+Time: 176: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 176: Elf Tom:     Placed toy fake tattoo, boy
+Time: 178: Elf Tom:     Selected toy dinosaur, girl
+Time: 179: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 180: Elf Tom:     Placed toy dinosaur, girl
+Time: 180: Elf Tom:     Selected toy doll, boy
+Time: 181: Elf Tom:     Wrapped toy doll, boy
+Time: 181: Elf Tom:     Placed toy doll, boy
+Time: 182: Elf Tom:     Selected toy dinosaur, boy
+Time: 182: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 183: Elf Tom:     Placed toy dinosaur, boy
+Time: 184: Elf Tom:     Selected toy doll, boy
+Time: 184: Elf Tom:     Wrapped toy doll, boy
+Time: 185: Elf Tom:     Placed toy doll, boy
+Time: 186: Elf Tom:     Selected toy bracelet, girl
+Time: 186: Elf Tom:     Wrapped toy bracelet, girl
+Time: 186: Elf Tom:     Placed toy bracelet, girl
+Time: 187: Elf Tom:     Selected toy doll, boy
+Time: 188: Elf Tom:     Wrapped toy doll, boy
+Time: 188: Elf Tom:     Placed toy doll, boy
+Time: 190: Elf Tom:     Selected toy whistle, girl
+Time: 191: Elf Tom:     Wrapped toy whistle, girl
+Time: 191: Elf Tom:     Placed toy whistle, girl
+Time: 192: Elf Tom:     Selected toy train, girl
+Time: 193: Elf Tom:     Wrapped toy train, girl
+Time: 193: Elf Tom:     Placed toy train, girl
+Time: 194: Elf Tom:     Selected toy dinosaur, girl
+Time: 195: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 195: Elf Tom:     Placed toy dinosaur, girl
+Time: 196: Elf Tom:     Selected toy dinosaur, girl
+Time: 197: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 197: Elf Tom:     Placed toy dinosaur, girl
+Time: 197: Elf Tom:     Selected toy whistle, girl
+Time: 198: Elf Tom:     Wrapped toy whistle, girl
+Time: 198: Elf Tom:     Placed toy whistle, girl
+Time: 200: Elf Tom:     Selected toy bracelet, girl
+Time: 200: Elf Tom:     Wrapped toy bracelet, girl
+Time: 200: Elf Tom:     Placed toy bracelet, girl
+Time: 201: Elf Tom:     Selected toy bracelet, girl
+Time: 202: Elf Tom:     Wrapped toy bracelet, girl
+Time: 202: Elf Tom:     Placed toy bracelet, girl
+Time: 203: Elf Tom:     Selected toy whistle, boy
+Time: 204: Elf Tom:     Wrapped toy whistle, boy
+Time: 205: Elf Tom:     Placed toy whistle, boy
+Time: 206: Elf Tom:     Selected toy train, boy
+Time: 206: Elf Tom:     Wrapped toy train, boy
+Time: 206: Elf Tom:     Placed toy train, boy
+Time: 208: Elf Tom:     Selected toy whistle, boy
+Time: 208: Elf Tom:     Wrapped toy whistle, boy
+Time: 209: Elf Tom:     Placed toy whistle, boy
+Time: 210: Elf Tom:     Selected toy whistle, girl
+Time: 211: Elf Tom:     Wrapped toy whistle, girl
+Time: 212: Elf Tom:     Placed toy whistle, girl
+Time: 212: Elf Tom:     Selected toy train, girl
+Time: 213: Elf Tom:     Wrapped toy train, girl
+Time: 213: Elf Tom:     Placed toy train, girl
+Time: 214: Elf Tom:     Selected toy dinosaur, boy
+Time: 214: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 214: Elf Tom:     Placed toy dinosaur, boy
+Time: 216: Elf Tom:     Selected toy doll, girl
+Time: 216: Elf Tom:     Wrapped toy doll, girl
+Time: 216: Elf Tom:     Placed toy doll, girl
+Time: 217: Elf Tom:     Selected toy doll, boy
+Time: 218: Elf Tom:     Wrapped toy doll, boy
+Time: 218: Elf Tom:     Placed toy doll, boy
+Time: 219: Elf Tom:     Selected toy doll, girl
+Time: 219: Elf Tom:     Wrapped toy doll, girl
+Time: 220: Elf Tom:     Placed toy doll, girl
+Time: 221: Elf Tom:     Selected toy whistle, girl
+Time: 222: Elf Tom:     Wrapped toy whistle, girl
+Time: 223: Elf Tom:     Placed toy whistle, girl
+Time: 224: Elf Tom:     Selected toy train, boy
+Time: 225: Elf Tom:     Wrapped toy train, boy
+Time: 226: Elf Tom:     Placed toy train, boy
+Time: 226: Elf Tom:     Selected toy train, girl
+Time: 227: Elf Tom:     Wrapped toy train, girl
+Time: 228: Elf Tom:     Placed toy train, girl
+Time: 228: Elf Tom:     Selected toy doll, boy
+Time: 229: Elf Tom:     Wrapped toy doll, boy
+Time: 229: Elf Tom:     Placed toy doll, boy
+Time: 231: Elf Tom:     Selected toy whistle, girl
+Time: 232: Elf Tom:     Wrapped toy whistle, girl
+Time: 232: Elf Tom:     Placed toy whistle, girl
+Time: 234: Elf Tom:     Selected toy whistle, girl
+Time: 234: Elf Tom:     Wrapped toy whistle, girl
+Time: 234: Elf Tom:     Placed toy whistle, girl
+Time: 235: Elf Tom:     Selected toy dinosaur, boy
+Time: 235: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 236: Elf Tom:     Placed toy dinosaur, boy
+Time: 237: Elf Tom:     Selected toy whistle, boy
+Time: 237: Elf Tom:     Wrapped toy whistle, boy
+Time: 238: Elf Tom:     Placed toy whistle, boy
+Time: 239: Elf Tom:     Selected toy dinosaur, girl
+Time: 239: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 240: Elf Tom:     Placed toy dinosaur, girl
+Time: 241: Elf Tom:     Selected toy whistle, girl
+Time: 241: Elf Tom:     Wrapped toy whistle, girl
+Time: 242: Elf Tom:     Placed toy whistle, girl
+Time: 243: Elf Tom:     Selected toy doll, girl
+Time: 243: Elf Tom:     Wrapped toy doll, girl
+Time: 244: Elf Tom:     Placed toy doll, girl
+Time: 245: Elf Tom:     Selected toy whistle, girl
+Time: 245: Elf Tom:     Wrapped toy whistle, girl
+Time: 245: Elf Tom:     Placed toy whistle, girl
+Time: 246: Elf Tom:     Selected toy train, boy
+Time: 247: Elf Tom:     Wrapped toy train, boy
+Time: 247: Elf Tom:     Placed toy train, boy
+Time: 249: Elf Tom:     Selected toy fake tattoo, girl
+Time: 249: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 249: Elf Tom:     Placed toy fake tattoo, girl
+Time: 250: Elf Tom:     Selected toy fake tattoo, girl
+Time: 251: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 251: Elf Tom:     Placed toy fake tattoo, girl
+Time: 253: Elf Tom:     Selected toy bracelet, boy
+Time: 253: Elf Tom:     Wrapped toy bracelet, boy
+Time: 253: Elf Tom:     Placed toy bracelet, boy
+Time: 254: Elf Tom:     Selected toy train, girl
+Time: 255: Elf Tom:     Wrapped toy train, girl
+Time: 255: Elf Tom:     Placed toy train, girl
+Time: 257: Elf Tom:     Selected toy train, girl
+Time: 257: Elf Tom:     Wrapped toy train, girl
+Time: 257: Elf Tom:     Placed toy train, girl
+Time: 258: Elf Tom:     Selected toy train, girl
+Time: 259: Elf Tom:     Wrapped toy train, girl
+Time: 259: Elf Tom:     Placed toy train, girl
+Time: 260: Elf Tom:     Selected toy doll, boy
+Time: 261: Elf Tom:     Wrapped toy doll, boy
+Time: 262: Elf Tom:     Placed toy doll, boy
+Time: 263: Elf Tom:     Selected toy dinosaur, girl
+Time: 264: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 264: Elf Tom:     Placed toy dinosaur, girl
+Time: 265: Elf Tom:     Selected toy bracelet, girl
+Time: 265: Elf Tom:     Wrapped toy bracelet, girl
+Time: 266: Elf Tom:     Placed toy bracelet, girl
+Time: 267: Elf Tom:     Selected toy doll, boy
+Time: 267: Elf Tom:     Wrapped toy doll, boy
+Time: 268: Elf Tom:     Placed toy doll, boy
+Time: 268: Elf Tom:     Selected toy bracelet, girl
+Time: 269: Elf Tom:     Wrapped toy bracelet, girl
+Time: 269: Elf Tom:     Placed toy bracelet, girl
+Time: 270: Elf Tom:     Selected toy train, girl
+Time: 271: Elf Tom:     Wrapped toy train, girl
+Time: 272: Elf Tom:     Placed toy train, girl
+Time: 273: Elf Tom:     Selected toy fake tattoo, girl
+Time: 274: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 274: Elf Tom:     Placed toy fake tattoo, girl
+Time: 275: Elf Tom:     Selected toy whistle, girl
+Time: 276: Elf Tom:     Wrapped toy whistle, girl
+Time: 277: Elf Tom:     Placed toy whistle, girl
+Time: 278: Elf Tom:     Selected toy dinosaur, boy
+Time: 278: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 278: Elf Tom:     Placed toy dinosaur, boy
+Time: 279: Elf Tom:     Selected toy whistle, boy
+Time: 280: Elf Tom:     Wrapped toy whistle, boy
+Time: 281: Elf Tom:     Placed toy whistle, boy
+Time: 282: Elf Tom:     Selected toy whistle, girl
+Time: 282: Elf Tom:     Wrapped toy whistle, girl
+Time: 283: Elf Tom:     Placed toy whistle, girl
+Time: 284: Elf Tom:     Selected toy bracelet, boy
+Time: 285: Elf Tom:     Wrapped toy bracelet, boy
+Time: 285: Elf Tom:     Placed toy bracelet, boy
+Time: 286: Elf Tom:     Selected toy fake tattoo, boy
+Time: 286: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 287: Elf Tom:     Placed toy fake tattoo, boy
+Time: 288: Elf Tom:     Selected toy doll, girl
+Time: 288: Elf Tom:     Wrapped toy doll, girl
+Time: 288: Elf Tom:     Placed toy doll, girl
+Time: 290: Elf Tom:     Selected toy fake tattoo, girl
+Time: 291: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 291: Elf Tom:     Placed toy fake tattoo, girl
+Time: 292: Elf Tom:     Selected toy train, girl
+Time: 292: Elf Tom:     Wrapped toy train, girl
+Time: 293: Elf Tom:     Placed toy train, girl
+Time: 294: Elf Tom:     Selected toy train, girl
+Time: 294: Elf Tom:     Wrapped toy train, girl
+Time: 295: Elf Tom:     Placed toy train, girl
+Time: 295: Elf Tom:     Selected toy fake tattoo, boy
+Time: 295: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 295: Elf Tom:     Placed toy fake tattoo, boy
+Time: 296: Elf Tom:     Selected toy whistle, boy
+Time: 297: Elf Tom:     Wrapped toy whistle, boy
+Time: 297: Elf Tom:     Placed toy whistle, boy
+Time: 297: Elf Tom:     Selected toy dinosaur, girl
+Time: 298: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 299: Elf Tom:     Placed toy dinosaur, girl
+Time: 300: Elf Tom:     Selected toy fake tattoo, girl
+Time: 301: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 301: Elf Tom:     Placed toy fake tattoo, girl
+Time: 302: Elf Tom:     Selected toy doll, boy
+Time: 303: Elf Tom:     Wrapped toy doll, boy
+Time: 303: Elf Tom:     Placed toy doll, boy
+Time: 304: Elf Tom:     Selected toy dinosaur, boy
+Time: 304: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 305: Elf Tom:     Placed toy dinosaur, boy
+Time: 306: Elf Tom:     Selected toy doll, girl
+Time: 306: Elf Tom:     Wrapped toy doll, girl
+Time: 306: Elf Tom:     Placed toy doll, girl
+Time: 307: Elf Tom:     Selected toy whistle, boy
+Time: 307: Elf Tom:     Wrapped toy whistle, boy
+Time: 308: Elf Tom:     Placed toy whistle, boy
+Time: 308: Elf Tom:     Selected toy dinosaur, boy
+Time: 309: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 310: Elf Tom:     Placed toy dinosaur, boy
+Time: 311: Elf Tom:     Selected toy fake tattoo, boy
+Time: 311: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 312: Elf Tom:     Placed toy fake tattoo, boy
+Time: 314: Elf Tom:     Selected toy fake tattoo, girl
+Time: 314: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 314: Elf Tom:     Placed toy fake tattoo, girl
+Time: 316: Elf Tom:     Selected toy fake tattoo, boy
+Time: 316: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 317: Elf Tom:     Placed toy fake tattoo, boy
+Time: 318: Elf Tom:     Selected toy bracelet, boy
+Time: 319: Elf Tom:     Wrapped toy bracelet, boy
+Time: 319: Elf Tom:     Placed toy bracelet, boy
+Time: 321: Elf Tom:     Selected toy dinosaur, boy
+Time: 321: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 322: Elf Tom:     Placed toy dinosaur, boy
+Time: 323: Elf Tom:     Selected toy dinosaur, boy
+Time: 323: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 324: Elf Tom:     Placed toy dinosaur, boy
+Time: 324: Elf Tom:     Selected toy bracelet, boy
+Time: 324: Elf Tom:     Wrapped toy bracelet, boy
+Time: 325: Elf Tom:     Placed toy bracelet, boy
+Time: 326: Elf Tom:     Selected toy train, girl
+Time: 327: Elf Tom:     Wrapped toy train, girl
+Time: 327: Elf Tom:     Placed toy train, girl
+Time: 328: Elf Tom:     Selected toy fake tattoo, girl
+Time: 328: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 328: Elf Tom:     Placed toy fake tattoo, girl
+Time: 329: Elf Tom:     Selected toy train, girl
+Time: 330: Elf Tom:     Wrapped toy train, girl
+Time: 330: Elf Tom:     Placed toy train, girl
+Time: 331: Elf Tom:     Selected toy doll, boy
+Time: 332: Elf Tom:     Wrapped toy doll, boy
+Time: 332: Elf Tom:     Placed toy doll, boy
+Time: 333: Elf Tom:     Selected toy bracelet, boy
+Time: 334: Elf Tom:     Wrapped toy bracelet, boy
+Time: 334: Elf Tom:     Placed toy bracelet, boy
+Time: 335: Elf Tom:     Selected toy train, boy
+Time: 336: Elf Tom:     Wrapped toy train, boy
+Time: 336: Elf Tom:     Placed toy train, boy
+Time: 337: Elf Tom:     Selected toy train, girl
+Time: 338: Elf Tom:     Wrapped toy train, girl
+Time: 339: Elf Tom:     Placed toy train, girl
+Time: 339: Elf Tom:     Selected toy doll, boy
+Time: 340: Elf Tom:     Wrapped toy doll, boy
+Time: 340: Elf Tom:     Placed toy doll, boy
+Time: 341: Elf Tom:     Selected toy train, boy
+Time: 341: Elf Tom:     Wrapped toy train, boy
+Time: 341: Elf Tom:     Placed toy train, boy
+Time: 343: Elf Tom:     Selected toy fake tattoo, girl
+Time: 343: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 343: Elf Tom:     Placed toy fake tattoo, girl
+Time: 345: Elf Tom:     Selected toy train, girl
+Time: 345: Elf Tom:     Wrapped toy train, girl
+Time: 346: Elf Tom:     Placed toy train, girl
+Time: 348: Elf Tom:     Selected toy dinosaur, boy
+Time: 349: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 349: Elf Tom:     Placed toy dinosaur, boy
+Time: 351: Elf Tom:     Selected toy doll, girl
+Time: 351: Elf Tom:     Wrapped toy doll, girl
+Time: 352: Elf Tom:     Placed toy doll, girl
+Time: 353: Elf Tom:     Selected toy doll, boy
+Time: 354: Elf Tom:     Wrapped toy doll, boy
+Time: 354: Elf Tom:     Placed toy doll, boy
+Time: 355: Elf Tom:     Selected toy whistle, boy
+Time: 355: Elf Tom:     Wrapped toy whistle, boy
+Time: 355: Elf Tom:     Placed toy whistle, boy
+Time: 357: Elf Tom:     Selected toy fake tattoo, boy
+Time: 357: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 357: Elf Tom:     Placed toy fake tattoo, boy
+Time: 358: Elf Tom:     Selected toy train, boy
+Time: 359: Elf Tom:     Wrapped toy train, boy
+Time: 359: Elf Tom:     Placed toy train, boy
+Time: 361: Elf Tom:     Selected toy fake tattoo, girl
+Time: 361: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 361: Elf Tom:     Placed toy fake tattoo, girl
+Time: 362: Elf Tom:     Selected toy fake tattoo, girl
+Time: 363: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 364: Elf Tom:     Placed toy fake tattoo, girl
+Time: 365: Elf Tom:     Selected toy whistle, boy
+Time: 366: Elf Tom:     Wrapped toy whistle, boy
+Time: 367: Elf Tom:     Placed toy whistle, boy
+Time: 368: Elf Tom:     Selected toy fake tattoo, girl
+Time: 368: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 369: Elf Tom:     Placed toy fake tattoo, girl
+Time: 369: Elf Tom:     Selected toy whistle, boy
+Time: 369: Elf Tom:     Wrapped toy whistle, boy
+Time: 370: Elf Tom:     Placed toy whistle, boy
+Time: 371: Elf Tom:     Selected toy dinosaur, boy
+Time: 371: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 372: Elf Tom:     Placed toy dinosaur, boy
+Time: 374: Elf Tom:     Selected toy dinosaur, girl
+Time: 374: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 374: Elf Tom:     Placed toy dinosaur, girl
+Time: 376: Elf Tom:     Selected toy doll, boy
+Time: 377: Elf Tom:     Wrapped toy doll, boy
+Time: 377: Elf Tom:     Placed toy doll, boy
+Time: 378: Elf Tom:     Selected toy train, boy
+Time: 378: Elf Tom:     Wrapped toy train, boy
+Time: 378: Elf Tom:     Placed toy train, boy
+Time: 380: Elf Tom:     Selected toy bracelet, boy
+Time: 381: Elf Tom:     Wrapped toy bracelet, boy
+Time: 381: Elf Tom:     Placed toy bracelet, boy
+Time: 382: Elf Tom:     Selected toy dinosaur, girl
+Time: 382: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 382: Elf Tom:     Placed toy dinosaur, girl
+Time: 383: Elf Tom:     Selected toy train, girl
+Time: 384: Elf Tom:     Wrapped toy train, girl
+Time: 384: Elf Tom:     Placed toy train, girl
+Time: 386: Elf Tom:     Selected toy fake tattoo, boy
+Time: 386: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 386: Elf Tom:     Placed toy fake tattoo, boy
+Time: 386: Elf Tom:     Selected toy bracelet, boy
+Time: 387: Elf Tom:     Wrapped toy bracelet, boy
+Time: 388: Elf Tom:     Placed toy bracelet, boy
+Time: 389: Elf Tom:     Selected toy train, girl
+Time: 389: Elf Tom:     Wrapped toy train, girl
+Time: 389: Elf Tom:     Placed toy train, girl
+Time: 390: Elf Tom:     Selected toy whistle, girl
+Time: 391: Elf Tom:     Wrapped toy whistle, girl
+Time: 391: Elf Tom:     Placed toy whistle, girl
+Time: 393: Elf Tom:     Selected toy whistle, boy
+Time: 394: Elf Tom:     Wrapped toy whistle, boy
+Time: 395: Elf Tom:     Placed toy whistle, boy
+Time: 396: Elf Tom:     Selected toy train, boy
+Time: 397: Elf Tom:     Wrapped toy train, boy
+Time: 397: Elf Tom:     Placed toy train, boy
+Time: 398: Elf Tom:     Selected toy dinosaur, girl
+Time: 398: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 398: Elf Tom:     Placed toy dinosaur, girl
+Time: 400: Elf Tom:     Selected toy doll, girl
+Time: 400: Elf Tom:     Wrapped toy doll, girl
+Time: 401: Elf Tom:     Placed toy doll, girl
+Time: 402: Elf Tom:     Selected toy fake tattoo, boy
+Time: 402: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 402: Elf Tom:     Placed toy fake tattoo, boy
+Time: 404: Elf Tom:     Selected toy fake tattoo, boy
+Time: 404: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 404: Elf Tom:     Placed toy fake tattoo, boy
+Time: 406: Elf Tom:     Selected toy dinosaur, girl
+Time: 406: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 407: Elf Tom:     Placed toy dinosaur, girl
+Time: 408: Elf Tom:     Selected toy fake tattoo, boy
+Time: 409: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 410: Elf Tom:     Placed toy fake tattoo, boy
+Time: 410: Elf Tom:     Selected toy whistle, girl
+Time: 411: Elf Tom:     Wrapped toy whistle, girl
+Time: 412: Elf Tom:     Placed toy whistle, girl
+Time: 413: Elf Tom:     Selected toy doll, girl
+Time: 413: Elf Tom:     Wrapped toy doll, girl
+Time: 413: Elf Tom:     Placed toy doll, girl
+Time: 414: Elf Tom:     Selected toy train, girl
+Time: 415: Elf Tom:     Wrapped toy train, girl
+Time: 416: Elf Tom:     Placed toy train, girl
+Time: 416: Elf Tom:     Selected toy bracelet, boy
+Time: 416: Elf Tom:     Wrapped toy bracelet, boy
+Time: 417: Elf Tom:     Placed toy bracelet, boy
+Time: 418: Elf Tom:     Selected toy fake tattoo, girl
+Time: 419: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 419: Elf Tom:     Placed toy fake tattoo, girl
+Time: 421: Elf Tom:     Selected toy fake tattoo, girl
+Time: 422: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 423: Elf Tom:     Placed toy fake tattoo, girl
+Time: 423: Elf Tom:     Selected toy whistle, girl
+Time: 423: Elf Tom:     Wrapped toy whistle, girl
+Time: 424: Elf Tom:     Placed toy whistle, girl
+Time: 424: Elf Tom:     Selected toy train, girl
+Time: 425: Elf Tom:     Wrapped toy train, girl
+Time: 425: Elf Tom:     Placed toy train, girl
+Time: 427: Elf Tom:     Selected toy fake tattoo, girl
+Time: 427: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 427: Elf Tom:     Placed toy fake tattoo, girl
+Time: 428: Elf Tom:     Selected toy doll, boy
+Time: 428: Elf Tom:     Wrapped toy doll, boy
+Time: 429: Elf Tom:     Placed toy doll, boy
+Time: 430: Elf Tom:     Selected toy dinosaur, boy
+Time: 431: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 431: Elf Tom:     Placed toy dinosaur, boy
+Time: 432: Elf Tom:     Selected toy train, girl
+Time: 432: Elf Tom:     Wrapped toy train, girl
+Time: 432: Elf Tom:     Placed toy train, girl
+Time: 433: Elf Tom:     Selected toy doll, girl
+Time: 433: Elf Tom:     Wrapped toy doll, girl
+Time: 434: Elf Tom:     Placed toy doll, girl
+Time: 434: Elf Tom:     Selected toy whistle, girl
+Time: 435: Elf Tom:     Wrapped toy whistle, girl
+Time: 435: Elf Tom:     Placed toy whistle, girl
+Time: 436: Elf Tom:     Selected toy bracelet, girl
+Time: 437: Elf Tom:     Wrapped toy bracelet, girl
+Time: 437: Elf Tom:     Placed toy bracelet, girl
+Time: 439: Elf Tom:     Selected toy train, boy
+Time: 439: Elf Tom:     Wrapped toy train, boy
+Time: 440: Elf Tom:     Placed toy train, boy
+Time: 440: Elf Tom:     Selected toy fake tattoo, girl
+Time: 441: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 442: Elf Tom:     Placed toy fake tattoo, girl
+Time: 443: Elf Tom:     Selected toy whistle, boy
+Time: 443: Elf Tom:     Wrapped toy whistle, boy
+Time: 444: Elf Tom:     Placed toy whistle, boy
+Time: 445: Elf Tom:     Selected toy dinosaur, girl
+Time: 446: Elf Tom:     Wrapped toy dinosaur, girl
+Time: 447: Elf Tom:     Placed toy dinosaur, girl
+Time: 447: Elf Tom:     Selected toy train, boy
+Time: 448: Elf Tom:     Wrapped toy train, boy
+Time: 449: Elf Tom:     Placed toy train, boy
+Time: 450: Elf Tom:     Selected toy doll, boy
+Time: 450: Elf Tom:     Wrapped toy doll, boy
+Time: 451: Elf Tom:     Placed toy doll, boy
+Time: 451: Elf Tom:     Selected toy dinosaur, boy
+Time: 452: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 452: Elf Tom:     Placed toy dinosaur, boy
+Time: 452: Elf Tom:     Selected toy doll, boy
+Time: 453: Elf Tom:     Wrapped toy doll, boy
+Time: 453: Elf Tom:     Placed toy doll, boy
+Time: 454: Elf Tom:     Selected toy whistle, girl
+Time: 454: Elf Tom:     Wrapped toy whistle, girl
+Time: 455: Elf Tom:     Placed toy whistle, girl
+Time: 456: Elf Tom:     Selected toy dinosaur, boy
+Time: 456: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 456: Elf Tom:     Placed toy dinosaur, boy
+Time: 458: Elf Tom:     Selected toy train, girl
+Time: 459: Elf Tom:     Wrapped toy train, girl
+Time: 459: Elf Tom:     Placed toy train, girl
+Time: 460: Elf Tom:     Selected toy dinosaur, boy
+Time: 460: Elf Tom:     Wrapped toy dinosaur, boy
+Time: 461: Elf Tom:     Placed toy dinosaur, boy
+Time: 462: Elf Tom:     Selected toy bracelet, girl
+Time: 462: Elf Tom:     Wrapped toy bracelet, girl
+Time: 462: Elf Tom:     Placed toy bracelet, girl
+Time: 463: Elf Tom:     Selected toy train, boy
+Time: 463: Elf Tom:     Wrapped toy train, boy
+Time: 463: Elf Tom:     Placed toy train, boy
+Time: 464: Elf Tom:     Selected toy bracelet, boy
+Time: 465: Elf Tom:     Wrapped toy bracelet, boy
+Time: 465: Elf Tom:     Placed toy bracelet, boy
+Time: 466: Elf Tom:     Selected toy whistle, girl
+Time: 467: Elf Tom:     Wrapped toy whistle, girl
+Time: 467: Elf Tom:     Placed toy whistle, girl
+Time: 468: Elf Tom:     Selected toy whistle, girl
+Time: 469: Elf Tom:     Wrapped toy whistle, girl
+Time: 470: Elf Tom:     Placed toy whistle, girl
+Time: 470: Elf Tom:     Selected toy bracelet, girl
+Time: 471: Elf Tom:     Wrapped toy bracelet, girl
+Time: 472: Elf Tom:     Placed toy bracelet, girl
+Time: 473: Elf Tom:     Selected toy fake tattoo, girl
+Time: 474: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 474: Elf Tom:     Placed toy fake tattoo, girl
+Time: 475: Elf Tom:     Selected toy fake tattoo, girl
+Time: 475: Elf Tom:     Wrapped toy fake tattoo, girl
+Time: 476: Elf Tom:     Placed toy fake tattoo, girl
+Time: 477: Elf Tom:     Selected toy fake tattoo, boy
+Time: 478: Elf Tom:     Wrapped toy fake tattoo, boy
+Time: 478: Elf Tom:     Placed toy fake tattoo, boy
+Time: 479: Elf Tom:     Selected toy doll, boy
+Time: 480: Elf Tom:     Wrapped toy doll, boy
+Time: 480: Elf Tom:     Placed toy doll, boy

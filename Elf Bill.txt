@@ -1,0 +1,705 @@
+Time: 1: Elf Bill:     Selected toy doll, girl
+Time: 2: Elf Bill:     Wrapped toy doll, girl
+Time: 2: Elf Bill:     Placed toy doll, girl
+Time: 4: Elf Bill:     Selected toy whistle, girl
+Time: 5: Elf Bill:     Wrapped toy whistle, girl
+Time: 6: Elf Bill:     Placed toy whistle, girl
+Time: 7: Elf Bill:     Selected toy doll, girl
+Time: 7: Elf Bill:     Wrapped toy doll, girl
+Time: 8: Elf Bill:     Placed toy doll, girl
+Time: 9: Elf Bill:     Selected toy train, girl
+Time: 10: Elf Bill:     Wrapped toy train, girl
+Time: 10: Elf Bill:     Placed toy train, girl
+Time: 12: Elf Bill:     Selected toy whistle, boy
+Time: 12: Elf Bill:     Wrapped toy whistle, boy
+Time: 13: Elf Bill:     Placed toy whistle, boy
+Time: 14: Elf Bill:     Selected toy dinosaur, girl
+Time: 14: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 14: Elf Bill:     Placed toy dinosaur, girl
+Time: 16: Elf Bill:     Selected toy whistle, boy
+Time: 17: Elf Bill:     Wrapped toy whistle, boy
+Time: 17: Elf Bill:     Placed toy whistle, boy
+Time: 17: Elf Bill:     Selected toy doll, girl
+Time: 18: Elf Bill:     Wrapped toy doll, girl
+Time: 18: Elf Bill:     Placed toy doll, girl
+Time: 19: Elf Bill:     Selected toy fake tattoo, boy
+Time: 20: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 21: Elf Bill:     Placed toy fake tattoo, boy
+Time: 21: Elf Bill:     Selected toy whistle, boy
+Time: 22: Elf Bill:     Wrapped toy whistle, boy
+Time: 23: Elf Bill:     Placed toy whistle, boy
+Time: 24: Elf Bill:     Selected toy doll, boy
+Time: 25: Elf Bill:     Wrapped toy doll, boy
+Time: 25: Elf Bill:     Placed toy doll, boy
+Time: 27: Elf Bill:     Selected toy whistle, girl
+Time: 28: Elf Bill:     Wrapped toy whistle, girl
+Time: 29: Elf Bill:     Placed toy whistle, girl
+Time: 30: Elf Bill:     Selected toy train, boy
+Time: 30: Elf Bill:     Wrapped toy train, boy
+Time: 30: Elf Bill:     Placed toy train, boy
+Time: 32: Elf Bill:     Selected toy train, girl
+Time: 33: Elf Bill:     Wrapped toy train, girl
+Time: 33: Elf Bill:     Placed toy train, girl
+Time: 34: Elf Bill:     Selected toy dinosaur, boy
+Time: 34: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 35: Elf Bill:     Placed toy dinosaur, boy
+Time: 35: Elf Bill:     Selected toy doll, girl
+Time: 36: Elf Bill:     Wrapped toy doll, girl
+Time: 36: Elf Bill:     Placed toy doll, girl
+Time: 37: Elf Bill:     Selected toy whistle, boy
+Time: 38: Elf Bill:     Wrapped toy whistle, boy
+Time: 38: Elf Bill:     Placed toy whistle, boy
+Time: 39: Elf Bill:     Selected toy doll, girl
+Time: 40: Elf Bill:     Wrapped toy doll, girl
+Time: 41: Elf Bill:     Placed toy doll, girl
+Time: 42: Elf Bill:     Selected toy doll, girl
+Time: 43: Elf Bill:     Wrapped toy doll, girl
+Time: 44: Elf Bill:     Placed toy doll, girl
+Time: 44: Elf Bill:     Selected toy dinosaur, boy
+Time: 45: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 46: Elf Bill:     Placed toy dinosaur, boy
+Time: 47: Elf Bill:     Selected toy bracelet, girl
+Time: 47: Elf Bill:     Wrapped toy bracelet, girl
+Time: 48: Elf Bill:     Placed toy bracelet, girl
+Time: 49: Elf Bill:     Selected toy train, boy
+Time: 50: Elf Bill:     Wrapped toy train, boy
+Time: 51: Elf Bill:     Placed toy train, boy
+Time: 52: Elf Bill:     Selected toy bracelet, girl
+Time: 53: Elf Bill:     Wrapped toy bracelet, girl
+Time: 53: Elf Bill:     Placed toy bracelet, girl
+Time: 55: Elf Bill:     Selected toy bracelet, boy
+Time: 55: Elf Bill:     Wrapped toy bracelet, boy
+Time: 55: Elf Bill:     Placed toy bracelet, boy
+Time: 57: Elf Bill:     Selected toy fake tattoo, girl
+Time: 57: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 58: Elf Bill:     Placed toy fake tattoo, girl
+Time: 59: Elf Bill:     Selected toy doll, boy
+Time: 59: Elf Bill:     Wrapped toy doll, boy
+Time: 60: Elf Bill:     Placed toy doll, boy
+Time: 61: Elf Bill:     Selected toy dinosaur, girl
+Time: 61: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 61: Elf Bill:     Placed toy dinosaur, girl
+Time: 62: Elf Bill:     Selected toy whistle, boy
+Time: 63: Elf Bill:     Wrapped toy whistle, boy
+Time: 63: Elf Bill:     Placed toy whistle, boy
+Time: 65: Elf Bill:     Selected toy train, girl
+Time: 66: Elf Bill:     Wrapped toy train, girl
+Time: 66: Elf Bill:     Placed toy train, girl
+Time: 67: Elf Bill:     Selected toy whistle, girl
+Time: 67: Elf Bill:     Wrapped toy whistle, girl
+Time: 67: Elf Bill:     Placed toy whistle, girl
+Time: 68: Elf Bill:     Selected toy bracelet, girl
+Time: 68: Elf Bill:     Wrapped toy bracelet, girl
+Time: 69: Elf Bill:     Placed toy bracelet, girl
+Time: 69: Elf Bill:     Selected toy fake tattoo, boy
+Time: 69: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 70: Elf Bill:     Placed toy fake tattoo, boy
+Time: 71: Elf Bill:     Selected toy dinosaur, boy
+Time: 72: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 73: Elf Bill:     Placed toy dinosaur, boy
+Time: 73: Elf Bill:     Selected toy train, girl
+Time: 74: Elf Bill:     Wrapped toy train, girl
+Time: 75: Elf Bill:     Placed toy train, girl
+Time: 75: Elf Bill:     Selected toy dinosaur, boy
+Time: 75: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 76: Elf Bill:     Placed toy dinosaur, boy
+Time: 77: Elf Bill:     Selected toy fake tattoo, girl
+Time: 77: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 78: Elf Bill:     Placed toy fake tattoo, girl
+Time: 79: Elf Bill:     Selected toy dinosaur, girl
+Time: 80: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 80: Elf Bill:     Placed toy dinosaur, girl
+Time: 82: Elf Bill:     Selected toy doll, boy
+Time: 82: Elf Bill:     Wrapped toy doll, boy
+Time: 82: Elf Bill:     Placed toy doll, boy
+Time: 84: Elf Bill:     Selected toy fake tattoo, girl
+Time: 85: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 85: Elf Bill:     Placed toy fake tattoo, girl
+Time: 86: Elf Bill:     Selected toy train, boy
+Time: 86: Elf Bill:     Wrapped toy train, boy
+Time: 87: Elf Bill:     Placed toy train, boy
+Time: 89: Elf Bill:     Selected toy dinosaur, boy
+Time: 89: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 90: Elf Bill:     Placed toy dinosaur, boy
+Time: 91: Elf Bill:     Selected toy train, boy
+Time: 92: Elf Bill:     Wrapped toy train, boy
+Time: 93: Elf Bill:     Placed toy train, boy
+Time: 93: Elf Bill:     Selected toy train, girl
+Time: 94: Elf Bill:     Wrapped toy train, girl
+Time: 95: Elf Bill:     Placed toy train, girl
+Time: 95: Elf Bill:     Selected toy fake tattoo, girl
+Time: 95: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 96: Elf Bill:     Placed toy fake tattoo, girl
+Time: 97: Elf Bill:     Selected toy train, girl
+Time: 97: Elf Bill:     Wrapped toy train, girl
+Time: 97: Elf Bill:     Placed toy train, girl
+Time: 99: Elf Bill:     Selected toy doll, girl
+Time: 99: Elf Bill:     Wrapped toy doll, girl
+Time: 99: Elf Bill:     Placed toy doll, girl
+Time: 100: Elf Bill:     Selected toy train, boy
+Time: 100: Elf Bill:     Wrapped toy train, boy
+Time: 101: Elf Bill:     Placed toy train, boy
+Time: 102: Elf Bill:     Selected toy whistle, girl
+Time: 103: Elf Bill:     Wrapped toy whistle, girl
+Time: 103: Elf Bill:     Placed toy whistle, girl
+Time: 104: Elf Bill:     Selected toy dinosaur, boy
+Time: 104: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 104: Elf Bill:     Placed toy dinosaur, boy
+Time: 105: Elf Bill:     Selected toy train, girl
+Time: 106: Elf Bill:     Wrapped toy train, girl
+Time: 107: Elf Bill:     Placed toy train, girl
+Time: 108: Elf Bill:     Selected toy dinosaur, girl
+Time: 108: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 109: Elf Bill:     Placed toy dinosaur, girl
+Time: 110: Elf Bill:     Selected toy train, boy
+Time: 110: Elf Bill:     Wrapped toy train, boy
+Time: 111: Elf Bill:     Placed toy train, boy
+Time: 112: Elf Bill:     Selected toy train, girl
+Time: 112: Elf Bill:     Wrapped toy train, girl
+Time: 113: Elf Bill:     Placed toy train, girl
+Time: 113: Elf Bill:     Selected toy dinosaur, boy
+Time: 113: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 113: Elf Bill:     Placed toy dinosaur, boy
+Time: 115: Elf Bill:     Selected toy fake tattoo, boy
+Time: 115: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 116: Elf Bill:     Placed toy fake tattoo, boy
+Time: 117: Elf Bill:     Selected toy dinosaur, boy
+Time: 117: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 118: Elf Bill:     Placed toy dinosaur, boy
+Time: 119: Elf Bill:     Selected toy doll, boy
+Time: 119: Elf Bill:     Wrapped toy doll, boy
+Time: 119: Elf Bill:     Placed toy doll, boy
+Time: 120: Elf Bill:     Selected toy dinosaur, girl
+Time: 121: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 122: Elf Bill:     Placed toy dinosaur, girl
+Time: 123: Elf Bill:     Selected toy bracelet, girl
+Time: 124: Elf Bill:     Wrapped toy bracelet, girl
+Time: 125: Elf Bill:     Placed toy bracelet, girl
+Time: 126: Elf Bill:     Selected toy whistle, girl
+Time: 126: Elf Bill:     Wrapped toy whistle, girl
+Time: 126: Elf Bill:     Placed toy whistle, girl
+Time: 127: Elf Bill:     Selected toy train, girl
+Time: 127: Elf Bill:     Wrapped toy train, girl
+Time: 128: Elf Bill:     Placed toy train, girl
+Time: 129: Elf Bill:     Selected toy whistle, boy
+Time: 130: Elf Bill:     Wrapped toy whistle, boy
+Time: 130: Elf Bill:     Placed toy whistle, boy
+Time: 131: Elf Bill:     Selected toy fake tattoo, girl
+Time: 131: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 132: Elf Bill:     Placed toy fake tattoo, girl
+Time: 133: Elf Bill:     Selected toy fake tattoo, boy
+Time: 133: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 134: Elf Bill:     Placed toy fake tattoo, boy
+Time: 135: Elf Bill:     Selected toy dinosaur, girl
+Time: 136: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 136: Elf Bill:     Placed toy dinosaur, girl
+Time: 137: Elf Bill:     Selected toy dinosaur, girl
+Time: 137: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 138: Elf Bill:     Placed toy dinosaur, girl
+Time: 139: Elf Bill:     Selected toy bracelet, girl
+Time: 140: Elf Bill:     Wrapped toy bracelet, girl
+Time: 140: Elf Bill:     Placed toy bracelet, girl
+Time: 142: Elf Bill:     Selected toy bracelet, boy
+Time: 143: Elf Bill:     Wrapped toy bracelet, boy
+Time: 143: Elf Bill:     Placed toy bracelet, boy
+Time: 145: Elf Bill:     Selected toy whistle, boy
+Time: 146: Elf Bill:     Wrapped toy whistle, boy
+Time: 146: Elf Bill:     Placed toy whistle, boy
+Time: 147: Elf Bill:     Selected toy fake tattoo, boy
+Time: 148: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 149: Elf Bill:     Placed toy fake tattoo, boy
+Time: 150: Elf Bill:     Selected toy dinosaur, girl
+Time: 151: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 151: Elf Bill:     Placed toy dinosaur, girl
+Time: 153: Elf Bill:     Selected toy doll, boy
+Time: 154: Elf Bill:     Wrapped toy doll, boy
+Time: 154: Elf Bill:     Placed toy doll, boy
+Time: 156: Elf Bill:     Selected toy whistle, boy
+Time: 156: Elf Bill:     Wrapped toy whistle, boy
+Time: 157: Elf Bill:     Placed toy whistle, boy
+Time: 159: Elf Bill:     Selected toy fake tattoo, girl
+Time: 160: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 160: Elf Bill:     Placed toy fake tattoo, girl
+Time: 161: Elf Bill:     Selected toy fake tattoo, girl
+Time: 162: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 162: Elf Bill:     Placed toy fake tattoo, girl
+Time: 164: Elf Bill:     Selected toy train, girl
+Time: 164: Elf Bill:     Wrapped toy train, girl
+Time: 164: Elf Bill:     Placed toy train, girl
+Time: 165: Elf Bill:     Selected toy bracelet, boy
+Time: 165: Elf Bill:     Wrapped toy bracelet, boy
+Time: 165: Elf Bill:     Placed toy bracelet, boy
+Time: 166: Elf Bill:     Selected toy bracelet, girl
+Time: 167: Elf Bill:     Wrapped toy bracelet, girl
+Time: 167: Elf Bill:     Placed toy bracelet, girl
+Time: 168: Elf Bill:     Selected toy fake tattoo, boy
+Time: 168: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 168: Elf Bill:     Placed toy fake tattoo, boy
+Time: 169: Elf Bill:     Selected toy dinosaur, boy
+Time: 170: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 170: Elf Bill:     Placed toy dinosaur, boy
+Time: 171: Elf Bill:     Selected toy whistle, girl
+Time: 172: Elf Bill:     Wrapped toy whistle, girl
+Time: 172: Elf Bill:     Placed toy whistle, girl
+Time: 174: Elf Bill:     Selected toy whistle, girl
+Time: 175: Elf Bill:     Wrapped toy whistle, girl
+Time: 175: Elf Bill:     Placed toy whistle, girl
+Time: 176: Elf Bill:     Selected toy train, girl
+Time: 177: Elf Bill:     Wrapped toy train, girl
+Time: 177: Elf Bill:     Placed toy train, girl
+Time: 178: Elf Bill:     Selected toy dinosaur, boy
+Time: 179: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 180: Elf Bill:     Placed toy dinosaur, boy
+Time: 181: Elf Bill:     Selected toy fake tattoo, boy
+Time: 181: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 182: Elf Bill:     Placed toy fake tattoo, boy
+Time: 182: Elf Bill:     Selected toy fake tattoo, boy
+Time: 183: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 184: Elf Bill:     Placed toy fake tattoo, boy
+Time: 184: Elf Bill:     Selected toy dinosaur, boy
+Time: 185: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 186: Elf Bill:     Placed toy dinosaur, boy
+Time: 186: Elf Bill:     Selected toy fake tattoo, boy
+Time: 186: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 187: Elf Bill:     Placed toy fake tattoo, boy
+Time: 188: Elf Bill:     Selected toy fake tattoo, girl
+Time: 188: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 189: Elf Bill:     Placed toy fake tattoo, girl
+Time: 189: Elf Bill:     Selected toy dinosaur, girl
+Time: 189: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 190: Elf Bill:     Placed toy dinosaur, girl
+Time: 191: Elf Bill:     Selected toy train, girl
+Time: 191: Elf Bill:     Wrapped toy train, girl
+Time: 192: Elf Bill:     Placed toy train, girl
+Time: 193: Elf Bill:     Selected toy bracelet, boy
+Time: 193: Elf Bill:     Wrapped toy bracelet, boy
+Time: 193: Elf Bill:     Placed toy bracelet, boy
+Time: 193: Elf Bill:     Selected toy bracelet, boy
+Time: 194: Elf Bill:     Wrapped toy bracelet, boy
+Time: 195: Elf Bill:     Placed toy bracelet, boy
+Time: 196: Elf Bill:     Selected toy train, girl
+Time: 196: Elf Bill:     Wrapped toy train, girl
+Time: 196: Elf Bill:     Placed toy train, girl
+Time: 197: Elf Bill:     Selected toy bracelet, boy
+Time: 198: Elf Bill:     Wrapped toy bracelet, boy
+Time: 199: Elf Bill:     Placed toy bracelet, boy
+Time: 200: Elf Bill:     Selected toy whistle, girl
+Time: 200: Elf Bill:     Wrapped toy whistle, girl
+Time: 200: Elf Bill:     Placed toy whistle, girl
+Time: 201: Elf Bill:     Selected toy whistle, girl
+Time: 202: Elf Bill:     Wrapped toy whistle, girl
+Time: 202: Elf Bill:     Placed toy whistle, girl
+Time: 203: Elf Bill:     Selected toy doll, boy
+Time: 204: Elf Bill:     Wrapped toy doll, boy
+Time: 204: Elf Bill:     Placed toy doll, boy
+Time: 205: Elf Bill:     Selected toy doll, girl
+Time: 206: Elf Bill:     Wrapped toy doll, girl
+Time: 206: Elf Bill:     Placed toy doll, girl
+Time: 207: Elf Bill:     Selected toy bracelet, boy
+Time: 208: Elf Bill:     Wrapped toy bracelet, boy
+Time: 208: Elf Bill:     Placed toy bracelet, boy
+Time: 209: Elf Bill:     Selected toy doll, girl
+Time: 210: Elf Bill:     Wrapped toy doll, girl
+Time: 210: Elf Bill:     Placed toy doll, girl
+Time: 211: Elf Bill:     Selected toy train, girl
+Time: 211: Elf Bill:     Wrapped toy train, girl
+Time: 212: Elf Bill:     Placed toy train, girl
+Time: 213: Elf Bill:     Selected toy dinosaur, girl
+Time: 213: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 214: Elf Bill:     Placed toy dinosaur, girl
+Time: 215: Elf Bill:     Selected toy fake tattoo, girl
+Time: 215: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 216: Elf Bill:     Placed toy fake tattoo, girl
+Time: 218: Elf Bill:     Selected toy bracelet, boy
+Time: 219: Elf Bill:     Wrapped toy bracelet, boy
+Time: 219: Elf Bill:     Placed toy bracelet, boy
+Time: 220: Elf Bill:     Selected toy doll, girl
+Time: 220: Elf Bill:     Wrapped toy doll, girl
+Time: 221: Elf Bill:     Placed toy doll, girl
+Time: 222: Elf Bill:     Selected toy bracelet, boy
+Time: 223: Elf Bill:     Wrapped toy bracelet, boy
+Time: 223: Elf Bill:     Placed toy bracelet, boy
+Time: 224: Elf Bill:     Selected toy bracelet, girl
+Time: 224: Elf Bill:     Wrapped toy bracelet, girl
+Time: 225: Elf Bill:     Placed toy bracelet, girl
+Time: 226: Elf Bill:     Selected toy train, boy
+Time: 227: Elf Bill:     Wrapped toy train, boy
+Time: 228: Elf Bill:     Placed toy train, boy
+Time: 229: Elf Bill:     Selected toy doll, boy
+Time: 229: Elf Bill:     Wrapped toy doll, boy
+Time: 229: Elf Bill:     Placed toy doll, boy
+Time: 230: Elf Bill:     Selected toy fake tattoo, boy
+Time: 230: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 230: Elf Bill:     Placed toy fake tattoo, boy
+Time: 231: Elf Bill:     Selected toy train, girl
+Time: 231: Elf Bill:     Wrapped toy train, girl
+Time: 231: Elf Bill:     Placed toy train, girl
+Time: 233: Elf Bill:     Selected toy dinosaur, girl
+Time: 234: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 235: Elf Bill:     Placed toy dinosaur, girl
+Time: 236: Elf Bill:     Selected toy dinosaur, boy
+Time: 236: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 237: Elf Bill:     Placed toy dinosaur, boy
+Time: 238: Elf Bill:     Selected toy bracelet, boy
+Time: 239: Elf Bill:     Wrapped toy bracelet, boy
+Time: 240: Elf Bill:     Placed toy bracelet, boy
+Time: 240: Elf Bill:     Selected toy doll, girl
+Time: 240: Elf Bill:     Wrapped toy doll, girl
+Time: 241: Elf Bill:     Placed toy doll, girl
+Time: 242: Elf Bill:     Selected toy fake tattoo, girl
+Time: 243: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 243: Elf Bill:     Placed toy fake tattoo, girl
+Time: 244: Elf Bill:     Selected toy doll, boy
+Time: 245: Elf Bill:     Wrapped toy doll, boy
+Time: 245: Elf Bill:     Placed toy doll, boy
+Time: 246: Elf Bill:     Selected toy fake tattoo, boy
+Time: 247: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 247: Elf Bill:     Placed toy fake tattoo, boy
+Time: 248: Elf Bill:     Selected toy doll, girl
+Time: 248: Elf Bill:     Wrapped toy doll, girl
+Time: 248: Elf Bill:     Placed toy doll, girl
+Time: 250: Elf Bill:     Selected toy doll, girl
+Time: 250: Elf Bill:     Wrapped toy doll, girl
+Time: 251: Elf Bill:     Placed toy doll, girl
+Time: 251: Elf Bill:     Selected toy fake tattoo, boy
+Time: 252: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 252: Elf Bill:     Placed toy fake tattoo, boy
+Time: 254: Elf Bill:     Selected toy doll, girl
+Time: 255: Elf Bill:     Wrapped toy doll, girl
+Time: 255: Elf Bill:     Placed toy doll, girl
+Time: 256: Elf Bill:     Selected toy train, girl
+Time: 257: Elf Bill:     Wrapped toy train, girl
+Time: 257: Elf Bill:     Placed toy train, girl
+Time: 258: Elf Bill:     Selected toy fake tattoo, girl
+Time: 258: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 259: Elf Bill:     Placed toy fake tattoo, girl
+Time: 260: Elf Bill:     Selected toy doll, girl
+Time: 260: Elf Bill:     Wrapped toy doll, girl
+Time: 261: Elf Bill:     Placed toy doll, girl
+Time: 262: Elf Bill:     Selected toy whistle, boy
+Time: 263: Elf Bill:     Wrapped toy whistle, boy
+Time: 263: Elf Bill:     Placed toy whistle, boy
+Time: 264: Elf Bill:     Selected toy fake tattoo, girl
+Time: 265: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 266: Elf Bill:     Placed toy fake tattoo, girl
+Time: 267: Elf Bill:     Selected toy train, girl
+Time: 267: Elf Bill:     Wrapped toy train, girl
+Time: 268: Elf Bill:     Placed toy train, girl
+Time: 269: Elf Bill:     Selected toy dinosaur, boy
+Time: 270: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 270: Elf Bill:     Placed toy dinosaur, boy
+Time: 272: Elf Bill:     Selected toy train, girl
+Time: 273: Elf Bill:     Wrapped toy train, girl
+Time: 274: Elf Bill:     Placed toy train, girl
+Time: 275: Elf Bill:     Selected toy fake tattoo, boy
+Time: 276: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 277: Elf Bill:     Placed toy fake tattoo, boy
+Time: 277: Elf Bill:     Selected toy whistle, boy
+Time: 278: Elf Bill:     Wrapped toy whistle, boy
+Time: 278: Elf Bill:     Placed toy whistle, boy
+Time: 280: Elf Bill:     Selected toy fake tattoo, girl
+Time: 280: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 281: Elf Bill:     Placed toy fake tattoo, girl
+Time: 282: Elf Bill:     Selected toy doll, boy
+Time: 282: Elf Bill:     Wrapped toy doll, boy
+Time: 282: Elf Bill:     Placed toy doll, boy
+Time: 283: Elf Bill:     Selected toy doll, boy
+Time: 283: Elf Bill:     Wrapped toy doll, boy
+Time: 284: Elf Bill:     Placed toy doll, boy
+Time: 285: Elf Bill:     Selected toy fake tattoo, girl
+Time: 285: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 286: Elf Bill:     Placed toy fake tattoo, girl
+Time: 286: Elf Bill:     Selected toy dinosaur, girl
+Time: 287: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 287: Elf Bill:     Placed toy dinosaur, girl
+Time: 287: Elf Bill:     Selected toy doll, girl
+Time: 288: Elf Bill:     Wrapped toy doll, girl
+Time: 288: Elf Bill:     Placed toy doll, girl
+Time: 289: Elf Bill:     Selected toy whistle, girl
+Time: 289: Elf Bill:     Wrapped toy whistle, girl
+Time: 290: Elf Bill:     Placed toy whistle, girl
+Time: 291: Elf Bill:     Selected toy whistle, boy
+Time: 291: Elf Bill:     Wrapped toy whistle, boy
+Time: 292: Elf Bill:     Placed toy whistle, boy
+Time: 293: Elf Bill:     Selected toy train, girl
+Time: 294: Elf Bill:     Wrapped toy train, girl
+Time: 294: Elf Bill:     Placed toy train, girl
+Time: 294: Elf Bill:     Selected toy doll, girl
+Time: 295: Elf Bill:     Wrapped toy doll, girl
+Time: 296: Elf Bill:     Placed toy doll, girl
+Time: 297: Elf Bill:     Selected toy bracelet, girl
+Time: 297: Elf Bill:     Wrapped toy bracelet, girl
+Time: 298: Elf Bill:     Placed toy bracelet, girl
+Time: 299: Elf Bill:     Selected toy train, boy
+Time: 299: Elf Bill:     Wrapped toy train, boy
+Time: 300: Elf Bill:     Placed toy train, boy
+Time: 301: Elf Bill:     Selected toy dinosaur, girl
+Time: 301: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 302: Elf Bill:     Placed toy dinosaur, girl
+Time: 304: Elf Bill:     Selected toy doll, girl
+Time: 304: Elf Bill:     Wrapped toy doll, girl
+Time: 304: Elf Bill:     Placed toy doll, girl
+Time: 306: Elf Bill:     Selected toy fake tattoo, boy
+Time: 307: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 308: Elf Bill:     Placed toy fake tattoo, boy
+Time: 309: Elf Bill:     Selected toy doll, girl
+Time: 309: Elf Bill:     Wrapped toy doll, girl
+Time: 309: Elf Bill:     Placed toy doll, girl
+Time: 311: Elf Bill:     Selected toy doll, boy
+Time: 311: Elf Bill:     Wrapped toy doll, boy
+Time: 312: Elf Bill:     Placed toy doll, boy
+Time: 312: Elf Bill:     Selected toy whistle, girl
+Time: 313: Elf Bill:     Wrapped toy whistle, girl
+Time: 313: Elf Bill:     Placed toy whistle, girl
+Time: 313: Elf Bill:     Selected toy fake tattoo, boy
+Time: 314: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 315: Elf Bill:     Placed toy fake tattoo, boy
+Time: 315: Elf Bill:     Selected toy whistle, girl
+Time: 316: Elf Bill:     Wrapped toy whistle, girl
+Time: 316: Elf Bill:     Placed toy whistle, girl
+Time: 317: Elf Bill:     Selected toy whistle, boy
+Time: 318: Elf Bill:     Wrapped toy whistle, boy
+Time: 318: Elf Bill:     Placed toy whistle, boy
+Time: 320: Elf Bill:     Selected toy fake tattoo, boy
+Time: 320: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 320: Elf Bill:     Placed toy fake tattoo, boy
+Time: 321: Elf Bill:     Selected toy whistle, girl
+Time: 322: Elf Bill:     Wrapped toy whistle, girl
+Time: 322: Elf Bill:     Placed toy whistle, girl
+Time: 323: Elf Bill:     Selected toy fake tattoo, girl
+Time: 324: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 325: Elf Bill:     Placed toy fake tattoo, girl
+Time: 325: Elf Bill:     Selected toy bracelet, girl
+Time: 326: Elf Bill:     Wrapped toy bracelet, girl
+Time: 326: Elf Bill:     Placed toy bracelet, girl
+Time: 328: Elf Bill:     Selected toy whistle, girl
+Time: 328: Elf Bill:     Wrapped toy whistle, girl
+Time: 329: Elf Bill:     Placed toy whistle, girl
+Time: 330: Elf Bill:     Selected toy train, boy
+Time: 330: Elf Bill:     Wrapped toy train, boy
+Time: 330: Elf Bill:     Placed toy train, boy
+Time: 331: Elf Bill:     Selected toy bracelet, boy
+Time: 331: Elf Bill:     Wrapped toy bracelet, boy
+Time: 332: Elf Bill:     Placed toy bracelet, boy
+Time: 334: Elf Bill:     Selected toy doll, girl
+Time: 334: Elf Bill:     Wrapped toy doll, girl
+Time: 334: Elf Bill:     Placed toy doll, girl
+Time: 335: Elf Bill:     Selected toy whistle, girl
+Time: 336: Elf Bill:     Wrapped toy whistle, girl
+Time: 337: Elf Bill:     Placed toy whistle, girl
+Time: 338: Elf Bill:     Selected toy bracelet, boy
+Time: 338: Elf Bill:     Wrapped toy bracelet, boy
+Time: 338: Elf Bill:     Placed toy bracelet, boy
+Time: 339: Elf Bill:     Selected toy whistle, boy
+Time: 339: Elf Bill:     Wrapped toy whistle, boy
+Time: 339: Elf Bill:     Placed toy whistle, boy
+Time: 340: Elf Bill:     Selected toy whistle, boy
+Time: 341: Elf Bill:     Wrapped toy whistle, boy
+Time: 342: Elf Bill:     Placed toy whistle, boy
+Time: 344: Elf Bill:     Selected toy fake tattoo, girl
+Time: 345: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 345: Elf Bill:     Placed toy fake tattoo, girl
+Time: 346: Elf Bill:     Selected toy whistle, boy
+Time: 347: Elf Bill:     Wrapped toy whistle, boy
+Time: 347: Elf Bill:     Placed toy whistle, boy
+Time: 348: Elf Bill:     Selected toy bracelet, boy
+Time: 348: Elf Bill:     Wrapped toy bracelet, boy
+Time: 349: Elf Bill:     Placed toy bracelet, boy
+Time: 350: Elf Bill:     Selected toy train, boy
+Time: 351: Elf Bill:     Wrapped toy train, boy
+Time: 352: Elf Bill:     Placed toy train, boy
+Time: 353: Elf Bill:     Selected toy doll, girl
+Time: 354: Elf Bill:     Wrapped toy doll, girl
+Time: 354: Elf Bill:     Placed toy doll, girl
+Time: 355: Elf Bill:     Selected toy bracelet, boy
+Time: 356: Elf Bill:     Wrapped toy bracelet, boy
+Time: 356: Elf Bill:     Placed toy bracelet, boy
+Time: 357: Elf Bill:     Selected toy whistle, boy
+Time: 357: Elf Bill:     Wrapped toy whistle, boy
+Time: 358: Elf Bill:     Placed toy whistle, boy
+Time: 359: Elf Bill:     Selected toy train, girl
+Time: 360: Elf Bill:     Wrapped toy train, girl
+Time: 360: Elf Bill:     Placed toy train, girl
+Time: 361: Elf Bill:     Selected toy fake tattoo, girl
+Time: 362: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 362: Elf Bill:     Placed toy fake tattoo, girl
+Time: 363: Elf Bill:     Selected toy whistle, girl
+Time: 363: Elf Bill:     Wrapped toy whistle, girl
+Time: 364: Elf Bill:     Placed toy whistle, girl
+Time: 366: Elf Bill:     Selected toy doll, boy
+Time: 366: Elf Bill:     Wrapped toy doll, boy
+Time: 366: Elf Bill:     Placed toy doll, boy
+Time: 367: Elf Bill:     Selected toy train, girl
+Time: 368: Elf Bill:     Wrapped toy train, girl
+Time: 368: Elf Bill:     Placed toy train, girl
+Time: 370: Elf Bill:     Selected toy bracelet, girl
+Time: 371: Elf Bill:     Wrapped toy bracelet, girl
+Time: 372: Elf Bill:     Placed toy bracelet, girl
+Time: 372: Elf Bill:     Selected toy train, girl
+Time: 373: Elf Bill:     Wrapped toy train, girl
+Time: 374: Elf Bill:     Placed toy train, girl
+Time: 375: Elf Bill:     Selected toy whistle, girl
+Time: 376: Elf Bill:     Wrapped toy whistle, girl
+Time: 377: Elf Bill:     Placed toy whistle, girl
+Time: 378: Elf Bill:     Selected toy train, girl
+Time: 378: Elf Bill:     Wrapped toy train, girl
+Time: 379: Elf Bill:     Placed toy train, girl
+Time: 380: Elf Bill:     Selected toy doll, girl
+Time: 380: Elf Bill:     Wrapped toy doll, girl
+Time: 380: Elf Bill:     Placed toy doll, girl
+Time: 381: Elf Bill:     Selected toy fake tattoo, boy
+Time: 381: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 382: Elf Bill:     Placed toy fake tattoo, boy
+Time: 382: Elf Bill:     Selected toy doll, boy
+Time: 383: Elf Bill:     Wrapped toy doll, boy
+Time: 384: Elf Bill:     Placed toy doll, boy
+Time: 384: Elf Bill:     Selected toy train, boy
+Time: 384: Elf Bill:     Wrapped toy train, boy
+Time: 385: Elf Bill:     Placed toy train, boy
+Time: 386: Elf Bill:     Selected toy train, girl
+Time: 386: Elf Bill:     Wrapped toy train, girl
+Time: 387: Elf Bill:     Placed toy train, girl
+Time: 387: Elf Bill:     Selected toy whistle, girl
+Time: 388: Elf Bill:     Wrapped toy whistle, girl
+Time: 388: Elf Bill:     Placed toy whistle, girl
+Time: 390: Elf Bill:     Selected toy doll, girl
+Time: 390: Elf Bill:     Wrapped toy doll, girl
+Time: 391: Elf Bill:     Placed toy doll, girl
+Time: 392: Elf Bill:     Selected toy fake tattoo, boy
+Time: 392: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 392: Elf Bill:     Placed toy fake tattoo, boy
+Time: 394: Elf Bill:     Selected toy bracelet, girl
+Time: 395: Elf Bill:     Wrapped toy bracelet, girl
+Time: 395: Elf Bill:     Placed toy bracelet, girl
+Time: 396: Elf Bill:     Selected toy whistle, boy
+Time: 397: Elf Bill:     Wrapped toy whistle, boy
+Time: 397: Elf Bill:     Placed toy whistle, boy
+Time: 399: Elf Bill:     Selected toy bracelet, boy
+Time: 399: Elf Bill:     Wrapped toy bracelet, boy
+Time: 399: Elf Bill:     Placed toy bracelet, boy
+Time: 399: Elf Bill:     Selected toy dinosaur, boy
+Time: 400: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 401: Elf Bill:     Placed toy dinosaur, boy
+Time: 402: Elf Bill:     Selected toy bracelet, boy
+Time: 403: Elf Bill:     Wrapped toy bracelet, boy
+Time: 403: Elf Bill:     Placed toy bracelet, boy
+Time: 405: Elf Bill:     Selected toy dinosaur, girl
+Time: 405: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 405: Elf Bill:     Placed toy dinosaur, girl
+Time: 406: Elf Bill:     Selected toy fake tattoo, boy
+Time: 407: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 408: Elf Bill:     Placed toy fake tattoo, boy
+Time: 408: Elf Bill:     Selected toy dinosaur, boy
+Time: 408: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 409: Elf Bill:     Placed toy dinosaur, boy
+Time: 410: Elf Bill:     Selected toy doll, boy
+Time: 411: Elf Bill:     Wrapped toy doll, boy
+Time: 411: Elf Bill:     Placed toy doll, boy
+Time: 413: Elf Bill:     Selected toy doll, boy
+Time: 413: Elf Bill:     Wrapped toy doll, boy
+Time: 414: Elf Bill:     Placed toy doll, boy
+Time: 415: Elf Bill:     Selected toy train, boy
+Time: 415: Elf Bill:     Wrapped toy train, boy
+Time: 416: Elf Bill:     Placed toy train, boy
+Time: 416: Elf Bill:     Selected toy whistle, girl
+Time: 417: Elf Bill:     Wrapped toy whistle, girl
+Time: 417: Elf Bill:     Placed toy whistle, girl
+Time: 418: Elf Bill:     Selected toy fake tattoo, girl
+Time: 419: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 419: Elf Bill:     Placed toy fake tattoo, girl
+Time: 420: Elf Bill:     Selected toy doll, boy
+Time: 421: Elf Bill:     Wrapped toy doll, boy
+Time: 421: Elf Bill:     Placed toy doll, boy
+Time: 422: Elf Bill:     Selected toy fake tattoo, boy
+Time: 423: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 423: Elf Bill:     Placed toy fake tattoo, boy
+Time: 425: Elf Bill:     Selected toy train, girl
+Time: 425: Elf Bill:     Wrapped toy train, girl
+Time: 425: Elf Bill:     Placed toy train, girl
+Time: 426: Elf Bill:     Selected toy whistle, boy
+Time: 426: Elf Bill:     Wrapped toy whistle, boy
+Time: 427: Elf Bill:     Placed toy whistle, boy
+Time: 428: Elf Bill:     Selected toy dinosaur, boy
+Time: 428: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 429: Elf Bill:     Placed toy dinosaur, boy
+Time: 431: Elf Bill:     Selected toy fake tattoo, boy
+Time: 431: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 432: Elf Bill:     Placed toy fake tattoo, boy
+Time: 433: Elf Bill:     Selected toy dinosaur, girl
+Time: 433: Elf Bill:     Wrapped toy dinosaur, girl
+Time: 433: Elf Bill:     Placed toy dinosaur, girl
+Time: 435: Elf Bill:     Selected toy whistle, boy
+Time: 435: Elf Bill:     Wrapped toy whistle, boy
+Time: 436: Elf Bill:     Placed toy whistle, boy
+Time: 437: Elf Bill:     Selected toy fake tattoo, boy
+Time: 437: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 438: Elf Bill:     Placed toy fake tattoo, boy
+Time: 440: Elf Bill:     Selected toy whistle, boy
+Time: 441: Elf Bill:     Wrapped toy whistle, boy
+Time: 442: Elf Bill:     Placed toy whistle, boy
+Time: 443: Elf Bill:     Selected toy bracelet, boy
+Time: 443: Elf Bill:     Wrapped toy bracelet, boy
+Time: 443: Elf Bill:     Placed toy bracelet, boy
+Time: 444: Elf Bill:     Selected toy whistle, boy
+Time: 444: Elf Bill:     Wrapped toy whistle, boy
+Time: 444: Elf Bill:     Placed toy whistle, boy
+Time: 445: Elf Bill:     Selected toy doll, boy
+Time: 445: Elf Bill:     Wrapped toy doll, boy
+Time: 445: Elf Bill:     Placed toy doll, boy
+Time: 446: Elf Bill:     Selected toy fake tattoo, girl
+Time: 446: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 446: Elf Bill:     Placed toy fake tattoo, girl
+Time: 447: Elf Bill:     Selected toy fake tattoo, boy
+Time: 448: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 449: Elf Bill:     Placed toy fake tattoo, boy
+Time: 449: Elf Bill:     Selected toy whistle, boy
+Time: 450: Elf Bill:     Wrapped toy whistle, boy
+Time: 450: Elf Bill:     Placed toy whistle, boy
+Time: 451: Elf Bill:     Selected toy fake tattoo, girl
+Time: 452: Elf Bill:     Wrapped toy fake tattoo, girl
+Time: 452: Elf Bill:     Placed toy fake tattoo, girl
+Time: 453: Elf Bill:     Selected toy doll, boy
+Time: 454: Elf Bill:     Wrapped toy doll, boy
+Time: 455: Elf Bill:     Placed toy doll, boy
+Time: 456: Elf Bill:     Selected toy whistle, girl
+Time: 457: Elf Bill:     Wrapped toy whistle, girl
+Time: 458: Elf Bill:     Placed toy whistle, girl
+Time: 459: Elf Bill:     Selected toy train, girl
+Time: 459: Elf Bill:     Wrapped toy train, girl
+Time: 459: Elf Bill:     Placed toy train, girl
+Time: 461: Elf Bill:     Selected toy doll, boy
+Time: 461: Elf Bill:     Wrapped toy doll, boy
+Time: 461: Elf Bill:     Placed toy doll, boy
+Time: 463: Elf Bill:     Selected toy fake tattoo, boy
+Time: 463: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 464: Elf Bill:     Placed toy fake tattoo, boy
+Time: 465: Elf Bill:     Selected toy bracelet, girl
+Time: 466: Elf Bill:     Wrapped toy bracelet, girl
+Time: 467: Elf Bill:     Placed toy bracelet, girl
+Time: 468: Elf Bill:     Selected toy dinosaur, boy
+Time: 469: Elf Bill:     Wrapped toy dinosaur, boy
+Time: 469: Elf Bill:     Placed toy dinosaur, boy
+Time: 470: Elf Bill:     Selected toy whistle, boy
+Time: 470: Elf Bill:     Wrapped toy whistle, boy
+Time: 470: Elf Bill:     Placed toy whistle, boy
+Time: 471: Elf Bill:     Selected toy fake tattoo, boy
+Time: 471: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 472: Elf Bill:     Placed toy fake tattoo, boy
+Time: 472: Elf Bill:     Selected toy fake tattoo, boy
+Time: 472: Elf Bill:     Wrapped toy fake tattoo, boy
+Time: 472: Elf Bill:     Placed toy fake tattoo, boy
+Time: 473: Elf Bill:     Selected toy doll, girl
+Time: 474: Elf Bill:     Wrapped toy doll, girl
+Time: 474: Elf Bill:     Placed toy doll, girl
+Time: 475: Elf Bill:     Selected toy bracelet, boy
+Time: 476: Elf Bill:     Wrapped toy bracelet, boy
+Time: 477: Elf Bill:     Placed toy bracelet, boy
+Time: 477: Elf Bill:     Selected toy whistle, girl
+Time: 477: Elf Bill:     Wrapped toy whistle, girl
+Time: 478: Elf Bill:     Placed toy whistle, girl
+Time: 479: Elf Bill:     Selected toy bracelet, boy
+Time: 479: Elf Bill:     Wrapped toy bracelet, boy
+Time: 479: Elf Bill:     Placed toy bracelet, boy
+Time: 480: Elf Bill:     Selected toy whistle, girl
+Time: 480: Elf Bill:     Wrapped toy whistle, girl
+Time: 480: Elf Bill:     Placed toy whistle, girl

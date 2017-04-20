@@ -1,0 +1,1058 @@
+Time: 2 :  Santa Barry  Walking to toy department
+Time  3 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  4 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  5 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  5 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  6 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  7 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  7 :  Santa Barry  retrieving from sleigh: train boy
+Time  9 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  11 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  11 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  12 :  Santa Barry  Walking back to grotto
+Time  12 :  Santa Barry  giving to children: dinosaur boy
+Time  13 :  Santa Barry  giving to children: bracelet boy
+Time  13 :  Santa Barry  giving to children: fake tattoo boy
+Time  13 :  Santa Barry  giving to children: bracelet boy
+Time  14 :  Santa Barry  giving to children: fake tattoo boy
+Time  14 :  Santa Barry  giving to children: fake tattoo boy
+Time  14 :  Santa Barry  giving to children: train boy
+Time  15 :  Santa Barry  giving to children: fake tattoo boy
+Time  15 :  Santa Barry  giving to children: whistle girl
+Time  16 :  Santa Barry  giving to children: bracelet boy
+Time: 17 :  Santa Barry  Walking to toy department
+Time  17 :  Santa Barry  retrieving from sleigh: doll boy
+Time  17 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  17 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  17 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  17 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  17 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  17 :  Santa Barry  retrieving from sleigh: doll boy
+Time  17 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  17 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  17 :  Santa Barry  retrieving from sleigh: doll boy
+Time  18 :  Santa Barry  Walking back to grotto
+Time  18 :  Santa Barry  giving to children: doll boy
+Time  19 :  Santa Barry  giving to children: bracelet boy
+Time  19 :  Santa Barry  giving to children: fake tattoo boy
+Time  20 :  Santa Barry  giving to children: whistle boy
+Time  20 :  Santa Barry  giving to children: bracelet girl
+Time  21 :  Santa Barry  giving to children: bracelet boy
+Time  22 :  Santa Barry  giving to children: doll boy
+Time  22 :  Santa Barry  giving to children: whistle boy
+Time  23 :  Santa Barry  giving to children: whistle boy
+Time  23 :  Santa Barry  giving to children: doll boy
+Time: 24 :  Santa Barry  Walking to toy department
+Time  24 :  Santa Barry  retrieving from sleigh: train boy
+Time  24 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  24 :  Santa Barry  retrieving from sleigh: train boy
+Time  24 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  24 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  24 :  Santa Barry  retrieving from sleigh: train boy
+Time  24 :  Santa Barry  retrieving from sleigh: train boy
+Time  25 :  Santa Barry  retrieving from sleigh: doll boy
+Time  25 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  26 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  27 :  Santa Barry  Walking back to grotto
+Time  27 :  Santa Barry  giving to children: train boy
+Time  28 :  Santa Barry  giving to children: whistle girl
+Time  28 :  Santa Barry  giving to children: train boy
+Time  28 :  Santa Barry  giving to children: fake tattoo boy
+Time  28 :  Santa Barry  giving to children: bracelet girl
+Time  29 :  Santa Barry  giving to children: train boy
+Time  29 :  Santa Barry  giving to children: train boy
+Time  29 :  Santa Barry  giving to children: doll boy
+Time  29 :  Santa Barry  giving to children: fake tattoo girl
+Time  30 :  Santa Barry  giving to children: whistle boy
+Time: 31 :  Santa Barry  Walking to toy department
+Time  32 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  32 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  33 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  33 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  33 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  34 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  35 :  Santa Barry  retrieving from sleigh: train boy
+Time  35 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  35 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  35 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  36 :  Santa Barry  Walking back to grotto
+Time  36 :  Santa Barry  giving to children: dinosaur boy
+Time  36 :  Santa Barry  giving to children: dinosaur boy
+Time  36 :  Santa Barry  giving to children: fake tattoo girl
+Time  37 :  Santa Barry  giving to children: whistle boy
+Time  37 :  Santa Barry  giving to children: dinosaur boy
+Time  37 :  Santa Barry  giving to children: dinosaur girl
+Time  38 :  Santa Barry  giving to children: train boy
+Time  39 :  Santa Barry  giving to children: whistle boy
+Time  39 :  Santa Barry  giving to children: whistle girl
+Time  39 :  Santa Barry  giving to children: dinosaur boy
+Time: 40 :  Santa Barry  Walking to toy department
+Time  40 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  40 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  40 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  40 :  Santa Barry  retrieving from sleigh: doll girl
+Time  40 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  40 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  40 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  41 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  41 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  42 :  Santa Barry  retrieving from sleigh: train girl
+Time  43 :  Santa Barry  Walking back to grotto
+Time  44 :  Santa Barry  giving to children: dinosaur girl
+Time  44 :  Santa Barry  giving to children: whistle boy
+Time  45 :  Santa Barry  giving to children: whistle boy
+Time  46 :  Santa Barry  giving to children: doll girl
+Time  46 :  Santa Barry  giving to children: bracelet girl
+Time  46 :  Santa Barry  giving to children: dinosaur girl
+Time  46 :  Santa Barry  giving to children: whistle girl
+Time  47 :  Santa Barry  giving to children: whistle boy
+Time  47 :  Santa Barry  giving to children: dinosaur girl
+Time  48 :  Santa Barry  giving to children: train girl
+Time: 49 :  Santa Barry  Walking to toy department
+Time  49 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  49 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  49 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  50 :  Santa Barry  retrieving from sleigh: train boy
+Time  50 :  Santa Barry  retrieving from sleigh: doll boy
+Time  51 :  Santa Barry  retrieving from sleigh: train boy
+Time  51 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  51 :  Santa Barry  retrieving from sleigh: doll girl
+Time  52 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  52 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  53 :  Santa Barry  Walking back to grotto
+Time  54 :  Santa Barry  giving to children: dinosaur boy
+Time  54 :  Santa Barry  giving to children: bracelet boy
+Time  55 :  Santa Barry  giving to children: fake tattoo girl
+Time  55 :  Santa Barry  giving to children: train boy
+Time  56 :  Santa Barry  giving to children: doll boy
+Time  57 :  Santa Barry  giving to children: train boy
+Time  57 :  Santa Barry  giving to children: dinosaur boy
+Time  58 :  Santa Barry  giving to children: doll girl
+Time  58 :  Santa Barry  giving to children: bracelet boy
+Time  59 :  Santa Barry  giving to children: fake tattoo girl
+Time: 60 :  Santa Barry  Walking to toy department
+Time  60 :  Santa Barry  retrieving from sleigh: doll boy
+Time  60 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  60 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  60 :  Santa Barry  retrieving from sleigh: doll boy
+Time  61 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  61 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  62 :  Santa Barry  retrieving from sleigh: train boy
+Time  62 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  64 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  64 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  65 :  Santa Barry  Walking back to grotto
+Time  65 :  Santa Barry  giving to children: doll boy
+Time  66 :  Santa Barry  giving to children: bracelet girl
+Time  66 :  Santa Barry  giving to children: bracelet boy
+Time  67 :  Santa Barry  giving to children: doll boy
+Time  67 :  Santa Barry  giving to children: whistle boy
+Time  68 :  Santa Barry  giving to children: dinosaur girl
+Time  69 :  Santa Barry  giving to children: train boy
+Time  69 :  Santa Barry  giving to children: whistle boy
+Time  70 :  Santa Barry  giving to children: whistle girl
+Time  71 :  Santa Barry  giving to children: fake tattoo girl
+Time: 72 :  Santa Barry  Walking to toy department
+Time  73 :  Santa Barry  retrieving from sleigh: train girl
+Time  73 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  74 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  74 :  Santa Barry  retrieving from sleigh: doll boy
+Time  74 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  74 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  74 :  Santa Barry  retrieving from sleigh: train girl
+Time  75 :  Santa Barry  retrieving from sleigh: train girl
+Time  76 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  76 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  77 :  Santa Barry  Walking back to grotto
+Time  78 :  Santa Barry  giving to children: train girl
+Time  79 :  Santa Barry  giving to children: bracelet boy
+Time  79 :  Santa Barry  giving to children: bracelet girl
+Time  80 :  Santa Barry  giving to children: doll boy
+Time  81 :  Santa Barry  giving to children: whistle boy
+Time  82 :  Santa Barry  giving to children: whistle boy
+Time  82 :  Santa Barry  giving to children: train girl
+Time  82 :  Santa Barry  giving to children: train girl
+Time  82 :  Santa Barry  giving to children: fake tattoo girl
+Time  83 :  Santa Barry  giving to children: fake tattoo boy
+Time: 84 :  Santa Barry  Walking to toy department
+Time  84 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  84 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  84 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  84 :  Santa Barry  retrieving from sleigh: train boy
+Time  84 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  84 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  84 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  84 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  85 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  86 :  Santa Barry  retrieving from sleigh: doll girl
+Time  87 :  Santa Barry  Walking back to grotto
+Time  87 :  Santa Barry  giving to children: dinosaur boy
+Time  87 :  Santa Barry  giving to children: whistle boy
+Time  88 :  Santa Barry  giving to children: dinosaur boy
+Time  89 :  Santa Barry  giving to children: train boy
+Time  89 :  Santa Barry  giving to children: fake tattoo girl
+Time  89 :  Santa Barry  giving to children: dinosaur boy
+Time  90 :  Santa Barry  giving to children: dinosaur boy
+Time  90 :  Santa Barry  giving to children: dinosaur boy
+Time  91 :  Santa Barry  giving to children: fake tattoo boy
+Time  91 :  Santa Barry  giving to children: doll girl
+Time: 92 :  Santa Barry  Walking to toy department
+Time  92 :  Santa Barry  retrieving from sleigh: train boy
+Time  93 :  Santa Barry  retrieving from sleigh: doll girl
+Time  93 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  93 :  Santa Barry  retrieving from sleigh: doll boy
+Time  93 :  Santa Barry  retrieving from sleigh: doll boy
+Time  94 :  Santa Barry  retrieving from sleigh: train girl
+Time  95 :  Santa Barry  retrieving from sleigh: doll girl
+Time  95 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  95 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  95 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  96 :  Santa Barry  Walking back to grotto
+Time  97 :  Santa Barry  giving to children: train boy
+Time  98 :  Santa Barry  giving to children: doll girl
+Time  98 :  Santa Barry  giving to children: dinosaur boy
+Time  98 :  Santa Barry  giving to children: doll boy
+Time  99 :  Santa Barry  giving to children: doll boy
+Time  100 :  Santa Barry  giving to children: train girl
+Time  100 :  Santa Barry  giving to children: doll girl
+Time  100 :  Santa Barry  giving to children: whistle girl
+Time  100 :  Santa Barry  giving to children: fake tattoo girl
+Time  101 :  Santa Barry  giving to children: dinosaur boy
+Time: 102 :  Santa Barry  Walking to toy department
+Time  102 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  102 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  102 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  103 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  104 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  104 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  104 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  105 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  106 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  106 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  107 :  Santa Barry  Walking back to grotto
+Time  108 :  Santa Barry  giving to children: bracelet boy
+Time  109 :  Santa Barry  giving to children: bracelet boy
+Time  109 :  Santa Barry  giving to children: whistle girl
+Time  109 :  Santa Barry  giving to children: fake tattoo girl
+Time  110 :  Santa Barry  giving to children: whistle boy
+Time  110 :  Santa Barry  giving to children: dinosaur boy
+Time  110 :  Santa Barry  giving to children: bracelet boy
+Time  111 :  Santa Barry  giving to children: dinosaur boy
+Time  111 :  Santa Barry  giving to children: dinosaur girl
+Time  112 :  Santa Barry  giving to children: bracelet girl
+Time: 113 :  Santa Barry  Walking to toy department
+Time  113 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  113 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  113 :  Santa Barry  retrieving from sleigh: train girl
+Time  113 :  Santa Barry  retrieving from sleigh: doll girl
+Time  113 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  113 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  114 :  Santa Barry  retrieving from sleigh: train girl
+Time  114 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  114 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  115 :  Santa Barry  retrieving from sleigh: train boy
+Time  116 :  Santa Barry  Walking back to grotto
+Time  116 :  Santa Barry  giving to children: fake tattoo boy
+Time  117 :  Santa Barry  giving to children: whistle girl
+Time  117 :  Santa Barry  giving to children: train girl
+Time  117 :  Santa Barry  giving to children: doll girl
+Time  117 :  Santa Barry  giving to children: fake tattoo boy
+Time  118 :  Santa Barry  giving to children: whistle boy
+Time  118 :  Santa Barry  giving to children: train girl
+Time  119 :  Santa Barry  giving to children: dinosaur boy
+Time  119 :  Santa Barry  giving to children: dinosaur girl
+Time  120 :  Santa Barry  giving to children: train boy
+Time: 121 :  Santa Barry  Walking to toy department
+Time  122 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  122 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  123 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  123 :  Santa Barry  retrieving from sleigh: train girl
+Time  124 :  Santa Barry  retrieving from sleigh: doll girl
+Time  124 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  124 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  125 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  125 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  125 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  126 :  Santa Barry  Walking back to grotto
+Time  126 :  Santa Barry  giving to children: whistle girl
+Time  127 :  Santa Barry  giving to children: fake tattoo girl
+Time  127 :  Santa Barry  giving to children: dinosaur girl
+Time  128 :  Santa Barry  giving to children: train girl
+Time  129 :  Santa Barry  giving to children: doll girl
+Time  130 :  Santa Barry  giving to children: fake tattoo girl
+Time  130 :  Santa Barry  giving to children: fake tattoo boy
+Time  131 :  Santa Barry  giving to children: bracelet boy
+Time  132 :  Santa Barry  giving to children: fake tattoo girl
+Time  133 :  Santa Barry  giving to children: fake tattoo boy
+Time: 134 :  Santa Barry  Walking to toy department
+Time  134 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  134 :  Santa Barry  retrieving from sleigh: train boy
+Time  134 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  134 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  134 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  134 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  134 :  Santa Barry  retrieving from sleigh: train boy
+Time  135 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  135 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  135 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  136 :  Santa Barry  Walking back to grotto
+Time  137 :  Santa Barry  giving to children: bracelet boy
+Time  137 :  Santa Barry  giving to children: train boy
+Time  138 :  Santa Barry  giving to children: bracelet boy
+Time  138 :  Santa Barry  giving to children: bracelet boy
+Time  139 :  Santa Barry  giving to children: fake tattoo boy
+Time  139 :  Santa Barry  giving to children: fake tattoo girl
+Time  140 :  Santa Barry  giving to children: train boy
+Time  140 :  Santa Barry  giving to children: bracelet boy
+Time  140 :  Santa Barry  giving to children: bracelet boy
+Time  141 :  Santa Barry  giving to children: bracelet boy
+Time: 142 :  Santa Barry  Walking to toy department
+Time  143 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  143 :  Santa Barry  retrieving from sleigh: doll girl
+Time  143 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  143 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  144 :  Santa Barry  retrieving from sleigh: doll girl
+Time  146 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  146 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  146 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  146 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  148 :  Santa Barry  retrieving from sleigh: train boy
+Time  149 :  Santa Barry  Walking back to grotto
+Time  150 :  Santa Barry  giving to children: bracelet girl
+Time  151 :  Santa Barry  giving to children: doll girl
+Time  152 :  Santa Barry  giving to children: dinosaur boy
+Time  152 :  Santa Barry  giving to children: whistle boy
+Time  152 :  Santa Barry  giving to children: doll girl
+Time  153 :  Santa Barry  giving to children: bracelet boy
+Time  153 :  Santa Barry  giving to children: whistle boy
+Time  153 :  Santa Barry  giving to children: fake tattoo girl
+Time  153 :  Santa Barry  giving to children: bracelet boy
+Time  154 :  Santa Barry  giving to children: train boy
+Time: 155 :  Santa Barry  Walking to toy department
+Time  155 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  155 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  155 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  155 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  155 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  155 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  156 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  156 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  157 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  158 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  159 :  Santa Barry  Walking back to grotto
+Time  160 :  Santa Barry  giving to children: dinosaur boy
+Time  160 :  Santa Barry  giving to children: bracelet boy
+Time  160 :  Santa Barry  giving to children: whistle boy
+Time  160 :  Santa Barry  giving to children: dinosaur boy
+Time  161 :  Santa Barry  giving to children: dinosaur boy
+Time  162 :  Santa Barry  giving to children: whistle girl
+Time  162 :  Santa Barry  giving to children: bracelet boy
+Time  163 :  Santa Barry  giving to children: whistle boy
+Time  163 :  Santa Barry  giving to children: dinosaur girl
+Time  164 :  Santa Barry  giving to children: bracelet boy
+Time: 165 :  Santa Barry  Walking to toy department
+Time  165 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  165 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  165 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  165 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  165 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  165 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  166 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  166 :  Santa Barry  retrieving from sleigh: train girl
+Time  167 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  167 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  168 :  Santa Barry  Walking back to grotto
+Time  168 :  Santa Barry  giving to children: bracelet boy
+Time  169 :  Santa Barry  giving to children: dinosaur girl
+Time  169 :  Santa Barry  giving to children: dinosaur girl
+Time  170 :  Santa Barry  giving to children: fake tattoo girl
+Time  171 :  Santa Barry  giving to children: dinosaur girl
+Time  171 :  Santa Barry  giving to children: fake tattoo boy
+Time  171 :  Santa Barry  giving to children: whistle girl
+Time  172 :  Santa Barry  giving to children: train girl
+Time  172 :  Santa Barry  giving to children: whistle girl
+Time  172 :  Santa Barry  giving to children: fake tattoo boy
+Time: 173 :  Santa Barry  Walking to toy department
+Time  173 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  173 :  Santa Barry  retrieving from sleigh: doll girl
+Time  174 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  174 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  174 :  Santa Barry  retrieving from sleigh: doll girl
+Time  175 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  175 :  Santa Barry  retrieving from sleigh: train boy
+Time  176 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  176 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  176 :  Santa Barry  retrieving from sleigh: train boy
+Time  177 :  Santa Barry  Walking back to grotto
+Time  178 :  Santa Barry  giving to children: bracelet boy
+Time  178 :  Santa Barry  giving to children: doll girl
+Time  179 :  Santa Barry  giving to children: whistle girl
+Time  179 :  Santa Barry  giving to children: bracelet boy
+Time  180 :  Santa Barry  giving to children: doll girl
+Time  181 :  Santa Barry  giving to children: bracelet boy
+Time  181 :  Santa Barry  giving to children: train boy
+Time  182 :  Santa Barry  giving to children: fake tattoo boy
+Time  182 :  Santa Barry  giving to children: fake tattoo girl
+Time  182 :  Santa Barry  giving to children: train boy
+Time: 183 :  Santa Barry  Walking to toy department
+Time  184 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  184 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  184 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  184 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  185 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  185 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  186 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  186 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  186 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  186 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  187 :  Santa Barry  Walking back to grotto
+Time  187 :  Santa Barry  giving to children: whistle boy
+Time  187 :  Santa Barry  giving to children: fake tattoo girl
+Time  187 :  Santa Barry  giving to children: fake tattoo boy
+Time  188 :  Santa Barry  giving to children: whistle boy
+Time  188 :  Santa Barry  giving to children: bracelet girl
+Time  189 :  Santa Barry  giving to children: dinosaur boy
+Time  189 :  Santa Barry  giving to children: bracelet boy
+Time  190 :  Santa Barry  giving to children: dinosaur boy
+Time  190 :  Santa Barry  giving to children: bracelet girl
+Time  191 :  Santa Barry  giving to children: whistle boy
+Time: 192 :  Santa Barry  Walking to toy department
+Time  192 :  Santa Barry  retrieving from sleigh: train girl
+Time  192 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  193 :  Santa Barry  retrieving from sleigh: doll boy
+Time  195 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  195 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  195 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  195 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  195 :  Santa Barry  retrieving from sleigh: train girl
+Time  195 :  Santa Barry  retrieving from sleigh: doll girl
+Time  196 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  197 :  Santa Barry  Walking back to grotto
+Time  198 :  Santa Barry  giving to children: train girl
+Time  199 :  Santa Barry  giving to children: whistle boy
+Time  200 :  Santa Barry  giving to children: doll boy
+Time  200 :  Santa Barry  giving to children: bracelet girl
+Time  201 :  Santa Barry  giving to children: bracelet boy
+Time  201 :  Santa Barry  giving to children: dinosaur girl
+Time  202 :  Santa Barry  giving to children: dinosaur girl
+Time  202 :  Santa Barry  giving to children: train girl
+Time  203 :  Santa Barry  giving to children: doll girl
+Time  203 :  Santa Barry  giving to children: bracelet girl
+Time: 204 :  Santa Barry  Walking to toy department
+Time  204 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  204 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  204 :  Santa Barry  retrieving from sleigh: doll boy
+Time  204 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  204 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  205 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  205 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  205 :  Santa Barry  retrieving from sleigh: doll girl
+Time  205 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  206 :  Santa Barry  retrieving from sleigh: doll girl
+Time  207 :  Santa Barry  Walking back to grotto
+Time  208 :  Santa Barry  giving to children: whistle girl
+Time  209 :  Santa Barry  giving to children: dinosaur girl
+Time  209 :  Santa Barry  giving to children: doll boy
+Time  210 :  Santa Barry  giving to children: dinosaur girl
+Time  211 :  Santa Barry  giving to children: whistle boy
+Time  211 :  Santa Barry  giving to children: bracelet girl
+Time  211 :  Santa Barry  giving to children: whistle boy
+Time  211 :  Santa Barry  giving to children: doll girl
+Time  212 :  Santa Barry  giving to children: whistle boy
+Time  212 :  Santa Barry  giving to children: doll girl
+Time: 213 :  Santa Barry  Walking to toy department
+Time  214 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  214 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  214 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  214 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  215 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  215 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  216 :  Santa Barry  retrieving from sleigh: train boy
+Time  216 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  216 :  Santa Barry  retrieving from sleigh: doll girl
+Time  216 :  Santa Barry  retrieving from sleigh: train boy
+Time  217 :  Santa Barry  Walking back to grotto
+Time  218 :  Santa Barry  giving to children: dinosaur girl
+Time  218 :  Santa Barry  giving to children: dinosaur boy
+Time  218 :  Santa Barry  giving to children: bracelet girl
+Time  218 :  Santa Barry  giving to children: fake tattoo girl
+Time  219 :  Santa Barry  giving to children: dinosaur boy
+Time  219 :  Santa Barry  giving to children: dinosaur girl
+Time  220 :  Santa Barry  giving to children: train boy
+Time  220 :  Santa Barry  giving to children: dinosaur girl
+Time  220 :  Santa Barry  giving to children: doll girl
+Time  221 :  Santa Barry  giving to children: train boy
+Time: 222 :  Santa Barry  Walking to toy department
+Time  222 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  222 :  Santa Barry  retrieving from sleigh: train girl
+Time  223 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  225 :  Santa Barry  retrieving from sleigh: train boy
+Time  225 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  225 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  226 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  226 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  227 :  Santa Barry  retrieving from sleigh: train boy
+Time  227 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  228 :  Santa Barry  Walking back to grotto
+Time  229 :  Santa Barry  giving to children: whistle boy
+Time  230 :  Santa Barry  giving to children: train girl
+Time  231 :  Santa Barry  giving to children: bracelet boy
+Time  231 :  Santa Barry  giving to children: train boy
+Time  232 :  Santa Barry  giving to children: bracelet girl
+Time  232 :  Santa Barry  giving to children: fake tattoo boy
+Time  233 :  Santa Barry  giving to children: whistle boy
+Time  234 :  Santa Barry  giving to children: whistle boy
+Time  234 :  Santa Barry  giving to children: train boy
+Time  234 :  Santa Barry  giving to children: fake tattoo girl
+Time: 235 :  Santa Barry  Walking to toy department
+Time  235 :  Santa Barry  retrieving from sleigh: train boy
+Time  235 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  235 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  235 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  235 :  Santa Barry  retrieving from sleigh: train boy
+Time  236 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  236 :  Santa Barry  retrieving from sleigh: doll boy
+Time  236 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  237 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  237 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  238 :  Santa Barry  Walking back to grotto
+Time  238 :  Santa Barry  giving to children: train boy
+Time  239 :  Santa Barry  giving to children: dinosaur boy
+Time  239 :  Santa Barry  giving to children: dinosaur boy
+Time  239 :  Santa Barry  giving to children: fake tattoo girl
+Time  240 :  Santa Barry  giving to children: train boy
+Time  240 :  Santa Barry  giving to children: dinosaur boy
+Time  241 :  Santa Barry  giving to children: doll boy
+Time  241 :  Santa Barry  giving to children: fake tattoo girl
+Time  242 :  Santa Barry  giving to children: dinosaur boy
+Time  243 :  Santa Barry  giving to children: dinosaur boy
+Time: 244 :  Santa Barry  Walking to toy department
+Time  244 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  245 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  245 :  Santa Barry  retrieving from sleigh: doll boy
+Time  245 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  245 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  246 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  246 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  246 :  Santa Barry  retrieving from sleigh: doll girl
+Time  247 :  Santa Barry  retrieving from sleigh: train boy
+Time  247 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  248 :  Santa Barry  Walking back to grotto
+Time  249 :  Santa Barry  giving to children: whistle girl
+Time  249 :  Santa Barry  giving to children: bracelet boy
+Time  250 :  Santa Barry  giving to children: doll boy
+Time  250 :  Santa Barry  giving to children: whistle girl
+Time  250 :  Santa Barry  giving to children: bracelet girl
+Time  250 :  Santa Barry  giving to children: whistle girl
+Time  251 :  Santa Barry  giving to children: bracelet boy
+Time  251 :  Santa Barry  giving to children: doll girl
+Time  252 :  Santa Barry  giving to children: train boy
+Time  253 :  Santa Barry  giving to children: dinosaur girl
+Time: 254 :  Santa Barry  Walking to toy department
+Time  254 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  254 :  Santa Barry  retrieving from sleigh: train girl
+Time  254 :  Santa Barry  retrieving from sleigh: doll girl
+Time  255 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  255 :  Santa Barry  retrieving from sleigh: train girl
+Time  255 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  256 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  256 :  Santa Barry  retrieving from sleigh: doll girl
+Time  256 :  Santa Barry  retrieving from sleigh: train girl
+Time  257 :  Santa Barry  retrieving from sleigh: train girl
+Time  258 :  Santa Barry  Walking back to grotto
+Time  258 :  Santa Barry  giving to children: dinosaur girl
+Time  259 :  Santa Barry  giving to children: train girl
+Time  259 :  Santa Barry  giving to children: doll girl
+Time  260 :  Santa Barry  giving to children: whistle boy
+Time  260 :  Santa Barry  giving to children: train girl
+Time  261 :  Santa Barry  giving to children: fake tattoo girl
+Time  261 :  Santa Barry  giving to children: fake tattoo boy
+Time  261 :  Santa Barry  giving to children: doll girl
+Time  262 :  Santa Barry  giving to children: train girl
+Time  262 :  Santa Barry  giving to children: train girl
+Time: 263 :  Santa Barry  Walking to toy department
+Time  263 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  263 :  Santa Barry  retrieving from sleigh: doll boy
+Time  264 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  264 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  266 :  Santa Barry  retrieving from sleigh: doll boy
+Time  266 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  266 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  266 :  Santa Barry  retrieving from sleigh: train boy
+Time  266 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  267 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  268 :  Santa Barry  Walking back to grotto
+Time  269 :  Santa Barry  giving to children: fake tattoo boy
+Time  269 :  Santa Barry  giving to children: doll boy
+Time  269 :  Santa Barry  giving to children: dinosaur girl
+Time  270 :  Santa Barry  giving to children: fake tattoo girl
+Time  271 :  Santa Barry  giving to children: doll boy
+Time  271 :  Santa Barry  giving to children: whistle girl
+Time  271 :  Santa Barry  giving to children: bracelet girl
+Time  272 :  Santa Barry  giving to children: train boy
+Time  272 :  Santa Barry  giving to children: bracelet girl
+Time  273 :  Santa Barry  giving to children: dinosaur girl
+Time: 274 :  Santa Barry  Walking to toy department
+Time  274 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  274 :  Santa Barry  retrieving from sleigh: train girl
+Time  274 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  275 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  275 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  276 :  Santa Barry  retrieving from sleigh: train girl
+Time  276 :  Santa Barry  retrieving from sleigh: train boy
+Time  277 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  277 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  277 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  278 :  Santa Barry  Walking back to grotto
+Time  279 :  Santa Barry  giving to children: fake tattoo girl
+Time  279 :  Santa Barry  giving to children: train girl
+Time  279 :  Santa Barry  giving to children: bracelet boy
+Time  279 :  Santa Barry  giving to children: bracelet girl
+Time  280 :  Santa Barry  giving to children: fake tattoo boy
+Time  280 :  Santa Barry  giving to children: train girl
+Time  281 :  Santa Barry  giving to children: train boy
+Time  281 :  Santa Barry  giving to children: whistle girl
+Time  281 :  Santa Barry  giving to children: dinosaur girl
+Time  282 :  Santa Barry  giving to children: dinosaur boy
+Time: 283 :  Santa Barry  Walking to toy department
+Time  283 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  283 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  284 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  285 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  285 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  286 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  286 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  286 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  287 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  287 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  288 :  Santa Barry  Walking back to grotto
+Time  288 :  Santa Barry  giving to children: whistle girl
+Time  289 :  Santa Barry  giving to children: bracelet girl
+Time  289 :  Santa Barry  giving to children: bracelet girl
+Time  289 :  Santa Barry  giving to children: bracelet boy
+Time  290 :  Santa Barry  giving to children: fake tattoo girl
+Time  290 :  Santa Barry  giving to children: bracelet girl
+Time  290 :  Santa Barry  giving to children: dinosaur boy
+Time  291 :  Santa Barry  giving to children: fake tattoo boy
+Time  291 :  Santa Barry  giving to children: fake tattoo girl
+Time  292 :  Santa Barry  giving to children: fake tattoo boy
+Time: 293 :  Santa Barry  Walking to toy department
+Time  293 :  Santa Barry  retrieving from sleigh: train girl
+Time  293 :  Santa Barry  retrieving from sleigh: train girl
+Time  293 :  Santa Barry  retrieving from sleigh: train girl
+Time  294 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  294 :  Santa Barry  retrieving from sleigh: train girl
+Time  295 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  295 :  Santa Barry  retrieving from sleigh: train girl
+Time  295 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  295 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  296 :  Santa Barry  retrieving from sleigh: doll girl
+Time  297 :  Santa Barry  Walking back to grotto
+Time  297 :  Santa Barry  giving to children: train girl
+Time  298 :  Santa Barry  giving to children: train girl
+Time  298 :  Santa Barry  giving to children: train girl
+Time  299 :  Santa Barry  giving to children: whistle boy
+Time  300 :  Santa Barry  giving to children: train girl
+Time  300 :  Santa Barry  giving to children: whistle boy
+Time  300 :  Santa Barry  giving to children: train girl
+Time  301 :  Santa Barry  giving to children: whistle girl
+Time  301 :  Santa Barry  giving to children: whistle boy
+Time  301 :  Santa Barry  giving to children: doll girl
+Time: 302 :  Santa Barry  Walking to toy department
+Time  302 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  303 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  303 :  Santa Barry  retrieving from sleigh: doll boy
+Time  303 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  304 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  304 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  305 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  305 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  305 :  Santa Barry  retrieving from sleigh: train boy
+Time  306 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  307 :  Santa Barry  Walking back to grotto
+Time  308 :  Santa Barry  giving to children: fake tattoo girl
+Time  308 :  Santa Barry  giving to children: whistle girl
+Time  309 :  Santa Barry  giving to children: doll boy
+Time  310 :  Santa Barry  giving to children: dinosaur girl
+Time  310 :  Santa Barry  giving to children: fake tattoo boy
+Time  310 :  Santa Barry  giving to children: bracelet girl
+Time  311 :  Santa Barry  giving to children: dinosaur boy
+Time  311 :  Santa Barry  giving to children: whistle girl
+Time  312 :  Santa Barry  giving to children: train boy
+Time  312 :  Santa Barry  giving to children: fake tattoo boy
+Time: 313 :  Santa Barry  Walking to toy department
+Time  313 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  313 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  313 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  313 :  Santa Barry  retrieving from sleigh: doll girl
+Time  314 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  314 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  315 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  315 :  Santa Barry  retrieving from sleigh: train girl
+Time  315 :  Santa Barry  retrieving from sleigh: train girl
+Time  316 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  317 :  Santa Barry  Walking back to grotto
+Time  317 :  Santa Barry  giving to children: bracelet girl
+Time  318 :  Santa Barry  giving to children: fake tattoo boy
+Time  318 :  Santa Barry  giving to children: whistle boy
+Time  319 :  Santa Barry  giving to children: doll girl
+Time  319 :  Santa Barry  giving to children: fake tattoo girl
+Time  319 :  Santa Barry  giving to children: bracelet girl
+Time  320 :  Santa Barry  giving to children: fake tattoo boy
+Time  320 :  Santa Barry  giving to children: train girl
+Time  320 :  Santa Barry  giving to children: train girl
+Time  321 :  Santa Barry  giving to children: fake tattoo boy
+Time: 322 :  Santa Barry  Walking to toy department
+Time  322 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  322 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  323 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  323 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  324 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  325 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  325 :  Santa Barry  retrieving from sleigh: train girl
+Time  325 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  325 :  Santa Barry  retrieving from sleigh: doll girl
+Time  325 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  326 :  Santa Barry  Walking back to grotto
+Time  327 :  Santa Barry  giving to children: dinosaur girl
+Time  327 :  Santa Barry  giving to children: fake tattoo boy
+Time  327 :  Santa Barry  giving to children: dinosaur boy
+Time  328 :  Santa Barry  giving to children: dinosaur girl
+Time  328 :  Santa Barry  giving to children: dinosaur girl
+Time  329 :  Santa Barry  giving to children: bracelet boy
+Time  329 :  Santa Barry  giving to children: train girl
+Time  330 :  Santa Barry  giving to children: fake tattoo boy
+Time  330 :  Santa Barry  giving to children: doll girl
+Time  331 :  Santa Barry  giving to children: bracelet boy
+Time: 332 :  Santa Barry  Walking to toy department
+Time  332 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  334 :  Santa Barry  retrieving from sleigh: train girl
+Time  334 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  334 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  334 :  Santa Barry  retrieving from sleigh: doll girl
+Time  336 :  Santa Barry  retrieving from sleigh: train boy
+Time  336 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  336 :  Santa Barry  retrieving from sleigh: doll girl
+Time  336 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  337 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  338 :  Santa Barry  Walking back to grotto
+Time  338 :  Santa Barry  giving to children: bracelet girl
+Time  339 :  Santa Barry  giving to children: train girl
+Time  340 :  Santa Barry  giving to children: bracelet boy
+Time  340 :  Santa Barry  giving to children: bracelet boy
+Time  340 :  Santa Barry  giving to children: doll girl
+Time  341 :  Santa Barry  giving to children: train boy
+Time  342 :  Santa Barry  giving to children: whistle girl
+Time  342 :  Santa Barry  giving to children: doll girl
+Time  343 :  Santa Barry  giving to children: dinosaur boy
+Time  343 :  Santa Barry  giving to children: bracelet girl
+Time: 344 :  Santa Barry  Walking to toy department
+Time  345 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  345 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  345 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  345 :  Santa Barry  retrieving from sleigh: train girl
+Time  346 :  Santa Barry  retrieving from sleigh: train girl
+Time  346 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  346 :  Santa Barry  retrieving from sleigh: train girl
+Time  346 :  Santa Barry  retrieving from sleigh: train girl
+Time  347 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  347 :  Santa Barry  retrieving from sleigh: train girl
+Time  348 :  Santa Barry  Walking back to grotto
+Time  349 :  Santa Barry  giving to children: fake tattoo girl
+Time  350 :  Santa Barry  giving to children: fake tattoo boy
+Time  350 :  Santa Barry  giving to children: bracelet girl
+Time  351 :  Santa Barry  giving to children: train girl
+Time  351 :  Santa Barry  giving to children: train girl
+Time  351 :  Santa Barry  giving to children: dinosaur boy
+Time  352 :  Santa Barry  giving to children: train girl
+Time  352 :  Santa Barry  giving to children: train girl
+Time  352 :  Santa Barry  giving to children: whistle boy
+Time  353 :  Santa Barry  giving to children: train girl
+Time: 354 :  Santa Barry  Walking to toy department
+Time  354 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  355 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  355 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  356 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  356 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  356 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  356 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  357 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  357 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  357 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  358 :  Santa Barry  Walking back to grotto
+Time  359 :  Santa Barry  giving to children: bracelet girl
+Time  360 :  Santa Barry  giving to children: fake tattoo girl
+Time  360 :  Santa Barry  giving to children: whistle boy
+Time  361 :  Santa Barry  giving to children: whistle boy
+Time  361 :  Santa Barry  giving to children: bracelet boy
+Time  361 :  Santa Barry  giving to children: dinosaur girl
+Time  362 :  Santa Barry  giving to children: fake tattoo girl
+Time  362 :  Santa Barry  giving to children: whistle boy
+Time  362 :  Santa Barry  giving to children: dinosaur boy
+Time  363 :  Santa Barry  giving to children: whistle boy
+Time: 364 :  Santa Barry  Walking to toy department
+Time  364 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  364 :  Santa Barry  retrieving from sleigh: doll girl
+Time  365 :  Santa Barry  retrieving from sleigh: doll girl
+Time  365 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  366 :  Santa Barry  retrieving from sleigh: doll boy
+Time  366 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  367 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  367 :  Santa Barry  retrieving from sleigh: train girl
+Time  368 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  368 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  369 :  Santa Barry  Walking back to grotto
+Time  370 :  Santa Barry  giving to children: whistle girl
+Time  370 :  Santa Barry  giving to children: doll girl
+Time  371 :  Santa Barry  giving to children: doll girl
+Time  372 :  Santa Barry  giving to children: fake tattoo girl
+Time  372 :  Santa Barry  giving to children: doll boy
+Time  373 :  Santa Barry  giving to children: fake tattoo boy
+Time  374 :  Santa Barry  giving to children: bracelet girl
+Time  374 :  Santa Barry  giving to children: train girl
+Time  375 :  Santa Barry  giving to children: dinosaur boy
+Time  376 :  Santa Barry  giving to children: fake tattoo boy
+Time: 377 :  Santa Barry  Walking to toy department
+Time  377 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  377 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  377 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  377 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  377 :  Santa Barry  retrieving from sleigh: doll boy
+Time  377 :  Santa Barry  retrieving from sleigh: doll girl
+Time  377 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  377 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  377 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  378 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  379 :  Santa Barry  Walking back to grotto
+Time  379 :  Santa Barry  giving to children: bracelet boy
+Time  380 :  Santa Barry  giving to children: fake tattoo girl
+Time  380 :  Santa Barry  giving to children: whistle girl
+Time  380 :  Santa Barry  giving to children: fake tattoo boy
+Time  380 :  Santa Barry  giving to children: doll boy
+Time  380 :  Santa Barry  giving to children: doll girl
+Time  381 :  Santa Barry  giving to children: fake tattoo boy
+Time  381 :  Santa Barry  giving to children: bracelet boy
+Time  382 :  Santa Barry  giving to children: bracelet boy
+Time  382 :  Santa Barry  giving to children: bracelet boy
+Time: 383 :  Santa Barry  Walking to toy department
+Time  384 :  Santa Barry  retrieving from sleigh: train girl
+Time  384 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  385 :  Santa Barry  retrieving from sleigh: train boy
+Time  386 :  Santa Barry  retrieving from sleigh: train boy
+Time  386 :  Santa Barry  retrieving from sleigh: doll boy
+Time  386 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  386 :  Santa Barry  retrieving from sleigh: train boy
+Time  387 :  Santa Barry  retrieving from sleigh: train girl
+Time  387 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  388 :  Santa Barry  retrieving from sleigh: doll boy
+Time  389 :  Santa Barry  Walking back to grotto
+Time  389 :  Santa Barry  giving to children: train girl
+Time  389 :  Santa Barry  giving to children: fake tattoo girl
+Time  390 :  Santa Barry  giving to children: train boy
+Time  390 :  Santa Barry  giving to children: train boy
+Time  391 :  Santa Barry  giving to children: doll boy
+Time  392 :  Santa Barry  giving to children: fake tattoo boy
+Time  392 :  Santa Barry  giving to children: train boy
+Time  393 :  Santa Barry  giving to children: train girl
+Time  394 :  Santa Barry  giving to children: bracelet boy
+Time  395 :  Santa Barry  giving to children: doll boy
+Time: 396 :  Santa Barry  Walking to toy department
+Time  396 :  Santa Barry  retrieving from sleigh: train girl
+Time  396 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  396 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  396 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  396 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  396 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  396 :  Santa Barry  retrieving from sleigh: train girl
+Time  396 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  397 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  397 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  398 :  Santa Barry  Walking back to grotto
+Time  398 :  Santa Barry  giving to children: train girl
+Time  398 :  Santa Barry  giving to children: bracelet girl
+Time  399 :  Santa Barry  giving to children: fake tattoo boy
+Time  399 :  Santa Barry  giving to children: dinosaur girl
+Time  399 :  Santa Barry  giving to children: bracelet boy
+Time  399 :  Santa Barry  giving to children: bracelet boy
+Time  400 :  Santa Barry  giving to children: train girl
+Time  400 :  Santa Barry  giving to children: whistle boy
+Time  401 :  Santa Barry  giving to children: whistle boy
+Time  401 :  Santa Barry  giving to children: whistle boy
+Time: 402 :  Santa Barry  Walking to toy department
+Time  402 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  403 :  Santa Barry  retrieving from sleigh: doll boy
+Time  404 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  404 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  404 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  404 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  405 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  405 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  406 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  406 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  407 :  Santa Barry  Walking back to grotto
+Time  407 :  Santa Barry  giving to children: fake tattoo boy
+Time  408 :  Santa Barry  giving to children: doll boy
+Time  408 :  Santa Barry  giving to children: bracelet boy
+Time  408 :  Santa Barry  giving to children: fake tattoo boy
+Time  409 :  Santa Barry  giving to children: fake tattoo girl
+Time  410 :  Santa Barry  giving to children: dinosaur boy
+Time  411 :  Santa Barry  giving to children: bracelet boy
+Time  411 :  Santa Barry  giving to children: whistle boy
+Time  412 :  Santa Barry  giving to children: whistle boy
+Time  412 :  Santa Barry  giving to children: dinosaur girl
+Time: 413 :  Santa Barry  Walking to toy department
+Time  413 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  413 :  Santa Barry  retrieving from sleigh: doll girl
+Time  414 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  414 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  414 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  415 :  Santa Barry  retrieving from sleigh: doll girl
+Time  415 :  Santa Barry  retrieving from sleigh: train girl
+Time  416 :  Santa Barry  retrieving from sleigh: train boy
+Time  416 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  416 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  417 :  Santa Barry  Walking back to grotto
+Time  418 :  Santa Barry  giving to children: dinosaur girl
+Time  418 :  Santa Barry  giving to children: doll girl
+Time  419 :  Santa Barry  giving to children: dinosaur boy
+Time  419 :  Santa Barry  giving to children: whistle boy
+Time  419 :  Santa Barry  giving to children: whistle boy
+Time  420 :  Santa Barry  giving to children: doll girl
+Time  420 :  Santa Barry  giving to children: train girl
+Time  421 :  Santa Barry  giving to children: train boy
+Time  422 :  Santa Barry  giving to children: whistle boy
+Time  422 :  Santa Barry  giving to children: dinosaur boy
+Time: 423 :  Santa Barry  Walking to toy department
+Time  423 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  423 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  423 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  424 :  Santa Barry  retrieving from sleigh: doll boy
+Time  425 :  Santa Barry  retrieving from sleigh: train girl
+Time  425 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  425 :  Santa Barry  retrieving from sleigh: train girl
+Time  425 :  Santa Barry  retrieving from sleigh: train girl
+Time  426 :  Santa Barry  retrieving from sleigh: train girl
+Time  426 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  427 :  Santa Barry  Walking back to grotto
+Time  428 :  Santa Barry  giving to children: fake tattoo boy
+Time  429 :  Santa Barry  giving to children: fake tattoo boy
+Time  429 :  Santa Barry  giving to children: fake tattoo boy
+Time  430 :  Santa Barry  giving to children: doll boy
+Time  430 :  Santa Barry  giving to children: train girl
+Time  430 :  Santa Barry  giving to children: fake tattoo boy
+Time  430 :  Santa Barry  giving to children: train girl
+Time  431 :  Santa Barry  giving to children: train girl
+Time  431 :  Santa Barry  giving to children: train girl
+Time  432 :  Santa Barry  giving to children: whistle girl
+Time: 433 :  Santa Barry  Walking to toy department
+Time  433 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  433 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  434 :  Santa Barry  retrieving from sleigh: doll girl
+Time  434 :  Santa Barry  retrieving from sleigh: doll boy
+Time  435 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  435 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  435 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  435 :  Santa Barry  retrieving from sleigh: doll girl
+Time  435 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  436 :  Santa Barry  retrieving from sleigh: train girl
+Time  437 :  Santa Barry  Walking back to grotto
+Time  438 :  Santa Barry  giving to children: dinosaur girl
+Time  438 :  Santa Barry  giving to children: dinosaur girl
+Time  439 :  Santa Barry  giving to children: doll girl
+Time  439 :  Santa Barry  giving to children: doll boy
+Time  439 :  Santa Barry  giving to children: bracelet boy
+Time  439 :  Santa Barry  giving to children: whistle boy
+Time  440 :  Santa Barry  giving to children: fake tattoo boy
+Time  441 :  Santa Barry  giving to children: doll girl
+Time  441 :  Santa Barry  giving to children: whistle girl
+Time  442 :  Santa Barry  giving to children: train girl
+Time: 443 :  Santa Barry  Walking to toy department
+Time  443 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  444 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  444 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  444 :  Santa Barry  retrieving from sleigh: dinosaur girl
+Time  444 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  445 :  Santa Barry  retrieving from sleigh: doll girl
+Time  445 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  446 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  446 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  446 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  447 :  Santa Barry  Walking back to grotto
+Time  448 :  Santa Barry  giving to children: bracelet boy
+Time  449 :  Santa Barry  giving to children: whistle boy
+Time  449 :  Santa Barry  giving to children: dinosaur girl
+Time  450 :  Santa Barry  giving to children: dinosaur girl
+Time  450 :  Santa Barry  giving to children: whistle boy
+Time  451 :  Santa Barry  giving to children: doll girl
+Time  451 :  Santa Barry  giving to children: whistle boy
+Time  452 :  Santa Barry  giving to children: bracelet boy
+Time  453 :  Santa Barry  giving to children: fake tattoo girl
+Time  454 :  Santa Barry  giving to children: whistle boy
+Time: 455 :  Santa Barry  Walking to toy department
+Time  455 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  455 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  455 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  455 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  455 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  455 :  Santa Barry  retrieving from sleigh: doll boy
+Time  455 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  455 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  455 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  455 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  456 :  Santa Barry  Walking back to grotto
+Time  456 :  Santa Barry  giving to children: whistle girl
+Time  456 :  Santa Barry  giving to children: bracelet boy
+Time  457 :  Santa Barry  giving to children: whistle girl
+Time  458 :  Santa Barry  giving to children: bracelet girl
+Time  458 :  Santa Barry  giving to children: whistle girl
+Time  459 :  Santa Barry  giving to children: doll boy
+Time  460 :  Santa Barry  giving to children: bracelet girl
+Time  461 :  Santa Barry  giving to children: whistle girl
+Time  462 :  Santa Barry  giving to children: bracelet boy
+Time  463 :  Santa Barry  giving to children: whistle girl
+Time: 464 :  Santa Barry  Walking to toy department
+Time  464 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  464 :  Santa Barry  retrieving from sleigh: train boy
+Time  464 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  464 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  464 :  Santa Barry  retrieving from sleigh: train boy
+Time  464 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  464 :  Santa Barry  retrieving from sleigh: fake tattoo girl
+Time  464 :  Santa Barry  retrieving from sleigh: train boy
+Time  464 :  Santa Barry  retrieving from sleigh: bracelet boy
+Time  464 :  Santa Barry  retrieving from sleigh: whistle girl
+Time  465 :  Santa Barry  Walking back to grotto
+Time  466 :  Santa Barry  giving to children: bracelet boy
+Time  466 :  Santa Barry  giving to children: train boy
+Time  467 :  Santa Barry  giving to children: bracelet girl
+Time  468 :  Santa Barry  giving to children: fake tattoo boy
+Time  469 :  Santa Barry  giving to children: train boy
+Time  469 :  Santa Barry  giving to children: bracelet girl
+Time  469 :  Santa Barry  giving to children: fake tattoo girl
+Time  469 :  Santa Barry  giving to children: train boy
+Time  469 :  Santa Barry  giving to children: bracelet boy
+Time  469 :  Santa Barry  giving to children: whistle girl
+Time: 470 :  Santa Barry  Walking to toy department
+Time  470 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  470 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  470 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  470 :  Santa Barry  retrieving from sleigh: train girl
+Time  470 :  Santa Barry  retrieving from sleigh: bracelet girl
+Time  470 :  Santa Barry  retrieving from sleigh: dinosaur boy
+Time  470 :  Santa Barry  retrieving from sleigh: whistle boy
+Time  470 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  472 :  Santa Barry  retrieving from sleigh: fake tattoo boy
+Time  473 :  Santa Barry  retrieving from sleigh: doll boy
+Time  474 :  Santa Barry  Walking back to grotto
+Time  475 :  Santa Barry  giving to children: whistle boy
+Time  475 :  Santa Barry  giving to children: bracelet girl
+Time  476 :  Santa Barry  giving to children: fake tattoo boy
+Time  476 :  Santa Barry  giving to children: train girl
+Time  477 :  Santa Barry  giving to children: bracelet girl
+Time  477 :  Santa Barry  giving to children: dinosaur boy
+Time  477 :  Santa Barry  giving to children: whistle boy
+Time  478 :  Santa Barry  giving to children: fake tattoo boy
+Time  479 :  Santa Barry  giving to children: fake tattoo boy
+Time  480 :  Santa Barry  giving to children: doll boy
+Time: 480 :  Santa Barry  Walking to toy department
+Time  480 :  Santa Barry  Walking back to grotto

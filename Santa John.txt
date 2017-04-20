@@ -1,0 +1,1034 @@
+Time: 2 :  Santa John  Walking to toy department
+Time  3 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  4 :  Santa John  retrieving from sleigh: bracelet boy
+Time  6 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  7 :  Santa John  retrieving from sleigh: doll girl
+Time  10 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  10 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  12 :  Santa John  retrieving from sleigh: train girl
+Time  12 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  13 :  Santa John  retrieving from sleigh: whistle boy
+Time  13 :  Santa John  retrieving from sleigh: train girl
+Time  14 :  Santa John  Walking back to grotto
+Time  14 :  Santa John  giving to children: fake tattoo girl
+Time  14 :  Santa John  giving to children: bracelet boy
+Time  15 :  Santa John  giving to children: fake tattoo boy
+Time  15 :  Santa John  giving to children: doll girl
+Time  15 :  Santa John  giving to children: dinosaur girl
+Time  16 :  Santa John  giving to children: fake tattoo boy
+Time  16 :  Santa John  giving to children: train girl
+Time  17 :  Santa John  giving to children: dinosaur girl
+Time  17 :  Santa John  giving to children: whistle boy
+Time  17 :  Santa John  giving to children: train girl
+Time: 18 :  Santa John  Walking to toy department
+Time  18 :  Santa John  retrieving from sleigh: doll girl
+Time  19 :  Santa John  retrieving from sleigh: train boy
+Time  19 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  20 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  21 :  Santa John  retrieving from sleigh: train boy
+Time  21 :  Santa John  retrieving from sleigh: train girl
+Time  22 :  Santa John  retrieving from sleigh: whistle girl
+Time  22 :  Santa John  retrieving from sleigh: doll boy
+Time  22 :  Santa John  retrieving from sleigh: whistle girl
+Time  22 :  Santa John  retrieving from sleigh: whistle boy
+Time  23 :  Santa John  Walking back to grotto
+Time  23 :  Santa John  giving to children: doll girl
+Time  24 :  Santa John  giving to children: train boy
+Time  24 :  Santa John  giving to children: fake tattoo boy
+Time  25 :  Santa John  giving to children: fake tattoo boy
+Time  26 :  Santa John  giving to children: train boy
+Time  26 :  Santa John  giving to children: train girl
+Time  27 :  Santa John  giving to children: whistle girl
+Time  27 :  Santa John  giving to children: doll boy
+Time  28 :  Santa John  giving to children: whistle girl
+Time  28 :  Santa John  giving to children: whistle boy
+Time: 29 :  Santa John  Walking to toy department
+Time  29 :  Santa John  retrieving from sleigh: whistle girl
+Time  30 :  Santa John  retrieving from sleigh: whistle boy
+Time  30 :  Santa John  retrieving from sleigh: train boy
+Time  30 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  30 :  Santa John  retrieving from sleigh: train boy
+Time  30 :  Santa John  retrieving from sleigh: whistle girl
+Time  31 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  32 :  Santa John  retrieving from sleigh: train boy
+Time  33 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  33 :  Santa John  retrieving from sleigh: whistle boy
+Time  34 :  Santa John  Walking back to grotto
+Time  35 :  Santa John  giving to children: whistle girl
+Time  35 :  Santa John  giving to children: whistle boy
+Time  36 :  Santa John  giving to children: train boy
+Time  37 :  Santa John  giving to children: fake tattoo girl
+Time  37 :  Santa John  giving to children: train boy
+Time  38 :  Santa John  giving to children: whistle girl
+Time  38 :  Santa John  giving to children: fake tattoo girl
+Time  39 :  Santa John  giving to children: train boy
+Time  40 :  Santa John  giving to children: dinosaur girl
+Time  40 :  Santa John  giving to children: whistle boy
+Time: 41 :  Santa John  Walking to toy department
+Time  42 :  Santa John  retrieving from sleigh: train girl
+Time  42 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  42 :  Santa John  retrieving from sleigh: doll girl
+Time  43 :  Santa John  retrieving from sleigh: train girl
+Time  43 :  Santa John  retrieving from sleigh: bracelet boy
+Time  44 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  44 :  Santa John  retrieving from sleigh: train boy
+Time  44 :  Santa John  retrieving from sleigh: bracelet girl
+Time  45 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  45 :  Santa John  retrieving from sleigh: train boy
+Time  46 :  Santa John  Walking back to grotto
+Time  47 :  Santa John  giving to children: train girl
+Time  48 :  Santa John  giving to children: fake tattoo girl
+Time  49 :  Santa John  giving to children: doll girl
+Time  49 :  Santa John  giving to children: train girl
+Time  50 :  Santa John  giving to children: bracelet boy
+Time  50 :  Santa John  giving to children: fake tattoo boy
+Time  50 :  Santa John  giving to children: train boy
+Time  51 :  Santa John  giving to children: bracelet girl
+Time  51 :  Santa John  giving to children: dinosaur boy
+Time  52 :  Santa John  giving to children: train boy
+Time: 53 :  Santa John  Walking to toy department
+Time  53 :  Santa John  retrieving from sleigh: bracelet girl
+Time  53 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  53 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  53 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  54 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  54 :  Santa John  retrieving from sleigh: doll boy
+Time  55 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  55 :  Santa John  retrieving from sleigh: bracelet boy
+Time  55 :  Santa John  retrieving from sleigh: bracelet boy
+Time  55 :  Santa John  retrieving from sleigh: bracelet girl
+Time  56 :  Santa John  Walking back to grotto
+Time  57 :  Santa John  giving to children: bracelet girl
+Time  57 :  Santa John  giving to children: dinosaur boy
+Time  58 :  Santa John  giving to children: dinosaur boy
+Time  58 :  Santa John  giving to children: fake tattoo boy
+Time  59 :  Santa John  giving to children: dinosaur boy
+Time  59 :  Santa John  giving to children: doll boy
+Time  60 :  Santa John  giving to children: fake tattoo girl
+Time  60 :  Santa John  giving to children: bracelet boy
+Time  61 :  Santa John  giving to children: bracelet boy
+Time  61 :  Santa John  giving to children: bracelet girl
+Time: 62 :  Santa John  Walking to toy department
+Time  62 :  Santa John  retrieving from sleigh: whistle girl
+Time  62 :  Santa John  retrieving from sleigh: whistle boy
+Time  63 :  Santa John  retrieving from sleigh: whistle boy
+Time  63 :  Santa John  retrieving from sleigh: whistle boy
+Time  64 :  Santa John  retrieving from sleigh: whistle girl
+Time  65 :  Santa John  retrieving from sleigh: bracelet girl
+Time  65 :  Santa John  retrieving from sleigh: train girl
+Time  65 :  Santa John  retrieving from sleigh: bracelet girl
+Time  66 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  66 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  67 :  Santa John  Walking back to grotto
+Time  68 :  Santa John  giving to children: whistle girl
+Time  68 :  Santa John  giving to children: whistle boy
+Time  68 :  Santa John  giving to children: whistle boy
+Time  68 :  Santa John  giving to children: whistle boy
+Time  69 :  Santa John  giving to children: whistle girl
+Time  69 :  Santa John  giving to children: bracelet girl
+Time  70 :  Santa John  giving to children: train girl
+Time  71 :  Santa John  giving to children: bracelet girl
+Time  71 :  Santa John  giving to children: fake tattoo boy
+Time  71 :  Santa John  giving to children: fake tattoo boy
+Time: 72 :  Santa John  Walking to toy department
+Time  72 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  72 :  Santa John  retrieving from sleigh: whistle girl
+Time  72 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  72 :  Santa John  retrieving from sleigh: whistle girl
+Time  72 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  72 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  72 :  Santa John  retrieving from sleigh: whistle girl
+Time  72 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  72 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  72 :  Santa John  retrieving from sleigh: whistle girl
+Time  73 :  Santa John  Walking back to grotto
+Time  73 :  Santa John  giving to children: fake tattoo boy
+Time  74 :  Santa John  giving to children: whistle girl
+Time  74 :  Santa John  giving to children: fake tattoo boy
+Time  75 :  Santa John  giving to children: whistle girl
+Time  76 :  Santa John  giving to children: dinosaur boy
+Time  76 :  Santa John  giving to children: fake tattoo boy
+Time  76 :  Santa John  giving to children: whistle girl
+Time  76 :  Santa John  giving to children: fake tattoo boy
+Time  76 :  Santa John  giving to children: dinosaur boy
+Time  77 :  Santa John  giving to children: whistle girl
+Time: 78 :  Santa John  Walking to toy department
+Time  78 :  Santa John  retrieving from sleigh: bracelet boy
+Time  78 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  79 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  80 :  Santa John  retrieving from sleigh: doll boy
+Time  81 :  Santa John  retrieving from sleigh: bracelet boy
+Time  81 :  Santa John  retrieving from sleigh: bracelet boy
+Time  81 :  Santa John  retrieving from sleigh: doll boy
+Time  81 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  82 :  Santa John  retrieving from sleigh: train boy
+Time  82 :  Santa John  retrieving from sleigh: doll boy
+Time  83 :  Santa John  Walking back to grotto
+Time  84 :  Santa John  giving to children: bracelet boy
+Time  84 :  Santa John  giving to children: dinosaur boy
+Time  84 :  Santa John  giving to children: dinosaur girl
+Time  85 :  Santa John  giving to children: doll boy
+Time  85 :  Santa John  giving to children: bracelet boy
+Time  86 :  Santa John  giving to children: bracelet boy
+Time  86 :  Santa John  giving to children: doll boy
+Time  87 :  Santa John  giving to children: dinosaur girl
+Time  87 :  Santa John  giving to children: train boy
+Time  88 :  Santa John  giving to children: doll boy
+Time: 89 :  Santa John  Walking to toy department
+Time  89 :  Santa John  retrieving from sleigh: train girl
+Time  90 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  90 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  90 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  90 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  91 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  91 :  Santa John  retrieving from sleigh: whistle girl
+Time  91 :  Santa John  retrieving from sleigh: train girl
+Time  93 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  93 :  Santa John  retrieving from sleigh: doll girl
+Time  94 :  Santa John  Walking back to grotto
+Time  94 :  Santa John  giving to children: train girl
+Time  95 :  Santa John  giving to children: dinosaur boy
+Time  96 :  Santa John  giving to children: dinosaur boy
+Time  96 :  Santa John  giving to children: fake tattoo boy
+Time  96 :  Santa John  giving to children: dinosaur girl
+Time  97 :  Santa John  giving to children: dinosaur boy
+Time  97 :  Santa John  giving to children: whistle girl
+Time  98 :  Santa John  giving to children: train girl
+Time  99 :  Santa John  giving to children: fake tattoo boy
+Time  99 :  Santa John  giving to children: doll girl
+Time: 100 :  Santa John  Walking to toy department
+Time  100 :  Santa John  retrieving from sleigh: bracelet boy
+Time  100 :  Santa John  retrieving from sleigh: train girl
+Time  100 :  Santa John  retrieving from sleigh: doll girl
+Time  100 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  100 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  100 :  Santa John  retrieving from sleigh: doll girl
+Time  101 :  Santa John  retrieving from sleigh: train girl
+Time  101 :  Santa John  retrieving from sleigh: whistle girl
+Time  101 :  Santa John  retrieving from sleigh: bracelet girl
+Time  101 :  Santa John  retrieving from sleigh: doll girl
+Time  102 :  Santa John  Walking back to grotto
+Time  103 :  Santa John  giving to children: bracelet boy
+Time  104 :  Santa John  giving to children: train girl
+Time  104 :  Santa John  giving to children: doll girl
+Time  105 :  Santa John  giving to children: dinosaur boy
+Time  106 :  Santa John  giving to children: fake tattoo girl
+Time  106 :  Santa John  giving to children: doll girl
+Time  107 :  Santa John  giving to children: train girl
+Time  108 :  Santa John  giving to children: whistle girl
+Time  109 :  Santa John  giving to children: bracelet girl
+Time  110 :  Santa John  giving to children: doll girl
+Time: 111 :  Santa John  Walking to toy department
+Time  111 :  Santa John  retrieving from sleigh: bracelet girl
+Time  111 :  Santa John  retrieving from sleigh: train boy
+Time  111 :  Santa John  retrieving from sleigh: train boy
+Time  111 :  Santa John  retrieving from sleigh: doll boy
+Time  111 :  Santa John  retrieving from sleigh: bracelet girl
+Time  111 :  Santa John  retrieving from sleigh: bracelet boy
+Time  111 :  Santa John  retrieving from sleigh: whistle girl
+Time  111 :  Santa John  retrieving from sleigh: train boy
+Time  111 :  Santa John  retrieving from sleigh: bracelet boy
+Time  111 :  Santa John  retrieving from sleigh: doll boy
+Time  112 :  Santa John  Walking back to grotto
+Time  113 :  Santa John  giving to children: bracelet girl
+Time  114 :  Santa John  giving to children: train boy
+Time  114 :  Santa John  giving to children: train boy
+Time  115 :  Santa John  giving to children: doll boy
+Time  116 :  Santa John  giving to children: bracelet girl
+Time  116 :  Santa John  giving to children: bracelet boy
+Time  116 :  Santa John  giving to children: whistle girl
+Time  116 :  Santa John  giving to children: train boy
+Time  117 :  Santa John  giving to children: bracelet boy
+Time  117 :  Santa John  giving to children: doll boy
+Time: 118 :  Santa John  Walking to toy department
+Time  119 :  Santa John  retrieving from sleigh: doll boy
+Time  119 :  Santa John  retrieving from sleigh: train girl
+Time  119 :  Santa John  retrieving from sleigh: doll boy
+Time  119 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  120 :  Santa John  retrieving from sleigh: doll boy
+Time  120 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  121 :  Santa John  retrieving from sleigh: train girl
+Time  122 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  122 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  122 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  123 :  Santa John  Walking back to grotto
+Time  124 :  Santa John  giving to children: doll boy
+Time  125 :  Santa John  giving to children: train girl
+Time  126 :  Santa John  giving to children: doll boy
+Time  126 :  Santa John  giving to children: fake tattoo girl
+Time  126 :  Santa John  giving to children: doll boy
+Time  127 :  Santa John  giving to children: dinosaur girl
+Time  128 :  Santa John  giving to children: train girl
+Time  128 :  Santa John  giving to children: dinosaur girl
+Time  129 :  Santa John  giving to children: dinosaur girl
+Time  129 :  Santa John  giving to children: dinosaur boy
+Time: 130 :  Santa John  Walking to toy department
+Time  130 :  Santa John  retrieving from sleigh: doll girl
+Time  130 :  Santa John  retrieving from sleigh: doll girl
+Time  130 :  Santa John  retrieving from sleigh: whistle boy
+Time  130 :  Santa John  retrieving from sleigh: train boy
+Time  131 :  Santa John  retrieving from sleigh: doll boy
+Time  131 :  Santa John  retrieving from sleigh: bracelet boy
+Time  131 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  131 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  132 :  Santa John  retrieving from sleigh: whistle girl
+Time  132 :  Santa John  retrieving from sleigh: train boy
+Time  133 :  Santa John  Walking back to grotto
+Time  133 :  Santa John  giving to children: doll girl
+Time  134 :  Santa John  giving to children: doll girl
+Time  135 :  Santa John  giving to children: whistle boy
+Time  135 :  Santa John  giving to children: train boy
+Time  136 :  Santa John  giving to children: doll boy
+Time  137 :  Santa John  giving to children: bracelet boy
+Time  137 :  Santa John  giving to children: dinosaur girl
+Time  138 :  Santa John  giving to children: fake tattoo girl
+Time  138 :  Santa John  giving to children: whistle girl
+Time  139 :  Santa John  giving to children: train boy
+Time: 140 :  Santa John  Walking to toy department
+Time  140 :  Santa John  retrieving from sleigh: whistle boy
+Time  140 :  Santa John  retrieving from sleigh: bracelet boy
+Time  140 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  140 :  Santa John  retrieving from sleigh: bracelet girl
+Time  141 :  Santa John  retrieving from sleigh: train girl
+Time  141 :  Santa John  retrieving from sleigh: whistle boy
+Time  141 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  141 :  Santa John  retrieving from sleigh: bracelet boy
+Time  142 :  Santa John  retrieving from sleigh: bracelet boy
+Time  142 :  Santa John  retrieving from sleigh: doll girl
+Time  143 :  Santa John  Walking back to grotto
+Time  144 :  Santa John  giving to children: whistle boy
+Time  144 :  Santa John  giving to children: bracelet boy
+Time  144 :  Santa John  giving to children: dinosaur girl
+Time  144 :  Santa John  giving to children: bracelet girl
+Time  145 :  Santa John  giving to children: train girl
+Time  146 :  Santa John  giving to children: whistle boy
+Time  147 :  Santa John  giving to children: fake tattoo girl
+Time  147 :  Santa John  giving to children: bracelet boy
+Time  148 :  Santa John  giving to children: bracelet boy
+Time  148 :  Santa John  giving to children: doll girl
+Time: 149 :  Santa John  Walking to toy department
+Time  150 :  Santa John  retrieving from sleigh: train boy
+Time  151 :  Santa John  retrieving from sleigh: doll girl
+Time  151 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  151 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  151 :  Santa John  retrieving from sleigh: bracelet boy
+Time  152 :  Santa John  retrieving from sleigh: doll girl
+Time  152 :  Santa John  retrieving from sleigh: bracelet girl
+Time  152 :  Santa John  retrieving from sleigh: doll girl
+Time  153 :  Santa John  retrieving from sleigh: whistle boy
+Time  153 :  Santa John  retrieving from sleigh: doll boy
+Time  154 :  Santa John  Walking back to grotto
+Time  155 :  Santa John  giving to children: train boy
+Time  155 :  Santa John  giving to children: doll girl
+Time  156 :  Santa John  giving to children: dinosaur girl
+Time  156 :  Santa John  giving to children: fake tattoo girl
+Time  157 :  Santa John  giving to children: bracelet boy
+Time  157 :  Santa John  giving to children: doll girl
+Time  157 :  Santa John  giving to children: bracelet girl
+Time  158 :  Santa John  giving to children: doll girl
+Time  159 :  Santa John  giving to children: whistle boy
+Time  159 :  Santa John  giving to children: doll boy
+Time: 160 :  Santa John  Walking to toy department
+Time  160 :  Santa John  retrieving from sleigh: doll boy
+Time  161 :  Santa John  retrieving from sleigh: train girl
+Time  161 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  162 :  Santa John  retrieving from sleigh: whistle girl
+Time  162 :  Santa John  retrieving from sleigh: train girl
+Time  162 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  162 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  163 :  Santa John  retrieving from sleigh: doll boy
+Time  163 :  Santa John  retrieving from sleigh: bracelet boy
+Time  163 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  164 :  Santa John  Walking back to grotto
+Time  165 :  Santa John  giving to children: doll boy
+Time  165 :  Santa John  giving to children: train girl
+Time  166 :  Santa John  giving to children: fake tattoo girl
+Time  166 :  Santa John  giving to children: whistle girl
+Time  167 :  Santa John  giving to children: train girl
+Time  167 :  Santa John  giving to children: fake tattoo boy
+Time  168 :  Santa John  giving to children: dinosaur girl
+Time  168 :  Santa John  giving to children: doll boy
+Time  168 :  Santa John  giving to children: bracelet boy
+Time  169 :  Santa John  giving to children: fake tattoo boy
+Time: 170 :  Santa John  Walking to toy department
+Time  170 :  Santa John  retrieving from sleigh: doll girl
+Time  170 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  170 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  170 :  Santa John  retrieving from sleigh: bracelet girl
+Time  171 :  Santa John  retrieving from sleigh: doll boy
+Time  171 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  171 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  172 :  Santa John  retrieving from sleigh: train boy
+Time  172 :  Santa John  retrieving from sleigh: bracelet girl
+Time  173 :  Santa John  retrieving from sleigh: whistle girl
+Time  174 :  Santa John  Walking back to grotto
+Time  174 :  Santa John  giving to children: doll girl
+Time  175 :  Santa John  giving to children: dinosaur boy
+Time  175 :  Santa John  giving to children: dinosaur boy
+Time  175 :  Santa John  giving to children: bracelet girl
+Time  176 :  Santa John  giving to children: doll boy
+Time  177 :  Santa John  giving to children: dinosaur girl
+Time  177 :  Santa John  giving to children: dinosaur boy
+Time  178 :  Santa John  giving to children: train boy
+Time  179 :  Santa John  giving to children: bracelet girl
+Time  179 :  Santa John  giving to children: whistle girl
+Time: 180 :  Santa John  Walking to toy department
+Time  180 :  Santa John  retrieving from sleigh: bracelet girl
+Time  181 :  Santa John  retrieving from sleigh: doll boy
+Time  181 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  181 :  Santa John  retrieving from sleigh: doll girl
+Time  181 :  Santa John  retrieving from sleigh: bracelet girl
+Time  182 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  183 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  183 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  184 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  185 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  186 :  Santa John  Walking back to grotto
+Time  186 :  Santa John  giving to children: bracelet girl
+Time  187 :  Santa John  giving to children: doll boy
+Time  187 :  Santa John  giving to children: fake tattoo boy
+Time  188 :  Santa John  giving to children: doll girl
+Time  188 :  Santa John  giving to children: bracelet girl
+Time  189 :  Santa John  giving to children: fake tattoo girl
+Time  189 :  Santa John  giving to children: dinosaur boy
+Time  189 :  Santa John  giving to children: fake tattoo girl
+Time  190 :  Santa John  giving to children: dinosaur boy
+Time  190 :  Santa John  giving to children: dinosaur boy
+Time: 191 :  Santa John  Walking to toy department
+Time  191 :  Santa John  retrieving from sleigh: whistle girl
+Time  191 :  Santa John  retrieving from sleigh: train girl
+Time  191 :  Santa John  retrieving from sleigh: train girl
+Time  191 :  Santa John  retrieving from sleigh: bracelet boy
+Time  191 :  Santa John  retrieving from sleigh: train girl
+Time  193 :  Santa John  retrieving from sleigh: train girl
+Time  193 :  Santa John  retrieving from sleigh: whistle boy
+Time  193 :  Santa John  retrieving from sleigh: bracelet boy
+Time  193 :  Santa John  retrieving from sleigh: train girl
+Time  194 :  Santa John  retrieving from sleigh: whistle boy
+Time  195 :  Santa John  Walking back to grotto
+Time  195 :  Santa John  giving to children: whistle girl
+Time  195 :  Santa John  giving to children: train girl
+Time  196 :  Santa John  giving to children: train girl
+Time  196 :  Santa John  giving to children: bracelet boy
+Time  196 :  Santa John  giving to children: train girl
+Time  196 :  Santa John  giving to children: train girl
+Time  197 :  Santa John  giving to children: whistle boy
+Time  197 :  Santa John  giving to children: bracelet boy
+Time  198 :  Santa John  giving to children: train girl
+Time  199 :  Santa John  giving to children: whistle boy
+Time: 200 :  Santa John  Walking to toy department
+Time  200 :  Santa John  retrieving from sleigh: whistle girl
+Time  200 :  Santa John  retrieving from sleigh: bracelet girl
+Time  200 :  Santa John  retrieving from sleigh: whistle girl
+Time  201 :  Santa John  retrieving from sleigh: doll girl
+Time  201 :  Santa John  retrieving from sleigh: whistle boy
+Time  201 :  Santa John  retrieving from sleigh: train girl
+Time  201 :  Santa John  retrieving from sleigh: bracelet girl
+Time  202 :  Santa John  retrieving from sleigh: whistle girl
+Time  202 :  Santa John  retrieving from sleigh: train boy
+Time  202 :  Santa John  retrieving from sleigh: doll girl
+Time  203 :  Santa John  Walking back to grotto
+Time  204 :  Santa John  giving to children: whistle girl
+Time  204 :  Santa John  giving to children: bracelet girl
+Time  205 :  Santa John  giving to children: whistle girl
+Time  205 :  Santa John  giving to children: doll girl
+Time  206 :  Santa John  giving to children: whistle boy
+Time  206 :  Santa John  giving to children: train girl
+Time  207 :  Santa John  giving to children: bracelet girl
+Time  207 :  Santa John  giving to children: whistle girl
+Time  208 :  Santa John  giving to children: train boy
+Time  208 :  Santa John  giving to children: doll girl
+Time: 209 :  Santa John  Walking to toy department
+Time  210 :  Santa John  retrieving from sleigh: bracelet girl
+Time  210 :  Santa John  retrieving from sleigh: doll girl
+Time  211 :  Santa John  retrieving from sleigh: train girl
+Time  212 :  Santa John  retrieving from sleigh: bracelet boy
+Time  212 :  Santa John  retrieving from sleigh: train girl
+Time  212 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  212 :  Santa John  retrieving from sleigh: whistle girl
+Time  212 :  Santa John  retrieving from sleigh: train girl
+Time  213 :  Santa John  retrieving from sleigh: train girl
+Time  213 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  214 :  Santa John  Walking back to grotto
+Time  214 :  Santa John  giving to children: bracelet girl
+Time  214 :  Santa John  giving to children: doll girl
+Time  215 :  Santa John  giving to children: train girl
+Time  216 :  Santa John  giving to children: bracelet boy
+Time  216 :  Santa John  giving to children: train girl
+Time  217 :  Santa John  giving to children: fake tattoo girl
+Time  218 :  Santa John  giving to children: whistle girl
+Time  218 :  Santa John  giving to children: train girl
+Time  219 :  Santa John  giving to children: train girl
+Time  220 :  Santa John  giving to children: fake tattoo girl
+Time: 221 :  Santa John  Walking to toy department
+Time  221 :  Santa John  retrieving from sleigh: doll girl
+Time  221 :  Santa John  retrieving from sleigh: doll girl
+Time  221 :  Santa John  retrieving from sleigh: train girl
+Time  221 :  Santa John  retrieving from sleigh: doll girl
+Time  223 :  Santa John  retrieving from sleigh: train girl
+Time  223 :  Santa John  retrieving from sleigh: bracelet girl
+Time  223 :  Santa John  retrieving from sleigh: train girl
+Time  224 :  Santa John  retrieving from sleigh: whistle girl
+Time  224 :  Santa John  retrieving from sleigh: whistle girl
+Time  224 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  225 :  Santa John  Walking back to grotto
+Time  225 :  Santa John  giving to children: doll girl
+Time  225 :  Santa John  giving to children: doll girl
+Time  226 :  Santa John  giving to children: train girl
+Time  227 :  Santa John  giving to children: doll girl
+Time  227 :  Santa John  giving to children: train girl
+Time  228 :  Santa John  giving to children: bracelet girl
+Time  228 :  Santa John  giving to children: train girl
+Time  229 :  Santa John  giving to children: whistle girl
+Time  229 :  Santa John  giving to children: whistle girl
+Time  230 :  Santa John  giving to children: dinosaur boy
+Time: 231 :  Santa John  Walking to toy department
+Time  231 :  Santa John  retrieving from sleigh: train girl
+Time  231 :  Santa John  retrieving from sleigh: bracelet boy
+Time  231 :  Santa John  retrieving from sleigh: whistle girl
+Time  231 :  Santa John  retrieving from sleigh: doll girl
+Time  232 :  Santa John  retrieving from sleigh: train girl
+Time  232 :  Santa John  retrieving from sleigh: doll boy
+Time  232 :  Santa John  retrieving from sleigh: doll girl
+Time  232 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  233 :  Santa John  retrieving from sleigh: train girl
+Time  234 :  Santa John  retrieving from sleigh: doll boy
+Time  235 :  Santa John  Walking back to grotto
+Time  235 :  Santa John  giving to children: train girl
+Time  235 :  Santa John  giving to children: bracelet boy
+Time  235 :  Santa John  giving to children: whistle girl
+Time  235 :  Santa John  giving to children: doll girl
+Time  236 :  Santa John  giving to children: train girl
+Time  236 :  Santa John  giving to children: doll boy
+Time  237 :  Santa John  giving to children: doll girl
+Time  238 :  Santa John  giving to children: fake tattoo boy
+Time  239 :  Santa John  giving to children: train girl
+Time  239 :  Santa John  giving to children: doll boy
+Time: 240 :  Santa John  Walking to toy department
+Time  241 :  Santa John  retrieving from sleigh: doll girl
+Time  241 :  Santa John  retrieving from sleigh: whistle girl
+Time  242 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  242 :  Santa John  retrieving from sleigh: whistle girl
+Time  242 :  Santa John  retrieving from sleigh: bracelet girl
+Time  242 :  Santa John  retrieving from sleigh: whistle girl
+Time  242 :  Santa John  retrieving from sleigh: doll girl
+Time  243 :  Santa John  retrieving from sleigh: whistle girl
+Time  243 :  Santa John  retrieving from sleigh: train girl
+Time  244 :  Santa John  retrieving from sleigh: train boy
+Time  245 :  Santa John  Walking back to grotto
+Time  245 :  Santa John  giving to children: doll girl
+Time  245 :  Santa John  giving to children: whistle girl
+Time  246 :  Santa John  giving to children: fake tattoo girl
+Time  246 :  Santa John  giving to children: whistle girl
+Time  247 :  Santa John  giving to children: bracelet girl
+Time  248 :  Santa John  giving to children: whistle girl
+Time  249 :  Santa John  giving to children: doll girl
+Time  249 :  Santa John  giving to children: whistle girl
+Time  250 :  Santa John  giving to children: train girl
+Time  250 :  Santa John  giving to children: train boy
+Time: 251 :  Santa John  Walking to toy department
+Time  251 :  Santa John  retrieving from sleigh: doll girl
+Time  251 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  251 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  251 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  252 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  252 :  Santa John  retrieving from sleigh: whistle boy
+Time  252 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  252 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  253 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  253 :  Santa John  retrieving from sleigh: whistle boy
+Time  254 :  Santa John  Walking back to grotto
+Time  255 :  Santa John  giving to children: doll girl
+Time  256 :  Santa John  giving to children: dinosaur boy
+Time  256 :  Santa John  giving to children: fake tattoo girl
+Time  256 :  Santa John  giving to children: fake tattoo boy
+Time  256 :  Santa John  giving to children: fake tattoo boy
+Time  257 :  Santa John  giving to children: whistle boy
+Time  258 :  Santa John  giving to children: fake tattoo boy
+Time  259 :  Santa John  giving to children: fake tattoo girl
+Time  260 :  Santa John  giving to children: dinosaur boy
+Time  260 :  Santa John  giving to children: whistle boy
+Time: 261 :  Santa John  Walking to toy department
+Time  261 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  261 :  Santa John  retrieving from sleigh: doll girl
+Time  261 :  Santa John  retrieving from sleigh: doll girl
+Time  261 :  Santa John  retrieving from sleigh: doll boy
+Time  261 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  262 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  262 :  Santa John  retrieving from sleigh: whistle boy
+Time  263 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  264 :  Santa John  retrieving from sleigh: bracelet girl
+Time  264 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  265 :  Santa John  Walking back to grotto
+Time  266 :  Santa John  giving to children: fake tattoo girl
+Time  267 :  Santa John  giving to children: doll girl
+Time  267 :  Santa John  giving to children: doll girl
+Time  267 :  Santa John  giving to children: doll boy
+Time  268 :  Santa John  giving to children: dinosaur girl
+Time  269 :  Santa John  giving to children: fake tattoo girl
+Time  270 :  Santa John  giving to children: whistle boy
+Time  271 :  Santa John  giving to children: dinosaur girl
+Time  271 :  Santa John  giving to children: bracelet girl
+Time  272 :  Santa John  giving to children: fake tattoo boy
+Time: 273 :  Santa John  Walking to toy department
+Time  273 :  Santa John  retrieving from sleigh: bracelet boy
+Time  273 :  Santa John  retrieving from sleigh: train girl
+Time  273 :  Santa John  retrieving from sleigh: doll girl
+Time  273 :  Santa John  retrieving from sleigh: bracelet boy
+Time  273 :  Santa John  retrieving from sleigh: train girl
+Time  273 :  Santa John  retrieving from sleigh: bracelet boy
+Time  273 :  Santa John  retrieving from sleigh: train girl
+Time  273 :  Santa John  retrieving from sleigh: bracelet boy
+Time  273 :  Santa John  retrieving from sleigh: doll girl
+Time  274 :  Santa John  retrieving from sleigh: bracelet boy
+Time  275 :  Santa John  Walking back to grotto
+Time  276 :  Santa John  giving to children: bracelet boy
+Time  276 :  Santa John  giving to children: train girl
+Time  276 :  Santa John  giving to children: doll girl
+Time  277 :  Santa John  giving to children: bracelet boy
+Time  278 :  Santa John  giving to children: train girl
+Time  278 :  Santa John  giving to children: bracelet boy
+Time  279 :  Santa John  giving to children: train girl
+Time  279 :  Santa John  giving to children: bracelet boy
+Time  279 :  Santa John  giving to children: doll girl
+Time  280 :  Santa John  giving to children: bracelet boy
+Time: 281 :  Santa John  Walking to toy department
+Time  281 :  Santa John  retrieving from sleigh: train girl
+Time  281 :  Santa John  retrieving from sleigh: whistle boy
+Time  281 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  281 :  Santa John  retrieving from sleigh: doll boy
+Time  282 :  Santa John  retrieving from sleigh: doll boy
+Time  283 :  Santa John  retrieving from sleigh: whistle girl
+Time  283 :  Santa John  retrieving from sleigh: doll boy
+Time  284 :  Santa John  retrieving from sleigh: doll boy
+Time  284 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  284 :  Santa John  retrieving from sleigh: train girl
+Time  285 :  Santa John  Walking back to grotto
+Time  285 :  Santa John  giving to children: train girl
+Time  286 :  Santa John  giving to children: whistle boy
+Time  286 :  Santa John  giving to children: dinosaur girl
+Time  287 :  Santa John  giving to children: doll boy
+Time  288 :  Santa John  giving to children: doll boy
+Time  289 :  Santa John  giving to children: whistle girl
+Time  289 :  Santa John  giving to children: doll boy
+Time  290 :  Santa John  giving to children: doll boy
+Time  290 :  Santa John  giving to children: dinosaur boy
+Time  291 :  Santa John  giving to children: train girl
+Time: 292 :  Santa John  Walking to toy department
+Time  292 :  Santa John  retrieving from sleigh: bracelet girl
+Time  292 :  Santa John  retrieving from sleigh: whistle boy
+Time  292 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  292 :  Santa John  retrieving from sleigh: bracelet boy
+Time  292 :  Santa John  retrieving from sleigh: bracelet girl
+Time  292 :  Santa John  retrieving from sleigh: whistle boy
+Time  292 :  Santa John  retrieving from sleigh: bracelet boy
+Time  292 :  Santa John  retrieving from sleigh: whistle boy
+Time  292 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  293 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  294 :  Santa John  Walking back to grotto
+Time  295 :  Santa John  giving to children: bracelet girl
+Time  295 :  Santa John  giving to children: whistle boy
+Time  295 :  Santa John  giving to children: fake tattoo girl
+Time  296 :  Santa John  giving to children: bracelet boy
+Time  296 :  Santa John  giving to children: bracelet girl
+Time  297 :  Santa John  giving to children: whistle boy
+Time  298 :  Santa John  giving to children: bracelet boy
+Time  298 :  Santa John  giving to children: whistle boy
+Time  298 :  Santa John  giving to children: dinosaur girl
+Time  299 :  Santa John  giving to children: fake tattoo girl
+Time: 300 :  Santa John  Walking to toy department
+Time  300 :  Santa John  retrieving from sleigh: whistle girl
+Time  300 :  Santa John  retrieving from sleigh: train boy
+Time  300 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  300 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  300 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  301 :  Santa John  retrieving from sleigh: bracelet boy
+Time  301 :  Santa John  retrieving from sleigh: train girl
+Time  302 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  303 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  305 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  306 :  Santa John  Walking back to grotto
+Time  307 :  Santa John  giving to children: whistle girl
+Time  307 :  Santa John  giving to children: train boy
+Time  307 :  Santa John  giving to children: fake tattoo girl
+Time  308 :  Santa John  giving to children: dinosaur boy
+Time  309 :  Santa John  giving to children: fake tattoo girl
+Time  309 :  Santa John  giving to children: bracelet boy
+Time  310 :  Santa John  giving to children: train girl
+Time  311 :  Santa John  giving to children: dinosaur girl
+Time  311 :  Santa John  giving to children: fake tattoo girl
+Time  311 :  Santa John  giving to children: dinosaur boy
+Time: 312 :  Santa John  Walking to toy department
+Time  312 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  312 :  Santa John  retrieving from sleigh: bracelet boy
+Time  312 :  Santa John  retrieving from sleigh: train boy
+Time  312 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  312 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  312 :  Santa John  retrieving from sleigh: doll boy
+Time  312 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  312 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  312 :  Santa John  retrieving from sleigh: train boy
+Time  312 :  Santa John  retrieving from sleigh: bracelet boy
+Time  313 :  Santa John  Walking back to grotto
+Time  314 :  Santa John  giving to children: fake tattoo boy
+Time  314 :  Santa John  giving to children: bracelet boy
+Time  315 :  Santa John  giving to children: train boy
+Time  315 :  Santa John  giving to children: fake tattoo boy
+Time  316 :  Santa John  giving to children: dinosaur girl
+Time  316 :  Santa John  giving to children: doll boy
+Time  316 :  Santa John  giving to children: fake tattoo boy
+Time  316 :  Santa John  giving to children: dinosaur girl
+Time  317 :  Santa John  giving to children: train boy
+Time  318 :  Santa John  giving to children: bracelet boy
+Time: 319 :  Santa John  Walking to toy department
+Time  320 :  Santa John  retrieving from sleigh: whistle boy
+Time  320 :  Santa John  retrieving from sleigh: doll boy
+Time  320 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  321 :  Santa John  retrieving from sleigh: bracelet boy
+Time  321 :  Santa John  retrieving from sleigh: bracelet boy
+Time  322 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  322 :  Santa John  retrieving from sleigh: whistle girl
+Time  322 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  324 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  324 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  325 :  Santa John  Walking back to grotto
+Time  326 :  Santa John  giving to children: whistle boy
+Time  326 :  Santa John  giving to children: doll boy
+Time  327 :  Santa John  giving to children: fake tattoo boy
+Time  327 :  Santa John  giving to children: bracelet boy
+Time  328 :  Santa John  giving to children: bracelet boy
+Time  328 :  Santa John  giving to children: fake tattoo boy
+Time  329 :  Santa John  giving to children: whistle girl
+Time  329 :  Santa John  giving to children: dinosaur girl
+Time  329 :  Santa John  giving to children: fake tattoo boy
+Time  330 :  Santa John  giving to children: fake tattoo girl
+Time: 331 :  Santa John  Walking to toy department
+Time  331 :  Santa John  retrieving from sleigh: train girl
+Time  331 :  Santa John  retrieving from sleigh: bracelet girl
+Time  331 :  Santa John  retrieving from sleigh: train girl
+Time  331 :  Santa John  retrieving from sleigh: train boy
+Time  331 :  Santa John  retrieving from sleigh: bracelet girl
+Time  332 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  332 :  Santa John  retrieving from sleigh: doll boy
+Time  332 :  Santa John  retrieving from sleigh: doll boy
+Time  332 :  Santa John  retrieving from sleigh: bracelet boy
+Time  332 :  Santa John  retrieving from sleigh: doll boy
+Time  333 :  Santa John  Walking back to grotto
+Time  333 :  Santa John  giving to children: train girl
+Time  333 :  Santa John  giving to children: bracelet girl
+Time  334 :  Santa John  giving to children: train girl
+Time  334 :  Santa John  giving to children: train boy
+Time  335 :  Santa John  giving to children: bracelet girl
+Time  335 :  Santa John  giving to children: fake tattoo boy
+Time  336 :  Santa John  giving to children: doll boy
+Time  337 :  Santa John  giving to children: doll boy
+Time  338 :  Santa John  giving to children: bracelet boy
+Time  338 :  Santa John  giving to children: doll boy
+Time: 339 :  Santa John  Walking to toy department
+Time  340 :  Santa John  retrieving from sleigh: doll boy
+Time  340 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  341 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  341 :  Santa John  retrieving from sleigh: whistle boy
+Time  342 :  Santa John  retrieving from sleigh: train boy
+Time  342 :  Santa John  retrieving from sleigh: train girl
+Time  343 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  343 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  343 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  344 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  345 :  Santa John  Walking back to grotto
+Time  345 :  Santa John  giving to children: doll boy
+Time  345 :  Santa John  giving to children: dinosaur girl
+Time  346 :  Santa John  giving to children: fake tattoo girl
+Time  347 :  Santa John  giving to children: whistle boy
+Time  347 :  Santa John  giving to children: train boy
+Time  347 :  Santa John  giving to children: train girl
+Time  348 :  Santa John  giving to children: fake tattoo girl
+Time  349 :  Santa John  giving to children: fake tattoo girl
+Time  349 :  Santa John  giving to children: dinosaur boy
+Time  349 :  Santa John  giving to children: dinosaur boy
+Time: 350 :  Santa John  Walking to toy department
+Time  350 :  Santa John  retrieving from sleigh: train girl
+Time  352 :  Santa John  retrieving from sleigh: doll girl
+Time  352 :  Santa John  retrieving from sleigh: whistle boy
+Time  352 :  Santa John  retrieving from sleigh: bracelet girl
+Time  352 :  Santa John  retrieving from sleigh: whistle boy
+Time  353 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  353 :  Santa John  retrieving from sleigh: doll girl
+Time  353 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  354 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  354 :  Santa John  retrieving from sleigh: doll boy
+Time  355 :  Santa John  Walking back to grotto
+Time  355 :  Santa John  giving to children: train girl
+Time  356 :  Santa John  giving to children: doll girl
+Time  357 :  Santa John  giving to children: whistle boy
+Time  357 :  Santa John  giving to children: bracelet girl
+Time  358 :  Santa John  giving to children: whistle boy
+Time  358 :  Santa John  giving to children: dinosaur girl
+Time  359 :  Santa John  giving to children: doll girl
+Time  359 :  Santa John  giving to children: dinosaur boy
+Time  360 :  Santa John  giving to children: dinosaur girl
+Time  360 :  Santa John  giving to children: doll boy
+Time: 361 :  Santa John  Walking to toy department
+Time  361 :  Santa John  retrieving from sleigh: bracelet boy
+Time  361 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  362 :  Santa John  retrieving from sleigh: bracelet boy
+Time  362 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  362 :  Santa John  retrieving from sleigh: doll girl
+Time  363 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  363 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  363 :  Santa John  retrieving from sleigh: train boy
+Time  364 :  Santa John  retrieving from sleigh: whistle girl
+Time  365 :  Santa John  retrieving from sleigh: doll boy
+Time  366 :  Santa John  Walking back to grotto
+Time  366 :  Santa John  giving to children: bracelet boy
+Time  366 :  Santa John  giving to children: dinosaur girl
+Time  367 :  Santa John  giving to children: bracelet boy
+Time  367 :  Santa John  giving to children: fake tattoo girl
+Time  367 :  Santa John  giving to children: doll girl
+Time  368 :  Santa John  giving to children: fake tattoo girl
+Time  368 :  Santa John  giving to children: fake tattoo girl
+Time  369 :  Santa John  giving to children: train boy
+Time  369 :  Santa John  giving to children: whistle girl
+Time  370 :  Santa John  giving to children: doll boy
+Time: 371 :  Santa John  Walking to toy department
+Time  372 :  Santa John  retrieving from sleigh: whistle boy
+Time  372 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  372 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  372 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  373 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  373 :  Santa John  retrieving from sleigh: train girl
+Time  374 :  Santa John  retrieving from sleigh: bracelet boy
+Time  374 :  Santa John  retrieving from sleigh: whistle girl
+Time  374 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  374 :  Santa John  retrieving from sleigh: bracelet boy
+Time  375 :  Santa John  Walking back to grotto
+Time  376 :  Santa John  giving to children: whistle boy
+Time  376 :  Santa John  giving to children: dinosaur boy
+Time  376 :  Santa John  giving to children: fake tattoo girl
+Time  376 :  Santa John  giving to children: dinosaur girl
+Time  376 :  Santa John  giving to children: fake tattoo boy
+Time  377 :  Santa John  giving to children: train girl
+Time  378 :  Santa John  giving to children: bracelet boy
+Time  378 :  Santa John  giving to children: whistle girl
+Time  378 :  Santa John  giving to children: dinosaur girl
+Time  379 :  Santa John  giving to children: bracelet boy
+Time: 380 :  Santa John  Walking to toy department
+Time  380 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  381 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  382 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  382 :  Santa John  retrieving from sleigh: doll girl
+Time  383 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  383 :  Santa John  retrieving from sleigh: doll boy
+Time  384 :  Santa John  retrieving from sleigh: train boy
+Time  384 :  Santa John  retrieving from sleigh: doll girl
+Time  384 :  Santa John  retrieving from sleigh: train boy
+Time  385 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  386 :  Santa John  Walking back to grotto
+Time  387 :  Santa John  giving to children: fake tattoo boy
+Time  388 :  Santa John  giving to children: fake tattoo boy
+Time  388 :  Santa John  giving to children: fake tattoo boy
+Time  388 :  Santa John  giving to children: doll girl
+Time  389 :  Santa John  giving to children: fake tattoo boy
+Time  389 :  Santa John  giving to children: doll boy
+Time  390 :  Santa John  giving to children: train boy
+Time  390 :  Santa John  giving to children: doll girl
+Time  391 :  Santa John  giving to children: train boy
+Time  392 :  Santa John  giving to children: dinosaur girl
+Time: 393 :  Santa John  Walking to toy department
+Time  393 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  393 :  Santa John  retrieving from sleigh: whistle girl
+Time  393 :  Santa John  retrieving from sleigh: doll boy
+Time  393 :  Santa John  retrieving from sleigh: doll girl
+Time  393 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  393 :  Santa John  retrieving from sleigh: doll boy
+Time  393 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  393 :  Santa John  retrieving from sleigh: train boy
+Time  393 :  Santa John  retrieving from sleigh: whistle girl
+Time  393 :  Santa John  retrieving from sleigh: doll girl
+Time  394 :  Santa John  Walking back to grotto
+Time  394 :  Santa John  giving to children: dinosaur girl
+Time  395 :  Santa John  giving to children: whistle girl
+Time  396 :  Santa John  giving to children: doll boy
+Time  396 :  Santa John  giving to children: doll girl
+Time  397 :  Santa John  giving to children: fake tattoo boy
+Time  397 :  Santa John  giving to children: doll boy
+Time  398 :  Santa John  giving to children: dinosaur girl
+Time  399 :  Santa John  giving to children: train boy
+Time  400 :  Santa John  giving to children: whistle girl
+Time  400 :  Santa John  giving to children: doll girl
+Time: 401 :  Santa John  Walking to toy department
+Time  401 :  Santa John  retrieving from sleigh: doll boy
+Time  401 :  Santa John  retrieving from sleigh: whistle boy
+Time  401 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  401 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  401 :  Santa John  retrieving from sleigh: whistle boy
+Time  401 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  402 :  Santa John  retrieving from sleigh: train girl
+Time  402 :  Santa John  retrieving from sleigh: bracelet boy
+Time  403 :  Santa John  retrieving from sleigh: train boy
+Time  403 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  404 :  Santa John  Walking back to grotto
+Time  404 :  Santa John  giving to children: doll boy
+Time  404 :  Santa John  giving to children: whistle boy
+Time  404 :  Santa John  giving to children: dinosaur boy
+Time  404 :  Santa John  giving to children: fake tattoo girl
+Time  405 :  Santa John  giving to children: whistle boy
+Time  405 :  Santa John  giving to children: dinosaur boy
+Time  406 :  Santa John  giving to children: train girl
+Time  406 :  Santa John  giving to children: bracelet boy
+Time  406 :  Santa John  giving to children: train boy
+Time  407 :  Santa John  giving to children: dinosaur boy
+Time: 408 :  Santa John  Walking to toy department
+Time  408 :  Santa John  retrieving from sleigh: train girl
+Time  410 :  Santa John  retrieving from sleigh: whistle boy
+Time  410 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  411 :  Santa John  retrieving from sleigh: doll boy
+Time  411 :  Santa John  retrieving from sleigh: whistle girl
+Time  411 :  Santa John  retrieving from sleigh: whistle girl
+Time  412 :  Santa John  retrieving from sleigh: whistle boy
+Time  412 :  Santa John  retrieving from sleigh: bracelet girl
+Time  412 :  Santa John  retrieving from sleigh: doll boy
+Time  413 :  Santa John  retrieving from sleigh: doll boy
+Time  414 :  Santa John  Walking back to grotto
+Time  415 :  Santa John  giving to children: train girl
+Time  416 :  Santa John  giving to children: whistle boy
+Time  416 :  Santa John  giving to children: fake tattoo girl
+Time  417 :  Santa John  giving to children: doll boy
+Time  417 :  Santa John  giving to children: whistle girl
+Time  418 :  Santa John  giving to children: whistle girl
+Time  419 :  Santa John  giving to children: whistle boy
+Time  420 :  Santa John  giving to children: bracelet girl
+Time  421 :  Santa John  giving to children: doll boy
+Time  421 :  Santa John  giving to children: doll boy
+Time: 422 :  Santa John  Walking to toy department
+Time  422 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  422 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  422 :  Santa John  retrieving from sleigh: bracelet girl
+Time  422 :  Santa John  retrieving from sleigh: train girl
+Time  422 :  Santa John  retrieving from sleigh: doll boy
+Time  422 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  422 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  422 :  Santa John  retrieving from sleigh: doll boy
+Time  422 :  Santa John  retrieving from sleigh: train girl
+Time  423 :  Santa John  retrieving from sleigh: train boy
+Time  424 :  Santa John  Walking back to grotto
+Time  424 :  Santa John  giving to children: fake tattoo girl
+Time  424 :  Santa John  giving to children: fake tattoo boy
+Time  425 :  Santa John  giving to children: bracelet girl
+Time  425 :  Santa John  giving to children: train girl
+Time  425 :  Santa John  giving to children: doll boy
+Time  425 :  Santa John  giving to children: fake tattoo girl
+Time  426 :  Santa John  giving to children: fake tattoo boy
+Time  426 :  Santa John  giving to children: doll boy
+Time  427 :  Santa John  giving to children: train girl
+Time  428 :  Santa John  giving to children: train boy
+Time: 429 :  Santa John  Walking to toy department
+Time  429 :  Santa John  retrieving from sleigh: doll boy
+Time  429 :  Santa John  retrieving from sleigh: doll boy
+Time  430 :  Santa John  retrieving from sleigh: bracelet boy
+Time  430 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  431 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  431 :  Santa John  retrieving from sleigh: doll boy
+Time  432 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  432 :  Santa John  retrieving from sleigh: train girl
+Time  433 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  433 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  434 :  Santa John  Walking back to grotto
+Time  434 :  Santa John  giving to children: doll boy
+Time  435 :  Santa John  giving to children: doll boy
+Time  436 :  Santa John  giving to children: bracelet boy
+Time  437 :  Santa John  giving to children: dinosaur boy
+Time  438 :  Santa John  giving to children: dinosaur boy
+Time  438 :  Santa John  giving to children: doll boy
+Time  439 :  Santa John  giving to children: fake tattoo girl
+Time  439 :  Santa John  giving to children: train girl
+Time  440 :  Santa John  giving to children: fake tattoo girl
+Time  441 :  Santa John  giving to children: dinosaur girl
+Time: 442 :  Santa John  Walking to toy department
+Time  442 :  Santa John  retrieving from sleigh: whistle boy
+Time  442 :  Santa John  retrieving from sleigh: train boy
+Time  442 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  442 :  Santa John  retrieving from sleigh: doll boy
+Time  442 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  442 :  Santa John  retrieving from sleigh: train boy
+Time  442 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  442 :  Santa John  retrieving from sleigh: whistle boy
+Time  443 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  444 :  Santa John  retrieving from sleigh: bracelet girl
+Time  445 :  Santa John  Walking back to grotto
+Time  446 :  Santa John  giving to children: whistle boy
+Time  446 :  Santa John  giving to children: train boy
+Time  447 :  Santa John  giving to children: fake tattoo boy
+Time  447 :  Santa John  giving to children: doll boy
+Time  447 :  Santa John  giving to children: fake tattoo girl
+Time  448 :  Santa John  giving to children: train boy
+Time  448 :  Santa John  giving to children: fake tattoo boy
+Time  448 :  Santa John  giving to children: whistle boy
+Time  449 :  Santa John  giving to children: dinosaur girl
+Time  449 :  Santa John  giving to children: bracelet girl
+Time: 450 :  Santa John  Walking to toy department
+Time  450 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  450 :  Santa John  retrieving from sleigh: whistle boy
+Time  450 :  Santa John  retrieving from sleigh: whistle boy
+Time  450 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  451 :  Santa John  retrieving from sleigh: doll boy
+Time  451 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  451 :  Santa John  retrieving from sleigh: dinosaur girl
+Time  451 :  Santa John  retrieving from sleigh: whistle boy
+Time  452 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  452 :  Santa John  retrieving from sleigh: bracelet girl
+Time  453 :  Santa John  Walking back to grotto
+Time  453 :  Santa John  giving to children: fake tattoo boy
+Time  453 :  Santa John  giving to children: whistle boy
+Time  454 :  Santa John  giving to children: whistle boy
+Time  454 :  Santa John  giving to children: fake tattoo boy
+Time  454 :  Santa John  giving to children: doll boy
+Time  455 :  Santa John  giving to children: fake tattoo girl
+Time  455 :  Santa John  giving to children: dinosaur girl
+Time  455 :  Santa John  giving to children: whistle boy
+Time  456 :  Santa John  giving to children: dinosaur boy
+Time  456 :  Santa John  giving to children: bracelet girl
+Time: 457 :  Santa John  Walking to toy department
+Time  457 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  458 :  Santa John  retrieving from sleigh: doll girl
+Time  460 :  Santa John  retrieving from sleigh: train girl
+Time  460 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  460 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  460 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  461 :  Santa John  retrieving from sleigh: train girl
+Time  461 :  Santa John  retrieving from sleigh: whistle boy
+Time  461 :  Santa John  retrieving from sleigh: train girl
+Time  462 :  Santa John  retrieving from sleigh: doll girl
+Time  463 :  Santa John  Walking back to grotto
+Time  463 :  Santa John  giving to children: dinosaur boy
+Time  464 :  Santa John  giving to children: doll girl
+Time  465 :  Santa John  giving to children: train girl
+Time  465 :  Santa John  giving to children: dinosaur boy
+Time  466 :  Santa John  giving to children: fake tattoo girl
+Time  467 :  Santa John  giving to children: dinosaur boy
+Time  467 :  Santa John  giving to children: train girl
+Time  468 :  Santa John  giving to children: whistle boy
+Time  469 :  Santa John  giving to children: train girl
+Time  470 :  Santa John  giving to children: doll girl
+Time: 471 :  Santa John  Walking to toy department
+Time  471 :  Santa John  retrieving from sleigh: bracelet girl
+Time  472 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  472 :  Santa John  retrieving from sleigh: train boy
+Time  473 :  Santa John  retrieving from sleigh: train boy
+Time  473 :  Santa John  retrieving from sleigh: bracelet girl
+Time  473 :  Santa John  retrieving from sleigh: doll girl
+Time  474 :  Santa John  retrieving from sleigh: doll girl
+Time  474 :  Santa John  retrieving from sleigh: dinosaur boy
+Time  474 :  Santa John  retrieving from sleigh: fake tattoo boy
+Time  474 :  Santa John  retrieving from sleigh: fake tattoo girl
+Time  475 :  Santa John  Walking back to grotto
+Time  476 :  Santa John  giving to children: bracelet girl
+Time  476 :  Santa John  giving to children: fake tattoo girl
+Time  477 :  Santa John  giving to children: train boy
+Time  478 :  Santa John  giving to children: train boy
+Time  478 :  Santa John  giving to children: bracelet girl
+Time  478 :  Santa John  giving to children: doll girl
+Time  479 :  Santa John  giving to children: doll girl
+Time  479 :  Santa John  giving to children: dinosaur boy
+Time  480 :  Santa John  giving to children: fake tattoo boy
+Time  480 :  Santa John  giving to children: fake tattoo girl

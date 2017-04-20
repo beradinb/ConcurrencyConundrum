@@ -1,0 +1,1050 @@
+Time: 2 :  Santa Nick  Walking to toy department
+Time  3 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  4 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  5 :  Santa Nick  retrieving from sleigh: train girl
+Time  6 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  8 :  Santa Nick  retrieving from sleigh: train girl
+Time  8 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  9 :  Santa Nick  retrieving from sleigh: doll boy
+Time  9 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  10 :  Santa Nick  retrieving from sleigh: doll girl
+Time  10 :  Santa Nick  retrieving from sleigh: train girl
+Time  11 :  Santa Nick  Walking back to grotto
+Time  11 :  Santa Nick  giving to children: bracelet girl
+Time  11 :  Santa Nick  giving to children: whistle girl
+Time  12 :  Santa Nick  giving to children: train girl
+Time  13 :  Santa Nick  giving to children: bracelet boy
+Time  14 :  Santa Nick  giving to children: train girl
+Time  14 :  Santa Nick  giving to children: whistle boy
+Time  15 :  Santa Nick  giving to children: doll boy
+Time  15 :  Santa Nick  giving to children: fake tattoo boy
+Time  15 :  Santa Nick  giving to children: doll girl
+Time  16 :  Santa Nick  giving to children: train girl
+Time: 17 :  Santa Nick  Walking to toy department
+Time  17 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  17 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  17 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  17 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  17 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  18 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  18 :  Santa Nick  retrieving from sleigh: train girl
+Time  19 :  Santa Nick  retrieving from sleigh: train boy
+Time  20 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  21 :  Santa Nick  retrieving from sleigh: doll girl
+Time  22 :  Santa Nick  Walking back to grotto
+Time  22 :  Santa Nick  giving to children: fake tattoo boy
+Time  23 :  Santa Nick  giving to children: whistle boy
+Time  23 :  Santa Nick  giving to children: fake tattoo boy
+Time  24 :  Santa Nick  giving to children: bracelet boy
+Time  24 :  Santa Nick  giving to children: fake tattoo boy
+Time  25 :  Santa Nick  giving to children: whistle girl
+Time  25 :  Santa Nick  giving to children: train girl
+Time  25 :  Santa Nick  giving to children: train boy
+Time  25 :  Santa Nick  giving to children: fake tattoo boy
+Time  26 :  Santa Nick  giving to children: doll girl
+Time: 27 :  Santa Nick  Walking to toy department
+Time  27 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  27 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  27 :  Santa Nick  retrieving from sleigh: train girl
+Time  27 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  27 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  28 :  Santa Nick  retrieving from sleigh: train boy
+Time  28 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  28 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  28 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  29 :  Santa Nick  retrieving from sleigh: train boy
+Time  30 :  Santa Nick  Walking back to grotto
+Time  30 :  Santa Nick  giving to children: whistle girl
+Time  31 :  Santa Nick  giving to children: dinosaur boy
+Time  31 :  Santa Nick  giving to children: train girl
+Time  32 :  Santa Nick  giving to children: whistle girl
+Time  32 :  Santa Nick  giving to children: bracelet girl
+Time  33 :  Santa Nick  giving to children: train boy
+Time  33 :  Santa Nick  giving to children: whistle girl
+Time  33 :  Santa Nick  giving to children: bracelet girl
+Time  34 :  Santa Nick  giving to children: bracelet boy
+Time  34 :  Santa Nick  giving to children: train boy
+Time: 35 :  Santa Nick  Walking to toy department
+Time  35 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  36 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  36 :  Santa Nick  retrieving from sleigh: doll girl
+Time  36 :  Santa Nick  retrieving from sleigh: doll boy
+Time  37 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  37 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  37 :  Santa Nick  retrieving from sleigh: doll girl
+Time  38 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  38 :  Santa Nick  retrieving from sleigh: doll boy
+Time  38 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  39 :  Santa Nick  Walking back to grotto
+Time  40 :  Santa Nick  giving to children: whistle boy
+Time  40 :  Santa Nick  giving to children: dinosaur boy
+Time  41 :  Santa Nick  giving to children: doll girl
+Time  41 :  Santa Nick  giving to children: doll boy
+Time  42 :  Santa Nick  giving to children: bracelet boy
+Time  43 :  Santa Nick  giving to children: bracelet boy
+Time  43 :  Santa Nick  giving to children: doll girl
+Time  43 :  Santa Nick  giving to children: bracelet boy
+Time  43 :  Santa Nick  giving to children: doll boy
+Time  44 :  Santa Nick  giving to children: dinosaur girl
+Time: 45 :  Santa Nick  Walking to toy department
+Time  45 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  46 :  Santa Nick  retrieving from sleigh: doll boy
+Time  46 :  Santa Nick  retrieving from sleigh: train boy
+Time  47 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  47 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  47 :  Santa Nick  retrieving from sleigh: doll boy
+Time  47 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  48 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  48 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  48 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  49 :  Santa Nick  Walking back to grotto
+Time  50 :  Santa Nick  giving to children: dinosaur boy
+Time  51 :  Santa Nick  giving to children: doll boy
+Time  52 :  Santa Nick  giving to children: train boy
+Time  52 :  Santa Nick  giving to children: whistle girl
+Time  52 :  Santa Nick  giving to children: whistle girl
+Time  53 :  Santa Nick  giving to children: doll boy
+Time  54 :  Santa Nick  giving to children: bracelet girl
+Time  54 :  Santa Nick  giving to children: fake tattoo boy
+Time  54 :  Santa Nick  giving to children: whistle boy
+Time  55 :  Santa Nick  giving to children: whistle girl
+Time: 56 :  Santa Nick  Walking to toy department
+Time  56 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  56 :  Santa Nick  retrieving from sleigh: train girl
+Time  56 :  Santa Nick  retrieving from sleigh: doll boy
+Time  57 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  58 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  58 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  59 :  Santa Nick  retrieving from sleigh: train boy
+Time  59 :  Santa Nick  retrieving from sleigh: doll boy
+Time  59 :  Santa Nick  retrieving from sleigh: doll boy
+Time  59 :  Santa Nick  retrieving from sleigh: doll boy
+Time  60 :  Santa Nick  Walking back to grotto
+Time  61 :  Santa Nick  giving to children: fake tattoo girl
+Time  62 :  Santa Nick  giving to children: train girl
+Time  62 :  Santa Nick  giving to children: doll boy
+Time  62 :  Santa Nick  giving to children: bracelet boy
+Time  62 :  Santa Nick  giving to children: fake tattoo girl
+Time  63 :  Santa Nick  giving to children: fake tattoo girl
+Time  64 :  Santa Nick  giving to children: train boy
+Time  65 :  Santa Nick  giving to children: doll boy
+Time  65 :  Santa Nick  giving to children: doll boy
+Time  65 :  Santa Nick  giving to children: doll boy
+Time: 66 :  Santa Nick  Walking to toy department
+Time  67 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  67 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  67 :  Santa Nick  retrieving from sleigh: train boy
+Time  67 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  67 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  68 :  Santa Nick  retrieving from sleigh: train boy
+Time  68 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  68 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  69 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  69 :  Santa Nick  retrieving from sleigh: doll boy
+Time  70 :  Santa Nick  Walking back to grotto
+Time  70 :  Santa Nick  giving to children: dinosaur boy
+Time  71 :  Santa Nick  giving to children: dinosaur girl
+Time  72 :  Santa Nick  giving to children: train boy
+Time  73 :  Santa Nick  giving to children: whistle girl
+Time  73 :  Santa Nick  giving to children: whistle girl
+Time  74 :  Santa Nick  giving to children: train boy
+Time  75 :  Santa Nick  giving to children: fake tattoo girl
+Time  75 :  Santa Nick  giving to children: fake tattoo girl
+Time  76 :  Santa Nick  giving to children: bracelet girl
+Time  76 :  Santa Nick  giving to children: doll boy
+Time: 77 :  Santa Nick  Walking to toy department
+Time  77 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  77 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  77 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  77 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  77 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  78 :  Santa Nick  retrieving from sleigh: train girl
+Time  79 :  Santa Nick  retrieving from sleigh: train boy
+Time  79 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  80 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  81 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  82 :  Santa Nick  Walking back to grotto
+Time  82 :  Santa Nick  giving to children: dinosaur girl
+Time  83 :  Santa Nick  giving to children: bracelet boy
+Time  84 :  Santa Nick  giving to children: fake tattoo girl
+Time  84 :  Santa Nick  giving to children: fake tattoo girl
+Time  85 :  Santa Nick  giving to children: fake tattoo boy
+Time  85 :  Santa Nick  giving to children: train girl
+Time  86 :  Santa Nick  giving to children: train boy
+Time  87 :  Santa Nick  giving to children: fake tattoo boy
+Time  87 :  Santa Nick  giving to children: whistle boy
+Time  88 :  Santa Nick  giving to children: dinosaur girl
+Time: 89 :  Santa Nick  Walking to toy department
+Time  89 :  Santa Nick  retrieving from sleigh: train girl
+Time  89 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  89 :  Santa Nick  retrieving from sleigh: train girl
+Time  89 :  Santa Nick  retrieving from sleigh: train boy
+Time  89 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  89 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  89 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  89 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  89 :  Santa Nick  retrieving from sleigh: train girl
+Time  89 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  90 :  Santa Nick  Walking back to grotto
+Time  91 :  Santa Nick  giving to children: train girl
+Time  92 :  Santa Nick  giving to children: fake tattoo boy
+Time  92 :  Santa Nick  giving to children: train girl
+Time  93 :  Santa Nick  giving to children: train boy
+Time  94 :  Santa Nick  giving to children: fake tattoo boy
+Time  94 :  Santa Nick  giving to children: fake tattoo boy
+Time  94 :  Santa Nick  giving to children: fake tattoo boy
+Time  95 :  Santa Nick  giving to children: fake tattoo boy
+Time  95 :  Santa Nick  giving to children: train girl
+Time  96 :  Santa Nick  giving to children: fake tattoo girl
+Time: 97 :  Santa Nick  Walking to toy department
+Time  97 :  Santa Nick  retrieving from sleigh: train boy
+Time  97 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  97 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  97 :  Santa Nick  retrieving from sleigh: train boy
+Time  97 :  Santa Nick  retrieving from sleigh: doll girl
+Time  97 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  97 :  Santa Nick  retrieving from sleigh: train girl
+Time  97 :  Santa Nick  retrieving from sleigh: doll boy
+Time  98 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  98 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  99 :  Santa Nick  Walking back to grotto
+Time  99 :  Santa Nick  giving to children: train boy
+Time  100 :  Santa Nick  giving to children: whistle girl
+Time  100 :  Santa Nick  giving to children: fake tattoo girl
+Time  100 :  Santa Nick  giving to children: train boy
+Time  100 :  Santa Nick  giving to children: doll girl
+Time  101 :  Santa Nick  giving to children: whistle girl
+Time  101 :  Santa Nick  giving to children: train girl
+Time  101 :  Santa Nick  giving to children: doll boy
+Time  101 :  Santa Nick  giving to children: dinosaur boy
+Time  102 :  Santa Nick  giving to children: bracelet boy
+Time: 103 :  Santa Nick  Walking to toy department
+Time  103 :  Santa Nick  retrieving from sleigh: doll boy
+Time  103 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  104 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  105 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  105 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  106 :  Santa Nick  retrieving from sleigh: train girl
+Time  107 :  Santa Nick  retrieving from sleigh: doll girl
+Time  107 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  108 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  108 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  109 :  Santa Nick  Walking back to grotto
+Time  110 :  Santa Nick  giving to children: doll boy
+Time  110 :  Santa Nick  giving to children: whistle girl
+Time  111 :  Santa Nick  giving to children: fake tattoo girl
+Time  112 :  Santa Nick  giving to children: bracelet girl
+Time  112 :  Santa Nick  giving to children: fake tattoo boy
+Time  113 :  Santa Nick  giving to children: train girl
+Time  114 :  Santa Nick  giving to children: doll girl
+Time  114 :  Santa Nick  giving to children: dinosaur boy
+Time  115 :  Santa Nick  giving to children: whistle boy
+Time  115 :  Santa Nick  giving to children: fake tattoo boy
+Time: 116 :  Santa Nick  Walking to toy department
+Time  116 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  116 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  116 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  116 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  117 :  Santa Nick  retrieving from sleigh: train girl
+Time  117 :  Santa Nick  retrieving from sleigh: doll boy
+Time  117 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  118 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  118 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  119 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  120 :  Santa Nick  Walking back to grotto
+Time  120 :  Santa Nick  giving to children: fake tattoo boy
+Time  120 :  Santa Nick  giving to children: dinosaur boy
+Time  121 :  Santa Nick  giving to children: bracelet boy
+Time  121 :  Santa Nick  giving to children: whistle boy
+Time  122 :  Santa Nick  giving to children: train girl
+Time  123 :  Santa Nick  giving to children: doll boy
+Time  123 :  Santa Nick  giving to children: dinosaur boy
+Time  124 :  Santa Nick  giving to children: whistle boy
+Time  125 :  Santa Nick  giving to children: fake tattoo girl
+Time  125 :  Santa Nick  giving to children: dinosaur boy
+Time: 126 :  Santa Nick  Walking to toy department
+Time  126 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  126 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  126 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  126 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  126 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  127 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  128 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  128 :  Santa Nick  retrieving from sleigh: doll girl
+Time  128 :  Santa Nick  retrieving from sleigh: train girl
+Time  129 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  130 :  Santa Nick  Walking back to grotto
+Time  130 :  Santa Nick  giving to children: dinosaur girl
+Time  131 :  Santa Nick  giving to children: dinosaur girl
+Time  131 :  Santa Nick  giving to children: fake tattoo girl
+Time  132 :  Santa Nick  giving to children: whistle girl
+Time  132 :  Santa Nick  giving to children: whistle girl
+Time  133 :  Santa Nick  giving to children: whistle girl
+Time  133 :  Santa Nick  giving to children: whistle girl
+Time  133 :  Santa Nick  giving to children: doll girl
+Time  134 :  Santa Nick  giving to children: train girl
+Time  135 :  Santa Nick  giving to children: whistle boy
+Time: 136 :  Santa Nick  Walking to toy department
+Time  136 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  136 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  136 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  136 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  137 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  137 :  Santa Nick  retrieving from sleigh: train boy
+Time  138 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  138 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  138 :  Santa Nick  retrieving from sleigh: train boy
+Time  138 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  139 :  Santa Nick  Walking back to grotto
+Time  139 :  Santa Nick  giving to children: dinosaur girl
+Time  139 :  Santa Nick  giving to children: dinosaur boy
+Time  140 :  Santa Nick  giving to children: dinosaur girl
+Time  140 :  Santa Nick  giving to children: whistle girl
+Time  141 :  Santa Nick  giving to children: bracelet boy
+Time  141 :  Santa Nick  giving to children: train boy
+Time  141 :  Santa Nick  giving to children: dinosaur girl
+Time  142 :  Santa Nick  giving to children: bracelet girl
+Time  142 :  Santa Nick  giving to children: train boy
+Time  143 :  Santa Nick  giving to children: fake tattoo boy
+Time: 144 :  Santa Nick  Walking to toy department
+Time  144 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  145 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  146 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  146 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  147 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  148 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  149 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  149 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  150 :  Santa Nick  retrieving from sleigh: train girl
+Time  150 :  Santa Nick  retrieving from sleigh: train boy
+Time  151 :  Santa Nick  Walking back to grotto
+Time  151 :  Santa Nick  giving to children: bracelet girl
+Time  152 :  Santa Nick  giving to children: fake tattoo girl
+Time  152 :  Santa Nick  giving to children: fake tattoo boy
+Time  152 :  Santa Nick  giving to children: bracelet boy
+Time  152 :  Santa Nick  giving to children: whistle boy
+Time  153 :  Santa Nick  giving to children: fake tattoo girl
+Time  153 :  Santa Nick  giving to children: fake tattoo boy
+Time  153 :  Santa Nick  giving to children: bracelet boy
+Time  154 :  Santa Nick  giving to children: train girl
+Time  155 :  Santa Nick  giving to children: train boy
+Time: 156 :  Santa Nick  Walking to toy department
+Time  157 :  Santa Nick  retrieving from sleigh: train boy
+Time  157 :  Santa Nick  retrieving from sleigh: doll boy
+Time  157 :  Santa Nick  retrieving from sleigh: train boy
+Time  158 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  158 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  160 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  160 :  Santa Nick  retrieving from sleigh: train girl
+Time  160 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  160 :  Santa Nick  retrieving from sleigh: doll boy
+Time  160 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  161 :  Santa Nick  Walking back to grotto
+Time  161 :  Santa Nick  giving to children: train boy
+Time  161 :  Santa Nick  giving to children: doll boy
+Time  162 :  Santa Nick  giving to children: train boy
+Time  162 :  Santa Nick  giving to children: dinosaur girl
+Time  162 :  Santa Nick  giving to children: bracelet boy
+Time  163 :  Santa Nick  giving to children: fake tattoo girl
+Time  163 :  Santa Nick  giving to children: train girl
+Time  163 :  Santa Nick  giving to children: bracelet boy
+Time  164 :  Santa Nick  giving to children: doll boy
+Time  164 :  Santa Nick  giving to children: whistle boy
+Time: 165 :  Santa Nick  Walking to toy department
+Time  165 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  166 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  167 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  167 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  167 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  168 :  Santa Nick  retrieving from sleigh: train girl
+Time  168 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  169 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  169 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  169 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  170 :  Santa Nick  Walking back to grotto
+Time  171 :  Santa Nick  giving to children: bracelet boy
+Time  171 :  Santa Nick  giving to children: whistle girl
+Time  171 :  Santa Nick  giving to children: bracelet girl
+Time  172 :  Santa Nick  giving to children: bracelet boy
+Time  172 :  Santa Nick  giving to children: dinosaur girl
+Time  172 :  Santa Nick  giving to children: train girl
+Time  173 :  Santa Nick  giving to children: fake tattoo boy
+Time  173 :  Santa Nick  giving to children: fake tattoo girl
+Time  174 :  Santa Nick  giving to children: dinosaur boy
+Time  174 :  Santa Nick  giving to children: bracelet girl
+Time: 175 :  Santa Nick  Walking to toy department
+Time  177 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  177 :  Santa Nick  retrieving from sleigh: train girl
+Time  177 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  178 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  178 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  179 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  180 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  180 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  180 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  180 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  181 :  Santa Nick  Walking back to grotto
+Time  182 :  Santa Nick  giving to children: dinosaur boy
+Time  183 :  Santa Nick  giving to children: train girl
+Time  183 :  Santa Nick  giving to children: bracelet girl
+Time  184 :  Santa Nick  giving to children: dinosaur girl
+Time  185 :  Santa Nick  giving to children: bracelet girl
+Time  185 :  Santa Nick  giving to children: fake tattoo boy
+Time  185 :  Santa Nick  giving to children: bracelet girl
+Time  185 :  Santa Nick  giving to children: dinosaur boy
+Time  186 :  Santa Nick  giving to children: fake tattoo girl
+Time  186 :  Santa Nick  giving to children: fake tattoo girl
+Time: 187 :  Santa Nick  Walking to toy department
+Time  187 :  Santa Nick  retrieving from sleigh: train girl
+Time  187 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  187 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  187 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  188 :  Santa Nick  retrieving from sleigh: doll boy
+Time  188 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  189 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  189 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  190 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  190 :  Santa Nick  retrieving from sleigh: train girl
+Time  191 :  Santa Nick  Walking back to grotto
+Time  191 :  Santa Nick  giving to children: train girl
+Time  192 :  Santa Nick  giving to children: dinosaur girl
+Time  192 :  Santa Nick  giving to children: fake tattoo boy
+Time  193 :  Santa Nick  giving to children: bracelet girl
+Time  193 :  Santa Nick  giving to children: doll boy
+Time  194 :  Santa Nick  giving to children: dinosaur girl
+Time  195 :  Santa Nick  giving to children: fake tattoo girl
+Time  195 :  Santa Nick  giving to children: fake tattoo girl
+Time  195 :  Santa Nick  giving to children: bracelet boy
+Time  196 :  Santa Nick  giving to children: train girl
+Time: 197 :  Santa Nick  Walking to toy department
+Time  197 :  Santa Nick  retrieving from sleigh: train girl
+Time  197 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  197 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  197 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  197 :  Santa Nick  retrieving from sleigh: train girl
+Time  198 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  198 :  Santa Nick  retrieving from sleigh: doll boy
+Time  199 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  199 :  Santa Nick  retrieving from sleigh: doll girl
+Time  199 :  Santa Nick  retrieving from sleigh: doll girl
+Time  200 :  Santa Nick  Walking back to grotto
+Time  201 :  Santa Nick  giving to children: train girl
+Time  201 :  Santa Nick  giving to children: dinosaur girl
+Time  202 :  Santa Nick  giving to children: fake tattoo girl
+Time  203 :  Santa Nick  giving to children: fake tattoo boy
+Time  203 :  Santa Nick  giving to children: train girl
+Time  203 :  Santa Nick  giving to children: whistle girl
+Time  204 :  Santa Nick  giving to children: doll boy
+Time  205 :  Santa Nick  giving to children: fake tattoo girl
+Time  206 :  Santa Nick  giving to children: doll girl
+Time  206 :  Santa Nick  giving to children: doll girl
+Time: 207 :  Santa Nick  Walking to toy department
+Time  207 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  207 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  207 :  Santa Nick  retrieving from sleigh: train boy
+Time  207 :  Santa Nick  retrieving from sleigh: doll girl
+Time  208 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  208 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  209 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  209 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  210 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  211 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  212 :  Santa Nick  Walking back to grotto
+Time  212 :  Santa Nick  giving to children: dinosaur boy
+Time  213 :  Santa Nick  giving to children: dinosaur boy
+Time  213 :  Santa Nick  giving to children: train boy
+Time  214 :  Santa Nick  giving to children: doll girl
+Time  215 :  Santa Nick  giving to children: bracelet boy
+Time  215 :  Santa Nick  giving to children: whistle boy
+Time  216 :  Santa Nick  giving to children: whistle boy
+Time  216 :  Santa Nick  giving to children: bracelet girl
+Time  217 :  Santa Nick  giving to children: dinosaur boy
+Time  217 :  Santa Nick  giving to children: whistle girl
+Time: 218 :  Santa Nick  Walking to toy department
+Time  218 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  218 :  Santa Nick  retrieving from sleigh: doll boy
+Time  218 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  218 :  Santa Nick  retrieving from sleigh: doll boy
+Time  218 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  219 :  Santa Nick  retrieving from sleigh: train girl
+Time  219 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  219 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  220 :  Santa Nick  retrieving from sleigh: doll girl
+Time  220 :  Santa Nick  retrieving from sleigh: doll girl
+Time  221 :  Santa Nick  Walking back to grotto
+Time  221 :  Santa Nick  giving to children: fake tattoo boy
+Time  222 :  Santa Nick  giving to children: doll boy
+Time  223 :  Santa Nick  giving to children: bracelet boy
+Time  224 :  Santa Nick  giving to children: doll boy
+Time  224 :  Santa Nick  giving to children: dinosaur girl
+Time  224 :  Santa Nick  giving to children: train girl
+Time  225 :  Santa Nick  giving to children: dinosaur boy
+Time  225 :  Santa Nick  giving to children: dinosaur girl
+Time  226 :  Santa Nick  giving to children: doll girl
+Time  226 :  Santa Nick  giving to children: doll girl
+Time: 227 :  Santa Nick  Walking to toy department
+Time  227 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  227 :  Santa Nick  retrieving from sleigh: train girl
+Time  228 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  228 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  229 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  229 :  Santa Nick  retrieving from sleigh: doll girl
+Time  229 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  229 :  Santa Nick  retrieving from sleigh: doll boy
+Time  229 :  Santa Nick  retrieving from sleigh: doll boy
+Time  230 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  231 :  Santa Nick  Walking back to grotto
+Time  232 :  Santa Nick  giving to children: dinosaur girl
+Time  232 :  Santa Nick  giving to children: train girl
+Time  232 :  Santa Nick  giving to children: fake tattoo girl
+Time  233 :  Santa Nick  giving to children: whistle girl
+Time  234 :  Santa Nick  giving to children: bracelet girl
+Time  235 :  Santa Nick  giving to children: doll girl
+Time  235 :  Santa Nick  giving to children: whistle boy
+Time  236 :  Santa Nick  giving to children: doll boy
+Time  236 :  Santa Nick  giving to children: doll boy
+Time  237 :  Santa Nick  giving to children: dinosaur boy
+Time: 238 :  Santa Nick  Walking to toy department
+Time  238 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  238 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  238 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  238 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  239 :  Santa Nick  retrieving from sleigh: train boy
+Time  240 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  240 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  240 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  240 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  240 :  Santa Nick  retrieving from sleigh: train boy
+Time  241 :  Santa Nick  Walking back to grotto
+Time  242 :  Santa Nick  giving to children: fake tattoo boy
+Time  242 :  Santa Nick  giving to children: whistle boy
+Time  242 :  Santa Nick  giving to children: whistle girl
+Time  242 :  Santa Nick  giving to children: bracelet boy
+Time  243 :  Santa Nick  giving to children: train boy
+Time  243 :  Santa Nick  giving to children: fake tattoo girl
+Time  244 :  Santa Nick  giving to children: bracelet girl
+Time  244 :  Santa Nick  giving to children: dinosaur boy
+Time  245 :  Santa Nick  giving to children: dinosaur girl
+Time  246 :  Santa Nick  giving to children: train boy
+Time: 247 :  Santa Nick  Walking to toy department
+Time  247 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  248 :  Santa Nick  retrieving from sleigh: doll girl
+Time  248 :  Santa Nick  retrieving from sleigh: doll boy
+Time  248 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  248 :  Santa Nick  retrieving from sleigh: doll girl
+Time  248 :  Santa Nick  retrieving from sleigh: train boy
+Time  249 :  Santa Nick  retrieving from sleigh: train girl
+Time  249 :  Santa Nick  retrieving from sleigh: train girl
+Time  250 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  250 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  251 :  Santa Nick  Walking back to grotto
+Time  251 :  Santa Nick  giving to children: fake tattoo boy
+Time  252 :  Santa Nick  giving to children: doll girl
+Time  252 :  Santa Nick  giving to children: doll boy
+Time  253 :  Santa Nick  giving to children: dinosaur boy
+Time  253 :  Santa Nick  giving to children: doll girl
+Time  254 :  Santa Nick  giving to children: train boy
+Time  254 :  Santa Nick  giving to children: train girl
+Time  255 :  Santa Nick  giving to children: train girl
+Time  255 :  Santa Nick  giving to children: fake tattoo boy
+Time  255 :  Santa Nick  giving to children: bracelet girl
+Time: 256 :  Santa Nick  Walking to toy department
+Time  257 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  257 :  Santa Nick  retrieving from sleigh: train boy
+Time  257 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  258 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  258 :  Santa Nick  retrieving from sleigh: train girl
+Time  258 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  259 :  Santa Nick  retrieving from sleigh: train girl
+Time  259 :  Santa Nick  retrieving from sleigh: train girl
+Time  259 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  260 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  261 :  Santa Nick  Walking back to grotto
+Time  261 :  Santa Nick  giving to children: fake tattoo girl
+Time  262 :  Santa Nick  giving to children: train boy
+Time  262 :  Santa Nick  giving to children: bracelet boy
+Time  263 :  Santa Nick  giving to children: bracelet boy
+Time  263 :  Santa Nick  giving to children: train girl
+Time  264 :  Santa Nick  giving to children: dinosaur boy
+Time  264 :  Santa Nick  giving to children: train girl
+Time  265 :  Santa Nick  giving to children: train girl
+Time  265 :  Santa Nick  giving to children: bracelet boy
+Time  265 :  Santa Nick  giving to children: dinosaur girl
+Time: 266 :  Santa Nick  Walking to toy department
+Time  268 :  Santa Nick  retrieving from sleigh: doll boy
+Time  268 :  Santa Nick  retrieving from sleigh: train girl
+Time  268 :  Santa Nick  retrieving from sleigh: doll boy
+Time  268 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  268 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  269 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  269 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  269 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  269 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  270 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  271 :  Santa Nick  Walking back to grotto
+Time  272 :  Santa Nick  giving to children: doll boy
+Time  272 :  Santa Nick  giving to children: train girl
+Time  272 :  Santa Nick  giving to children: doll boy
+Time  273 :  Santa Nick  giving to children: whistle girl
+Time  273 :  Santa Nick  giving to children: bracelet girl
+Time  274 :  Santa Nick  giving to children: bracelet girl
+Time  274 :  Santa Nick  giving to children: fake tattoo girl
+Time  274 :  Santa Nick  giving to children: dinosaur boy
+Time  275 :  Santa Nick  giving to children: bracelet girl
+Time  276 :  Santa Nick  giving to children: dinosaur boy
+Time: 277 :  Santa Nick  Walking to toy department
+Time  278 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  278 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  278 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  278 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  278 :  Santa Nick  retrieving from sleigh: doll boy
+Time  278 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  280 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  280 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  280 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  281 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  282 :  Santa Nick  Walking back to grotto
+Time  282 :  Santa Nick  giving to children: dinosaur girl
+Time  282 :  Santa Nick  giving to children: dinosaur girl
+Time  282 :  Santa Nick  giving to children: dinosaur boy
+Time  283 :  Santa Nick  giving to children: whistle boy
+Time  283 :  Santa Nick  giving to children: doll boy
+Time  283 :  Santa Nick  giving to children: dinosaur girl
+Time  284 :  Santa Nick  giving to children: fake tattoo girl
+Time  285 :  Santa Nick  giving to children: whistle boy
+Time  285 :  Santa Nick  giving to children: whistle boy
+Time  286 :  Santa Nick  giving to children: fake tattoo girl
+Time: 287 :  Santa Nick  Walking to toy department
+Time  287 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  288 :  Santa Nick  retrieving from sleigh: doll girl
+Time  288 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  288 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  288 :  Santa Nick  retrieving from sleigh: doll girl
+Time  288 :  Santa Nick  retrieving from sleigh: doll girl
+Time  288 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  288 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  289 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  290 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  291 :  Santa Nick  Walking back to grotto
+Time  291 :  Santa Nick  giving to children: dinosaur girl
+Time  292 :  Santa Nick  giving to children: doll girl
+Time  292 :  Santa Nick  giving to children: bracelet girl
+Time  293 :  Santa Nick  giving to children: dinosaur girl
+Time  293 :  Santa Nick  giving to children: doll girl
+Time  294 :  Santa Nick  giving to children: doll girl
+Time  294 :  Santa Nick  giving to children: whistle girl
+Time  295 :  Santa Nick  giving to children: whistle girl
+Time  296 :  Santa Nick  giving to children: whistle girl
+Time  297 :  Santa Nick  giving to children: whistle girl
+Time: 298 :  Santa Nick  Walking to toy department
+Time  298 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  298 :  Santa Nick  retrieving from sleigh: doll girl
+Time  298 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  298 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  298 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  298 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  298 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  299 :  Santa Nick  retrieving from sleigh: train boy
+Time  299 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  299 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  300 :  Santa Nick  Walking back to grotto
+Time  300 :  Santa Nick  giving to children: dinosaur girl
+Time  300 :  Santa Nick  giving to children: doll girl
+Time  301 :  Santa Nick  giving to children: dinosaur boy
+Time  301 :  Santa Nick  giving to children: dinosaur girl
+Time  302 :  Santa Nick  giving to children: bracelet girl
+Time  302 :  Santa Nick  giving to children: bracelet girl
+Time  303 :  Santa Nick  giving to children: dinosaur girl
+Time  304 :  Santa Nick  giving to children: train boy
+Time  304 :  Santa Nick  giving to children: dinosaur girl
+Time  305 :  Santa Nick  giving to children: bracelet boy
+Time: 306 :  Santa Nick  Walking to toy department
+Time  306 :  Santa Nick  retrieving from sleigh: train girl
+Time  307 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  307 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  307 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  308 :  Santa Nick  retrieving from sleigh: train girl
+Time  308 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  308 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  309 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  309 :  Santa Nick  retrieving from sleigh: doll girl
+Time  309 :  Santa Nick  retrieving from sleigh: doll girl
+Time  310 :  Santa Nick  Walking back to grotto
+Time  310 :  Santa Nick  giving to children: train girl
+Time  310 :  Santa Nick  giving to children: fake tattoo boy
+Time  311 :  Santa Nick  giving to children: bracelet girl
+Time  311 :  Santa Nick  giving to children: whistle boy
+Time  312 :  Santa Nick  giving to children: train girl
+Time  312 :  Santa Nick  giving to children: whistle boy
+Time  313 :  Santa Nick  giving to children: dinosaur girl
+Time  314 :  Santa Nick  giving to children: dinosaur girl
+Time  314 :  Santa Nick  giving to children: doll girl
+Time  315 :  Santa Nick  giving to children: doll girl
+Time: 316 :  Santa Nick  Walking to toy department
+Time  316 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  317 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  317 :  Santa Nick  retrieving from sleigh: train boy
+Time  317 :  Santa Nick  retrieving from sleigh: doll girl
+Time  318 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  318 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  318 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  318 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  319 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  319 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  320 :  Santa Nick  Walking back to grotto
+Time  321 :  Santa Nick  giving to children: whistle boy
+Time  322 :  Santa Nick  giving to children: whistle girl
+Time  322 :  Santa Nick  giving to children: train boy
+Time  323 :  Santa Nick  giving to children: doll girl
+Time  323 :  Santa Nick  giving to children: dinosaur girl
+Time  323 :  Santa Nick  giving to children: whistle boy
+Time  323 :  Santa Nick  giving to children: fake tattoo boy
+Time  324 :  Santa Nick  giving to children: bracelet boy
+Time  325 :  Santa Nick  giving to children: bracelet boy
+Time  326 :  Santa Nick  giving to children: whistle boy
+Time: 327 :  Santa Nick  Walking to toy department
+Time  327 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  327 :  Santa Nick  retrieving from sleigh: train girl
+Time  327 :  Santa Nick  retrieving from sleigh: train boy
+Time  327 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  327 :  Santa Nick  retrieving from sleigh: train girl
+Time  327 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  328 :  Santa Nick  retrieving from sleigh: train boy
+Time  328 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  329 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  329 :  Santa Nick  retrieving from sleigh: doll boy
+Time  330 :  Santa Nick  Walking back to grotto
+Time  330 :  Santa Nick  giving to children: bracelet girl
+Time  330 :  Santa Nick  giving to children: train girl
+Time  330 :  Santa Nick  giving to children: train boy
+Time  331 :  Santa Nick  giving to children: bracelet boy
+Time  331 :  Santa Nick  giving to children: train girl
+Time  331 :  Santa Nick  giving to children: bracelet girl
+Time  332 :  Santa Nick  giving to children: train boy
+Time  332 :  Santa Nick  giving to children: whistle girl
+Time  332 :  Santa Nick  giving to children: whistle girl
+Time  333 :  Santa Nick  giving to children: doll boy
+Time: 334 :  Santa Nick  Walking to toy department
+Time  335 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  336 :  Santa Nick  retrieving from sleigh: train girl
+Time  338 :  Santa Nick  retrieving from sleigh: train girl
+Time  338 :  Santa Nick  retrieving from sleigh: train boy
+Time  339 :  Santa Nick  retrieving from sleigh: doll boy
+Time  339 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  339 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  339 :  Santa Nick  retrieving from sleigh: doll boy
+Time  339 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  341 :  Santa Nick  retrieving from sleigh: train girl
+Time  342 :  Santa Nick  Walking back to grotto
+Time  343 :  Santa Nick  giving to children: dinosaur girl
+Time  343 :  Santa Nick  giving to children: train girl
+Time  343 :  Santa Nick  giving to children: train girl
+Time  344 :  Santa Nick  giving to children: train boy
+Time  345 :  Santa Nick  giving to children: doll boy
+Time  346 :  Santa Nick  giving to children: dinosaur boy
+Time  346 :  Santa Nick  giving to children: whistle boy
+Time  347 :  Santa Nick  giving to children: doll boy
+Time  347 :  Santa Nick  giving to children: whistle boy
+Time  348 :  Santa Nick  giving to children: train girl
+Time: 349 :  Santa Nick  Walking to toy department
+Time  349 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  349 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  349 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  349 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  349 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  349 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  349 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  350 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  351 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  351 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  352 :  Santa Nick  Walking back to grotto
+Time  353 :  Santa Nick  giving to children: bracelet girl
+Time  353 :  Santa Nick  giving to children: dinosaur boy
+Time  354 :  Santa Nick  giving to children: whistle boy
+Time  354 :  Santa Nick  giving to children: bracelet boy
+Time  355 :  Santa Nick  giving to children: whistle boy
+Time  355 :  Santa Nick  giving to children: bracelet girl
+Time  355 :  Santa Nick  giving to children: whistle boy
+Time  356 :  Santa Nick  giving to children: bracelet boy
+Time  356 :  Santa Nick  giving to children: whistle boy
+Time  357 :  Santa Nick  giving to children: fake tattoo girl
+Time: 358 :  Santa Nick  Walking to toy department
+Time  358 :  Santa Nick  retrieving from sleigh: doll girl
+Time  358 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  358 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  359 :  Santa Nick  retrieving from sleigh: train boy
+Time  359 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  359 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  359 :  Santa Nick  retrieving from sleigh: train boy
+Time  360 :  Santa Nick  retrieving from sleigh: train girl
+Time  360 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  361 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  362 :  Santa Nick  Walking back to grotto
+Time  362 :  Santa Nick  giving to children: doll girl
+Time  363 :  Santa Nick  giving to children: fake tattoo boy
+Time  363 :  Santa Nick  giving to children: dinosaur girl
+Time  364 :  Santa Nick  giving to children: train boy
+Time  365 :  Santa Nick  giving to children: whistle boy
+Time  365 :  Santa Nick  giving to children: whistle girl
+Time  365 :  Santa Nick  giving to children: train boy
+Time  365 :  Santa Nick  giving to children: train girl
+Time  366 :  Santa Nick  giving to children: whistle boy
+Time  367 :  Santa Nick  giving to children: fake tattoo girl
+Time: 368 :  Santa Nick  Walking to toy department
+Time  368 :  Santa Nick  retrieving from sleigh: train girl
+Time  368 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  369 :  Santa Nick  retrieving from sleigh: train girl
+Time  369 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  369 :  Santa Nick  retrieving from sleigh: doll boy
+Time  370 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  370 :  Santa Nick  retrieving from sleigh: train girl
+Time  370 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  371 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  372 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  373 :  Santa Nick  Walking back to grotto
+Time  373 :  Santa Nick  giving to children: train girl
+Time  374 :  Santa Nick  giving to children: fake tattoo girl
+Time  374 :  Santa Nick  giving to children: train girl
+Time  374 :  Santa Nick  giving to children: fake tattoo girl
+Time  375 :  Santa Nick  giving to children: doll boy
+Time  376 :  Santa Nick  giving to children: dinosaur boy
+Time  377 :  Santa Nick  giving to children: train girl
+Time  377 :  Santa Nick  giving to children: whistle boy
+Time  377 :  Santa Nick  giving to children: fake tattoo girl
+Time  378 :  Santa Nick  giving to children: bracelet girl
+Time: 379 :  Santa Nick  Walking to toy department
+Time  379 :  Santa Nick  retrieving from sleigh: train girl
+Time  379 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  379 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  379 :  Santa Nick  retrieving from sleigh: train boy
+Time  379 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  380 :  Santa Nick  retrieving from sleigh: train boy
+Time  381 :  Santa Nick  retrieving from sleigh: doll girl
+Time  381 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  382 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  382 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  383 :  Santa Nick  Walking back to grotto
+Time  384 :  Santa Nick  giving to children: train girl
+Time  384 :  Santa Nick  giving to children: whistle girl
+Time  385 :  Santa Nick  giving to children: dinosaur boy
+Time  385 :  Santa Nick  giving to children: train boy
+Time  385 :  Santa Nick  giving to children: whistle boy
+Time  386 :  Santa Nick  giving to children: train boy
+Time  387 :  Santa Nick  giving to children: doll girl
+Time  388 :  Santa Nick  giving to children: dinosaur girl
+Time  388 :  Santa Nick  giving to children: whistle girl
+Time  388 :  Santa Nick  giving to children: dinosaur girl
+Time: 389 :  Santa Nick  Walking to toy department
+Time  389 :  Santa Nick  retrieving from sleigh: doll boy
+Time  389 :  Santa Nick  retrieving from sleigh: doll girl
+Time  389 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  389 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  389 :  Santa Nick  retrieving from sleigh: doll boy
+Time  389 :  Santa Nick  retrieving from sleigh: train girl
+Time  389 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  389 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  390 :  Santa Nick  retrieving from sleigh: doll girl
+Time  391 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  392 :  Santa Nick  Walking back to grotto
+Time  392 :  Santa Nick  giving to children: doll boy
+Time  393 :  Santa Nick  giving to children: doll girl
+Time  393 :  Santa Nick  giving to children: whistle girl
+Time  394 :  Santa Nick  giving to children: dinosaur girl
+Time  395 :  Santa Nick  giving to children: doll boy
+Time  395 :  Santa Nick  giving to children: train girl
+Time  396 :  Santa Nick  giving to children: whistle boy
+Time  397 :  Santa Nick  giving to children: whistle girl
+Time  398 :  Santa Nick  giving to children: doll girl
+Time  399 :  Santa Nick  giving to children: bracelet boy
+Time: 400 :  Santa Nick  Walking to toy department
+Time  400 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  400 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  400 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  400 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  400 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  400 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  400 :  Santa Nick  retrieving from sleigh: doll girl
+Time  400 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  400 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  400 :  Santa Nick  retrieving from sleigh: doll girl
+Time  401 :  Santa Nick  Walking back to grotto
+Time  401 :  Santa Nick  giving to children: bracelet boy
+Time  402 :  Santa Nick  giving to children: bracelet girl
+Time  403 :  Santa Nick  giving to children: fake tattoo girl
+Time  403 :  Santa Nick  giving to children: bracelet boy
+Time  403 :  Santa Nick  giving to children: dinosaur boy
+Time  404 :  Santa Nick  giving to children: fake tattoo girl
+Time  404 :  Santa Nick  giving to children: doll girl
+Time  405 :  Santa Nick  giving to children: dinosaur boy
+Time  405 :  Santa Nick  giving to children: bracelet girl
+Time  405 :  Santa Nick  giving to children: doll girl
+Time: 406 :  Santa Nick  Walking to toy department
+Time  406 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  407 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  407 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  407 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  408 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  408 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  408 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  409 :  Santa Nick  retrieving from sleigh: train girl
+Time  410 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  410 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  411 :  Santa Nick  Walking back to grotto
+Time  412 :  Santa Nick  giving to children: bracelet girl
+Time  412 :  Santa Nick  giving to children: dinosaur boy
+Time  412 :  Santa Nick  giving to children: fake tattoo boy
+Time  412 :  Santa Nick  giving to children: dinosaur boy
+Time  413 :  Santa Nick  giving to children: dinosaur girl
+Time  413 :  Santa Nick  giving to children: whistle girl
+Time  414 :  Santa Nick  giving to children: fake tattoo boy
+Time  414 :  Santa Nick  giving to children: train girl
+Time  415 :  Santa Nick  giving to children: dinosaur boy
+Time  415 :  Santa Nick  giving to children: whistle girl
+Time: 416 :  Santa Nick  Walking to toy department
+Time  416 :  Santa Nick  retrieving from sleigh: doll boy
+Time  417 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  417 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  417 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  417 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  418 :  Santa Nick  retrieving from sleigh: train girl
+Time  418 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  418 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  419 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  419 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  420 :  Santa Nick  Walking back to grotto
+Time  421 :  Santa Nick  giving to children: doll boy
+Time  421 :  Santa Nick  giving to children: dinosaur boy
+Time  422 :  Santa Nick  giving to children: bracelet boy
+Time  422 :  Santa Nick  giving to children: whistle girl
+Time  423 :  Santa Nick  giving to children: dinosaur boy
+Time  423 :  Santa Nick  giving to children: train girl
+Time  424 :  Santa Nick  giving to children: whistle boy
+Time  425 :  Santa Nick  giving to children: bracelet girl
+Time  425 :  Santa Nick  giving to children: fake tattoo girl
+Time  425 :  Santa Nick  giving to children: fake tattoo girl
+Time: 426 :  Santa Nick  Walking to toy department
+Time  427 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  427 :  Santa Nick  retrieving from sleigh: train boy
+Time  427 :  Santa Nick  retrieving from sleigh: whistle boy
+Time  427 :  Santa Nick  retrieving from sleigh: train boy
+Time  427 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  429 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  429 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  429 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  431 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  431 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  432 :  Santa Nick  Walking back to grotto
+Time  433 :  Santa Nick  giving to children: fake tattoo girl
+Time  433 :  Santa Nick  giving to children: train boy
+Time  434 :  Santa Nick  giving to children: whistle boy
+Time  434 :  Santa Nick  giving to children: train boy
+Time  434 :  Santa Nick  giving to children: fake tattoo boy
+Time  434 :  Santa Nick  giving to children: dinosaur boy
+Time  435 :  Santa Nick  giving to children: fake tattoo girl
+Time  436 :  Santa Nick  giving to children: dinosaur boy
+Time  436 :  Santa Nick  giving to children: dinosaur boy
+Time  436 :  Santa Nick  giving to children: fake tattoo girl
+Time: 437 :  Santa Nick  Walking to toy department
+Time  437 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  437 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  437 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  437 :  Santa Nick  retrieving from sleigh: doll girl
+Time  438 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  438 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  438 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  439 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  439 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  440 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  441 :  Santa Nick  Walking back to grotto
+Time  441 :  Santa Nick  giving to children: fake tattoo girl
+Time  442 :  Santa Nick  giving to children: bracelet girl
+Time  442 :  Santa Nick  giving to children: fake tattoo girl
+Time  442 :  Santa Nick  giving to children: doll girl
+Time  442 :  Santa Nick  giving to children: fake tattoo boy
+Time  443 :  Santa Nick  giving to children: bracelet girl
+Time  444 :  Santa Nick  giving to children: fake tattoo girl
+Time  444 :  Santa Nick  giving to children: bracelet girl
+Time  444 :  Santa Nick  giving to children: dinosaur girl
+Time  445 :  Santa Nick  giving to children: whistle girl
+Time: 446 :  Santa Nick  Walking to toy department
+Time  446 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  447 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  447 :  Santa Nick  retrieving from sleigh: train girl
+Time  447 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  447 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  448 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  448 :  Santa Nick  retrieving from sleigh: train boy
+Time  449 :  Santa Nick  retrieving from sleigh: train girl
+Time  449 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  449 :  Santa Nick  retrieving from sleigh: train girl
+Time  450 :  Santa Nick  Walking back to grotto
+Time  450 :  Santa Nick  giving to children: dinosaur boy
+Time  450 :  Santa Nick  giving to children: fake tattoo girl
+Time  451 :  Santa Nick  giving to children: train girl
+Time  452 :  Santa Nick  giving to children: bracelet boy
+Time  452 :  Santa Nick  giving to children: bracelet girl
+Time  452 :  Santa Nick  giving to children: fake tattoo boy
+Time  453 :  Santa Nick  giving to children: train boy
+Time  454 :  Santa Nick  giving to children: train girl
+Time  455 :  Santa Nick  giving to children: bracelet boy
+Time  455 :  Santa Nick  giving to children: train girl
+Time: 456 :  Santa Nick  Walking to toy department
+Time  456 :  Santa Nick  retrieving from sleigh: train boy
+Time  456 :  Santa Nick  retrieving from sleigh: doll girl
+Time  456 :  Santa Nick  retrieving from sleigh: train boy
+Time  457 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  457 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  458 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  458 :  Santa Nick  retrieving from sleigh: dinosaur boy
+Time  459 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  459 :  Santa Nick  retrieving from sleigh: train boy
+Time  459 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  460 :  Santa Nick  Walking back to grotto
+Time  461 :  Santa Nick  giving to children: train boy
+Time  461 :  Santa Nick  giving to children: doll girl
+Time  461 :  Santa Nick  giving to children: train boy
+Time  462 :  Santa Nick  giving to children: whistle girl
+Time  463 :  Santa Nick  giving to children: bracelet boy
+Time  463 :  Santa Nick  giving to children: bracelet boy
+Time  463 :  Santa Nick  giving to children: dinosaur boy
+Time  464 :  Santa Nick  giving to children: dinosaur girl
+Time  464 :  Santa Nick  giving to children: train boy
+Time  465 :  Santa Nick  giving to children: dinosaur girl
+Time: 466 :  Santa Nick  Walking to toy department
+Time  466 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  466 :  Santa Nick  retrieving from sleigh: dinosaur girl
+Time  466 :  Santa Nick  retrieving from sleigh: doll boy
+Time  467 :  Santa Nick  retrieving from sleigh: doll girl
+Time  467 :  Santa Nick  retrieving from sleigh: train girl
+Time  467 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  467 :  Santa Nick  retrieving from sleigh: whistle girl
+Time  468 :  Santa Nick  retrieving from sleigh: doll boy
+Time  468 :  Santa Nick  retrieving from sleigh: doll boy
+Time  469 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  470 :  Santa Nick  Walking back to grotto
+Time  470 :  Santa Nick  giving to children: bracelet girl
+Time  470 :  Santa Nick  giving to children: dinosaur girl
+Time  471 :  Santa Nick  giving to children: doll boy
+Time  471 :  Santa Nick  giving to children: doll girl
+Time  472 :  Santa Nick  giving to children: train girl
+Time  472 :  Santa Nick  giving to children: whistle girl
+Time  473 :  Santa Nick  giving to children: whistle girl
+Time  474 :  Santa Nick  giving to children: doll boy
+Time  474 :  Santa Nick  giving to children: doll boy
+Time  475 :  Santa Nick  giving to children: bracelet boy
+Time: 476 :  Santa Nick  Walking to toy department
+Time  476 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  476 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  476 :  Santa Nick  retrieving from sleigh: bracelet boy
+Time  476 :  Santa Nick  retrieving from sleigh: train girl
+Time  476 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  477 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  477 :  Santa Nick  retrieving from sleigh: fake tattoo girl
+Time  477 :  Santa Nick  retrieving from sleigh: fake tattoo boy
+Time  478 :  Santa Nick  retrieving from sleigh: train boy
+Time  478 :  Santa Nick  retrieving from sleigh: bracelet girl
+Time  479 :  Santa Nick  Walking back to grotto
+Time  479 :  Santa Nick  giving to children: bracelet girl
+Time  480 :  Santa Nick  giving to children: fake tattoo girl
+Time  480 :  Santa Nick  giving to children: bracelet boy
+Time  480 :  Santa Nick  giving to children: train girl

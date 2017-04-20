@@ -1,0 +1,723 @@
+Time: 2: Elf Jack:     Selected toy doll, girl
+Time: 2: Elf Jack:     Wrapped toy doll, girl
+Time: 2: Elf Jack:     Placed toy doll, girl
+Time: 3: Elf Jack:     Selected toy bracelet, boy
+Time: 4: Elf Jack:     Wrapped toy bracelet, boy
+Time: 4: Elf Jack:     Placed toy bracelet, boy
+Time: 5: Elf Jack:     Selected toy fake tattoo, boy
+Time: 6: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 7: Elf Jack:     Placed toy fake tattoo, boy
+Time: 7: Elf Jack:     Selected toy whistle, boy
+Time: 8: Elf Jack:     Wrapped toy whistle, boy
+Time: 9: Elf Jack:     Placed toy whistle, boy
+Time: 9: Elf Jack:     Selected toy dinosaur, girl
+Time: 10: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 11: Elf Jack:     Placed toy dinosaur, girl
+Time: 12: Elf Jack:     Selected toy train, girl
+Time: 13: Elf Jack:     Wrapped toy train, girl
+Time: 13: Elf Jack:     Placed toy train, girl
+Time: 15: Elf Jack:     Selected toy doll, boy
+Time: 15: Elf Jack:     Wrapped toy doll, boy
+Time: 15: Elf Jack:     Placed toy doll, boy
+Time: 16: Elf Jack:     Selected toy whistle, boy
+Time: 17: Elf Jack:     Wrapped toy whistle, boy
+Time: 17: Elf Jack:     Placed toy whistle, boy
+Time: 18: Elf Jack:     Selected toy train, boy
+Time: 19: Elf Jack:     Wrapped toy train, boy
+Time: 19: Elf Jack:     Placed toy train, boy
+Time: 19: Elf Jack:     Selected toy train, boy
+Time: 20: Elf Jack:     Wrapped toy train, boy
+Time: 21: Elf Jack:     Placed toy train, boy
+Time: 21: Elf Jack:     Selected toy whistle, girl
+Time: 21: Elf Jack:     Wrapped toy whistle, girl
+Time: 22: Elf Jack:     Placed toy whistle, girl
+Time: 23: Elf Jack:     Selected toy bracelet, girl
+Time: 24: Elf Jack:     Wrapped toy bracelet, girl
+Time: 24: Elf Jack:     Placed toy bracelet, girl
+Time: 25: Elf Jack:     Selected toy fake tattoo, girl
+Time: 25: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 25: Elf Jack:     Placed toy fake tattoo, girl
+Time: 26: Elf Jack:     Selected toy train, girl
+Time: 26: Elf Jack:     Wrapped toy train, girl
+Time: 27: Elf Jack:     Placed toy train, girl
+Time: 28: Elf Jack:     Selected toy bracelet, girl
+Time: 28: Elf Jack:     Wrapped toy bracelet, girl
+Time: 28: Elf Jack:     Placed toy bracelet, girl
+Time: 29: Elf Jack:     Selected toy fake tattoo, girl
+Time: 30: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 30: Elf Jack:     Placed toy fake tattoo, girl
+Time: 32: Elf Jack:     Selected toy dinosaur, girl
+Time: 32: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 33: Elf Jack:     Placed toy dinosaur, girl
+Time: 34: Elf Jack:     Selected toy fake tattoo, girl
+Time: 35: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 35: Elf Jack:     Placed toy fake tattoo, girl
+Time: 36: Elf Jack:     Selected toy bracelet, boy
+Time: 37: Elf Jack:     Wrapped toy bracelet, boy
+Time: 37: Elf Jack:     Placed toy bracelet, boy
+Time: 37: Elf Jack:     Selected toy dinosaur, girl
+Time: 38: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 38: Elf Jack:     Placed toy dinosaur, girl
+Time: 39: Elf Jack:     Selected toy dinosaur, girl
+Time: 40: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 40: Elf Jack:     Placed toy dinosaur, girl
+Time: 41: Elf Jack:     Selected toy fake tattoo, girl
+Time: 42: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 42: Elf Jack:     Placed toy fake tattoo, girl
+Time: 44: Elf Jack:     Selected toy bracelet, girl
+Time: 44: Elf Jack:     Wrapped toy bracelet, girl
+Time: 45: Elf Jack:     Placed toy bracelet, girl
+Time: 46: Elf Jack:     Selected toy whistle, girl
+Time: 47: Elf Jack:     Wrapped toy whistle, girl
+Time: 47: Elf Jack:     Placed toy whistle, girl
+Time: 48: Elf Jack:     Selected toy whistle, boy
+Time: 48: Elf Jack:     Wrapped toy whistle, boy
+Time: 49: Elf Jack:     Placed toy whistle, boy
+Time: 51: Elf Jack:     Selected toy train, boy
+Time: 51: Elf Jack:     Wrapped toy train, boy
+Time: 51: Elf Jack:     Placed toy train, boy
+Time: 53: Elf Jack:     Selected toy dinosaur, boy
+Time: 53: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 54: Elf Jack:     Placed toy dinosaur, boy
+Time: 55: Elf Jack:     Selected toy bracelet, girl
+Time: 56: Elf Jack:     Wrapped toy bracelet, girl
+Time: 56: Elf Jack:     Placed toy bracelet, girl
+Time: 57: Elf Jack:     Selected toy doll, boy
+Time: 58: Elf Jack:     Wrapped toy doll, boy
+Time: 59: Elf Jack:     Placed toy doll, boy
+Time: 60: Elf Jack:     Selected toy bracelet, girl
+Time: 60: Elf Jack:     Wrapped toy bracelet, girl
+Time: 60: Elf Jack:     Placed toy bracelet, girl
+Time: 61: Elf Jack:     Selected toy train, boy
+Time: 62: Elf Jack:     Wrapped toy train, boy
+Time: 62: Elf Jack:     Placed toy train, boy
+Time: 63: Elf Jack:     Selected toy whistle, girl
+Time: 63: Elf Jack:     Wrapped toy whistle, girl
+Time: 64: Elf Jack:     Placed toy whistle, girl
+Time: 65: Elf Jack:     Selected toy bracelet, girl
+Time: 65: Elf Jack:     Wrapped toy bracelet, girl
+Time: 66: Elf Jack:     Placed toy bracelet, girl
+Time: 67: Elf Jack:     Selected toy whistle, girl
+Time: 68: Elf Jack:     Wrapped toy whistle, girl
+Time: 69: Elf Jack:     Placed toy whistle, girl
+Time: 70: Elf Jack:     Selected toy whistle, girl
+Time: 71: Elf Jack:     Wrapped toy whistle, girl
+Time: 72: Elf Jack:     Placed toy whistle, girl
+Time: 73: Elf Jack:     Selected toy doll, boy
+Time: 74: Elf Jack:     Wrapped toy doll, boy
+Time: 74: Elf Jack:     Placed toy doll, boy
+Time: 75: Elf Jack:     Selected toy bracelet, boy
+Time: 76: Elf Jack:     Wrapped toy bracelet, boy
+Time: 77: Elf Jack:     Placed toy bracelet, boy
+Time: 78: Elf Jack:     Selected toy doll, girl
+Time: 78: Elf Jack:     Wrapped toy doll, girl
+Time: 78: Elf Jack:     Placed toy doll, girl
+Time: 80: Elf Jack:     Selected toy whistle, boy
+Time: 81: Elf Jack:     Wrapped toy whistle, boy
+Time: 81: Elf Jack:     Placed toy whistle, boy
+Time: 81: Elf Jack:     Selected toy doll, boy
+Time: 81: Elf Jack:     Wrapped toy doll, boy
+Time: 81: Elf Jack:     Placed toy doll, boy
+Time: 82: Elf Jack:     Selected toy doll, boy
+Time: 83: Elf Jack:     Wrapped toy doll, boy
+Time: 83: Elf Jack:     Placed toy doll, boy
+Time: 83: Elf Jack:     Selected toy dinosaur, boy
+Time: 84: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 84: Elf Jack:     Placed toy dinosaur, boy
+Time: 85: Elf Jack:     Selected toy fake tattoo, boy
+Time: 86: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 86: Elf Jack:     Placed toy fake tattoo, boy
+Time: 87: Elf Jack:     Selected toy train, girl
+Time: 88: Elf Jack:     Wrapped toy train, girl
+Time: 89: Elf Jack:     Placed toy train, girl
+Time: 90: Elf Jack:     Selected toy dinosaur, girl
+Time: 90: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 91: Elf Jack:     Placed toy dinosaur, girl
+Time: 92: Elf Jack:     Selected toy dinosaur, boy
+Time: 92: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 93: Elf Jack:     Placed toy dinosaur, boy
+Time: 94: Elf Jack:     Selected toy doll, girl
+Time: 95: Elf Jack:     Wrapped toy doll, girl
+Time: 95: Elf Jack:     Placed toy doll, girl
+Time: 97: Elf Jack:     Selected toy doll, girl
+Time: 97: Elf Jack:     Wrapped toy doll, girl
+Time: 97: Elf Jack:     Placed toy doll, girl
+Time: 98: Elf Jack:     Selected toy bracelet, boy
+Time: 99: Elf Jack:     Wrapped toy bracelet, boy
+Time: 100: Elf Jack:     Placed toy bracelet, boy
+Time: 100: Elf Jack:     Selected toy bracelet, girl
+Time: 101: Elf Jack:     Wrapped toy bracelet, girl
+Time: 101: Elf Jack:     Placed toy bracelet, girl
+Time: 102: Elf Jack:     Selected toy bracelet, boy
+Time: 102: Elf Jack:     Wrapped toy bracelet, boy
+Time: 103: Elf Jack:     Placed toy bracelet, boy
+Time: 105: Elf Jack:     Selected toy dinosaur, boy
+Time: 105: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 106: Elf Jack:     Placed toy dinosaur, boy
+Time: 108: Elf Jack:     Selected toy fake tattoo, boy
+Time: 108: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 108: Elf Jack:     Placed toy fake tattoo, boy
+Time: 109: Elf Jack:     Selected toy whistle, girl
+Time: 110: Elf Jack:     Wrapped toy whistle, girl
+Time: 111: Elf Jack:     Placed toy whistle, girl
+Time: 112: Elf Jack:     Selected toy doll, girl
+Time: 112: Elf Jack:     Wrapped toy doll, girl
+Time: 113: Elf Jack:     Placed toy doll, girl
+Time: 113: Elf Jack:     Selected toy dinosaur, girl
+Time: 114: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 114: Elf Jack:     Placed toy dinosaur, girl
+Time: 115: Elf Jack:     Selected toy bracelet, boy
+Time: 115: Elf Jack:     Wrapped toy bracelet, boy
+Time: 116: Elf Jack:     Placed toy bracelet, boy
+Time: 118: Elf Jack:     Selected toy whistle, boy
+Time: 118: Elf Jack:     Wrapped toy whistle, boy
+Time: 118: Elf Jack:     Placed toy whistle, boy
+Time: 119: Elf Jack:     Selected toy fake tattoo, girl
+Time: 119: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 119: Elf Jack:     Placed toy fake tattoo, girl
+Time: 120: Elf Jack:     Selected toy whistle, girl
+Time: 121: Elf Jack:     Wrapped toy whistle, girl
+Time: 122: Elf Jack:     Placed toy whistle, girl
+Time: 123: Elf Jack:     Selected toy train, girl
+Time: 123: Elf Jack:     Wrapped toy train, girl
+Time: 124: Elf Jack:     Placed toy train, girl
+Time: 125: Elf Jack:     Selected toy dinosaur, girl
+Time: 126: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 126: Elf Jack:     Placed toy dinosaur, girl
+Time: 128: Elf Jack:     Selected toy doll, girl
+Time: 128: Elf Jack:     Wrapped toy doll, girl
+Time: 128: Elf Jack:     Placed toy doll, girl
+Time: 130: Elf Jack:     Selected toy train, boy
+Time: 130: Elf Jack:     Wrapped toy train, boy
+Time: 131: Elf Jack:     Placed toy train, boy
+Time: 132: Elf Jack:     Selected toy train, boy
+Time: 133: Elf Jack:     Wrapped toy train, boy
+Time: 133: Elf Jack:     Placed toy train, boy
+Time: 134: Elf Jack:     Selected toy bracelet, boy
+Time: 135: Elf Jack:     Wrapped toy bracelet, boy
+Time: 135: Elf Jack:     Placed toy bracelet, boy
+Time: 136: Elf Jack:     Selected toy dinosaur, girl
+Time: 136: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 137: Elf Jack:     Placed toy dinosaur, girl
+Time: 137: Elf Jack:     Selected toy fake tattoo, boy
+Time: 138: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 138: Elf Jack:     Placed toy fake tattoo, boy
+Time: 139: Elf Jack:     Selected toy train, girl
+Time: 140: Elf Jack:     Wrapped toy train, girl
+Time: 141: Elf Jack:     Placed toy train, girl
+Time: 142: Elf Jack:     Selected toy bracelet, girl
+Time: 142: Elf Jack:     Wrapped toy bracelet, girl
+Time: 143: Elf Jack:     Placed toy bracelet, girl
+Time: 144: Elf Jack:     Selected toy whistle, boy
+Time: 145: Elf Jack:     Wrapped toy whistle, boy
+Time: 146: Elf Jack:     Placed toy whistle, boy
+Time: 148: Elf Jack:     Selected toy fake tattoo, girl
+Time: 149: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 150: Elf Jack:     Placed toy fake tattoo, girl
+Time: 151: Elf Jack:     Selected toy fake tattoo, girl
+Time: 152: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 152: Elf Jack:     Placed toy fake tattoo, girl
+Time: 153: Elf Jack:     Selected toy bracelet, boy
+Time: 153: Elf Jack:     Wrapped toy bracelet, boy
+Time: 153: Elf Jack:     Placed toy bracelet, boy
+Time: 155: Elf Jack:     Selected toy dinosaur, boy
+Time: 156: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 156: Elf Jack:     Placed toy dinosaur, boy
+Time: 157: Elf Jack:     Selected toy bracelet, boy
+Time: 157: Elf Jack:     Wrapped toy bracelet, boy
+Time: 158: Elf Jack:     Placed toy bracelet, boy
+Time: 158: Elf Jack:     Selected toy whistle, boy
+Time: 159: Elf Jack:     Wrapped toy whistle, boy
+Time: 160: Elf Jack:     Placed toy whistle, boy
+Time: 161: Elf Jack:     Selected toy dinosaur, girl
+Time: 161: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 162: Elf Jack:     Placed toy dinosaur, girl
+Time: 162: Elf Jack:     Selected toy fake tattoo, boy
+Time: 162: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 163: Elf Jack:     Placed toy fake tattoo, boy
+Time: 164: Elf Jack:     Selected toy fake tattoo, girl
+Time: 164: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 164: Elf Jack:     Placed toy fake tattoo, girl
+Time: 166: Elf Jack:     Selected toy whistle, girl
+Time: 166: Elf Jack:     Wrapped toy whistle, girl
+Time: 166: Elf Jack:     Placed toy whistle, girl
+Time: 167: Elf Jack:     Selected toy bracelet, boy
+Time: 167: Elf Jack:     Wrapped toy bracelet, boy
+Time: 168: Elf Jack:     Placed toy bracelet, boy
+Time: 169: Elf Jack:     Selected toy doll, girl
+Time: 170: Elf Jack:     Wrapped toy doll, girl
+Time: 171: Elf Jack:     Placed toy doll, girl
+Time: 172: Elf Jack:     Selected toy whistle, girl
+Time: 173: Elf Jack:     Wrapped toy whistle, girl
+Time: 174: Elf Jack:     Placed toy whistle, girl
+Time: 174: Elf Jack:     Selected toy fake tattoo, girl
+Time: 175: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 176: Elf Jack:     Placed toy fake tattoo, girl
+Time: 177: Elf Jack:     Selected toy bracelet, girl
+Time: 177: Elf Jack:     Wrapped toy bracelet, girl
+Time: 178: Elf Jack:     Placed toy bracelet, girl
+Time: 179: Elf Jack:     Selected toy fake tattoo, girl
+Time: 180: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 180: Elf Jack:     Placed toy fake tattoo, girl
+Time: 181: Elf Jack:     Selected toy fake tattoo, girl
+Time: 181: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 181: Elf Jack:     Placed toy fake tattoo, girl
+Time: 183: Elf Jack:     Selected toy bracelet, boy
+Time: 184: Elf Jack:     Wrapped toy bracelet, boy
+Time: 184: Elf Jack:     Placed toy bracelet, boy
+Time: 185: Elf Jack:     Selected toy dinosaur, boy
+Time: 185: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 185: Elf Jack:     Placed toy dinosaur, boy
+Time: 186: Elf Jack:     Selected toy train, girl
+Time: 187: Elf Jack:     Wrapped toy train, girl
+Time: 187: Elf Jack:     Placed toy train, girl
+Time: 189: Elf Jack:     Selected toy bracelet, boy
+Time: 190: Elf Jack:     Wrapped toy bracelet, boy
+Time: 190: Elf Jack:     Placed toy bracelet, boy
+Time: 191: Elf Jack:     Selected toy doll, boy
+Time: 192: Elf Jack:     Wrapped toy doll, boy
+Time: 193: Elf Jack:     Placed toy doll, boy
+Time: 194: Elf Jack:     Selected toy bracelet, girl
+Time: 194: Elf Jack:     Wrapped toy bracelet, girl
+Time: 195: Elf Jack:     Placed toy bracelet, girl
+Time: 196: Elf Jack:     Selected toy dinosaur, boy
+Time: 196: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 197: Elf Jack:     Placed toy dinosaur, boy
+Time: 198: Elf Jack:     Selected toy doll, boy
+Time: 198: Elf Jack:     Wrapped toy doll, boy
+Time: 198: Elf Jack:     Placed toy doll, boy
+Time: 200: Elf Jack:     Selected toy bracelet, girl
+Time: 200: Elf Jack:     Wrapped toy bracelet, girl
+Time: 201: Elf Jack:     Placed toy bracelet, girl
+Time: 201: Elf Jack:     Selected toy train, boy
+Time: 202: Elf Jack:     Wrapped toy train, boy
+Time: 203: Elf Jack:     Placed toy train, boy
+Time: 203: Elf Jack:     Selected toy dinosaur, boy
+Time: 204: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 204: Elf Jack:     Placed toy dinosaur, boy
+Time: 205: Elf Jack:     Selected toy whistle, boy
+Time: 206: Elf Jack:     Wrapped toy whistle, boy
+Time: 206: Elf Jack:     Placed toy whistle, boy
+Time: 208: Elf Jack:     Selected toy whistle, boy
+Time: 209: Elf Jack:     Wrapped toy whistle, boy
+Time: 209: Elf Jack:     Placed toy whistle, boy
+Time: 210: Elf Jack:     Selected toy train, girl
+Time: 210: Elf Jack:     Wrapped toy train, girl
+Time: 211: Elf Jack:     Placed toy train, girl
+Time: 212: Elf Jack:     Selected toy train, girl
+Time: 212: Elf Jack:     Wrapped toy train, girl
+Time: 212: Elf Jack:     Placed toy train, girl
+Time: 214: Elf Jack:     Selected toy bracelet, girl
+Time: 214: Elf Jack:     Wrapped toy bracelet, girl
+Time: 215: Elf Jack:     Placed toy bracelet, girl
+Time: 216: Elf Jack:     Selected toy fake tattoo, boy
+Time: 216: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 217: Elf Jack:     Placed toy fake tattoo, boy
+Time: 218: Elf Jack:     Selected toy dinosaur, boy
+Time: 219: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 219: Elf Jack:     Placed toy dinosaur, boy
+Time: 220: Elf Jack:     Selected toy train, girl
+Time: 220: Elf Jack:     Wrapped toy train, girl
+Time: 221: Elf Jack:     Placed toy train, girl
+Time: 222: Elf Jack:     Selected toy bracelet, girl
+Time: 222: Elf Jack:     Wrapped toy bracelet, girl
+Time: 223: Elf Jack:     Placed toy bracelet, girl
+Time: 224: Elf Jack:     Selected toy dinosaur, boy
+Time: 225: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 225: Elf Jack:     Placed toy dinosaur, boy
+Time: 226: Elf Jack:     Selected toy dinosaur, girl
+Time: 226: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 227: Elf Jack:     Placed toy dinosaur, girl
+Time: 228: Elf Jack:     Selected toy doll, girl
+Time: 228: Elf Jack:     Wrapped toy doll, girl
+Time: 229: Elf Jack:     Placed toy doll, girl
+Time: 229: Elf Jack:     Selected toy bracelet, boy
+Time: 230: Elf Jack:     Wrapped toy bracelet, boy
+Time: 231: Elf Jack:     Placed toy bracelet, boy
+Time: 231: Elf Jack:     Selected toy fake tattoo, boy
+Time: 232: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 232: Elf Jack:     Placed toy fake tattoo, boy
+Time: 233: Elf Jack:     Selected toy fake tattoo, boy
+Time: 234: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 235: Elf Jack:     Placed toy fake tattoo, boy
+Time: 235: Elf Jack:     Selected toy dinosaur, boy
+Time: 235: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 236: Elf Jack:     Placed toy dinosaur, boy
+Time: 237: Elf Jack:     Selected toy whistle, girl
+Time: 238: Elf Jack:     Wrapped toy whistle, girl
+Time: 238: Elf Jack:     Placed toy whistle, girl
+Time: 239: Elf Jack:     Selected toy dinosaur, boy
+Time: 239: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 240: Elf Jack:     Placed toy dinosaur, boy
+Time: 241: Elf Jack:     Selected toy fake tattoo, girl
+Time: 241: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 242: Elf Jack:     Placed toy fake tattoo, girl
+Time: 243: Elf Jack:     Selected toy whistle, girl
+Time: 244: Elf Jack:     Wrapped toy whistle, girl
+Time: 244: Elf Jack:     Placed toy whistle, girl
+Time: 245: Elf Jack:     Selected toy bracelet, girl
+Time: 245: Elf Jack:     Wrapped toy bracelet, girl
+Time: 246: Elf Jack:     Placed toy bracelet, girl
+Time: 247: Elf Jack:     Selected toy doll, boy
+Time: 247: Elf Jack:     Wrapped toy doll, boy
+Time: 248: Elf Jack:     Placed toy doll, boy
+Time: 249: Elf Jack:     Selected toy train, girl
+Time: 249: Elf Jack:     Wrapped toy train, girl
+Time: 250: Elf Jack:     Placed toy train, girl
+Time: 250: Elf Jack:     Selected toy fake tattoo, boy
+Time: 251: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 252: Elf Jack:     Placed toy fake tattoo, boy
+Time: 253: Elf Jack:     Selected toy whistle, boy
+Time: 253: Elf Jack:     Wrapped toy whistle, boy
+Time: 254: Elf Jack:     Placed toy whistle, boy
+Time: 254: Elf Jack:     Selected toy fake tattoo, girl
+Time: 255: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 255: Elf Jack:     Placed toy fake tattoo, girl
+Time: 256: Elf Jack:     Selected toy fake tattoo, girl
+Time: 257: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 257: Elf Jack:     Placed toy fake tattoo, girl
+Time: 258: Elf Jack:     Selected toy train, girl
+Time: 259: Elf Jack:     Wrapped toy train, girl
+Time: 260: Elf Jack:     Placed toy train, girl
+Time: 261: Elf Jack:     Selected toy fake tattoo, girl
+Time: 261: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 261: Elf Jack:     Placed toy fake tattoo, girl
+Time: 262: Elf Jack:     Selected toy doll, boy
+Time: 263: Elf Jack:     Wrapped toy doll, boy
+Time: 263: Elf Jack:     Placed toy doll, boy
+Time: 264: Elf Jack:     Selected toy doll, boy
+Time: 265: Elf Jack:     Wrapped toy doll, boy
+Time: 266: Elf Jack:     Placed toy doll, boy
+Time: 267: Elf Jack:     Selected toy dinosaur, girl
+Time: 268: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 268: Elf Jack:     Placed toy dinosaur, girl
+Time: 269: Elf Jack:     Selected toy dinosaur, boy
+Time: 270: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 271: Elf Jack:     Placed toy dinosaur, boy
+Time: 272: Elf Jack:     Selected toy train, girl
+Time: 272: Elf Jack:     Wrapped toy train, girl
+Time: 273: Elf Jack:     Placed toy train, girl
+Time: 274: Elf Jack:     Selected toy bracelet, girl
+Time: 275: Elf Jack:     Wrapped toy bracelet, girl
+Time: 275: Elf Jack:     Placed toy bracelet, girl
+Time: 276: Elf Jack:     Selected toy dinosaur, girl
+Time: 276: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 277: Elf Jack:     Placed toy dinosaur, girl
+Time: 278: Elf Jack:     Selected toy doll, boy
+Time: 278: Elf Jack:     Wrapped toy doll, boy
+Time: 278: Elf Jack:     Placed toy doll, boy
+Time: 279: Elf Jack:     Selected toy train, girl
+Time: 280: Elf Jack:     Wrapped toy train, girl
+Time: 281: Elf Jack:     Placed toy train, girl
+Time: 282: Elf Jack:     Selected toy whistle, girl
+Time: 282: Elf Jack:     Wrapped toy whistle, girl
+Time: 283: Elf Jack:     Placed toy whistle, girl
+Time: 284: Elf Jack:     Selected toy bracelet, girl
+Time: 285: Elf Jack:     Wrapped toy bracelet, girl
+Time: 285: Elf Jack:     Placed toy bracelet, girl
+Time: 286: Elf Jack:     Selected toy fake tattoo, girl
+Time: 287: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 288: Elf Jack:     Placed toy fake tattoo, girl
+Time: 288: Elf Jack:     Selected toy whistle, girl
+Time: 288: Elf Jack:     Wrapped toy whistle, girl
+Time: 288: Elf Jack:     Placed toy whistle, girl
+Time: 289: Elf Jack:     Selected toy doll, girl
+Time: 289: Elf Jack:     Wrapped toy doll, girl
+Time: 290: Elf Jack:     Placed toy doll, girl
+Time: 290: Elf Jack:     Selected toy bracelet, girl
+Time: 291: Elf Jack:     Wrapped toy bracelet, girl
+Time: 291: Elf Jack:     Placed toy bracelet, girl
+Time: 292: Elf Jack:     Selected toy fake tattoo, girl
+Time: 292: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 293: Elf Jack:     Placed toy fake tattoo, girl
+Time: 295: Elf Jack:     Selected toy whistle, boy
+Time: 295: Elf Jack:     Wrapped toy whistle, boy
+Time: 296: Elf Jack:     Placed toy whistle, boy
+Time: 296: Elf Jack:     Selected toy bracelet, girl
+Time: 297: Elf Jack:     Wrapped toy bracelet, girl
+Time: 297: Elf Jack:     Placed toy bracelet, girl
+Time: 298: Elf Jack:     Selected toy dinosaur, girl
+Time: 299: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 299: Elf Jack:     Placed toy dinosaur, girl
+Time: 300: Elf Jack:     Selected toy fake tattoo, girl
+Time: 300: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 300: Elf Jack:     Placed toy fake tattoo, girl
+Time: 301: Elf Jack:     Selected toy whistle, girl
+Time: 302: Elf Jack:     Wrapped toy whistle, girl
+Time: 303: Elf Jack:     Placed toy whistle, girl
+Time: 304: Elf Jack:     Selected toy dinosaur, boy
+Time: 305: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 305: Elf Jack:     Placed toy dinosaur, boy
+Time: 306: Elf Jack:     Selected toy train, girl
+Time: 306: Elf Jack:     Wrapped toy train, girl
+Time: 307: Elf Jack:     Placed toy train, girl
+Time: 308: Elf Jack:     Selected toy dinosaur, girl
+Time: 309: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 309: Elf Jack:     Placed toy dinosaur, girl
+Time: 310: Elf Jack:     Selected toy fake tattoo, boy
+Time: 310: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 311: Elf Jack:     Placed toy fake tattoo, boy
+Time: 313: Elf Jack:     Selected toy bracelet, girl
+Time: 313: Elf Jack:     Wrapped toy bracelet, girl
+Time: 313: Elf Jack:     Placed toy bracelet, girl
+Time: 314: Elf Jack:     Selected toy train, girl
+Time: 315: Elf Jack:     Wrapped toy train, girl
+Time: 316: Elf Jack:     Placed toy train, girl
+Time: 317: Elf Jack:     Selected toy dinosaur, girl
+Time: 318: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 318: Elf Jack:     Placed toy dinosaur, girl
+Time: 319: Elf Jack:     Selected toy fake tattoo, boy
+Time: 320: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 321: Elf Jack:     Placed toy fake tattoo, boy
+Time: 322: Elf Jack:     Selected toy doll, boy
+Time: 323: Elf Jack:     Wrapped toy doll, boy
+Time: 323: Elf Jack:     Placed toy doll, boy
+Time: 324: Elf Jack:     Selected toy train, girl
+Time: 325: Elf Jack:     Wrapped toy train, girl
+Time: 325: Elf Jack:     Placed toy train, girl
+Time: 326: Elf Jack:     Selected toy train, boy
+Time: 326: Elf Jack:     Wrapped toy train, boy
+Time: 327: Elf Jack:     Placed toy train, boy
+Time: 328: Elf Jack:     Selected toy dinosaur, boy
+Time: 329: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 329: Elf Jack:     Placed toy dinosaur, boy
+Time: 331: Elf Jack:     Selected toy doll, boy
+Time: 332: Elf Jack:     Wrapped toy doll, boy
+Time: 332: Elf Jack:     Placed toy doll, boy
+Time: 334: Elf Jack:     Selected toy dinosaur, girl
+Time: 335: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 336: Elf Jack:     Placed toy dinosaur, girl
+Time: 337: Elf Jack:     Selected toy bracelet, girl
+Time: 337: Elf Jack:     Wrapped toy bracelet, girl
+Time: 338: Elf Jack:     Placed toy bracelet, girl
+Time: 339: Elf Jack:     Selected toy doll, boy
+Time: 340: Elf Jack:     Wrapped toy doll, boy
+Time: 340: Elf Jack:     Placed toy doll, boy
+Time: 342: Elf Jack:     Selected toy train, girl
+Time: 343: Elf Jack:     Wrapped toy train, girl
+Time: 343: Elf Jack:     Placed toy train, girl
+Time: 345: Elf Jack:     Selected toy bracelet, girl
+Time: 345: Elf Jack:     Wrapped toy bracelet, girl
+Time: 345: Elf Jack:     Placed toy bracelet, girl
+Time: 346: Elf Jack:     Selected toy train, girl
+Time: 346: Elf Jack:     Wrapped toy train, girl
+Time: 347: Elf Jack:     Placed toy train, girl
+Time: 347: Elf Jack:     Selected toy whistle, boy
+Time: 348: Elf Jack:     Wrapped toy whistle, boy
+Time: 348: Elf Jack:     Placed toy whistle, boy
+Time: 350: Elf Jack:     Selected toy dinosaur, girl
+Time: 350: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 350: Elf Jack:     Placed toy dinosaur, girl
+Time: 352: Elf Jack:     Selected toy bracelet, girl
+Time: 352: Elf Jack:     Wrapped toy bracelet, girl
+Time: 352: Elf Jack:     Placed toy bracelet, girl
+Time: 353: Elf Jack:     Selected toy dinosaur, boy
+Time: 353: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 353: Elf Jack:     Placed toy dinosaur, boy
+Time: 354: Elf Jack:     Selected toy whistle, boy
+Time: 355: Elf Jack:     Wrapped toy whistle, boy
+Time: 355: Elf Jack:     Placed toy whistle, boy
+Time: 356: Elf Jack:     Selected toy fake tattoo, girl
+Time: 356: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 356: Elf Jack:     Placed toy fake tattoo, girl
+Time: 357: Elf Jack:     Selected toy fake tattoo, boy
+Time: 357: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 358: Elf Jack:     Placed toy fake tattoo, boy
+Time: 359: Elf Jack:     Selected toy train, boy
+Time: 360: Elf Jack:     Wrapped toy train, boy
+Time: 360: Elf Jack:     Placed toy train, boy
+Time: 361: Elf Jack:     Selected toy bracelet, boy
+Time: 362: Elf Jack:     Wrapped toy bracelet, boy
+Time: 362: Elf Jack:     Placed toy bracelet, boy
+Time: 363: Elf Jack:     Selected toy train, boy
+Time: 363: Elf Jack:     Wrapped toy train, boy
+Time: 363: Elf Jack:     Placed toy train, boy
+Time: 364: Elf Jack:     Selected toy doll, girl
+Time: 364: Elf Jack:     Wrapped toy doll, girl
+Time: 365: Elf Jack:     Placed toy doll, girl
+Time: 366: Elf Jack:     Selected toy bracelet, girl
+Time: 367: Elf Jack:     Wrapped toy bracelet, girl
+Time: 368: Elf Jack:     Placed toy bracelet, girl
+Time: 369: Elf Jack:     Selected toy fake tattoo, girl
+Time: 369: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 369: Elf Jack:     Placed toy fake tattoo, girl
+Time: 370: Elf Jack:     Selected toy fake tattoo, girl
+Time: 371: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 371: Elf Jack:     Placed toy fake tattoo, girl
+Time: 372: Elf Jack:     Selected toy dinosaur, girl
+Time: 373: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 373: Elf Jack:     Placed toy dinosaur, girl
+Time: 375: Elf Jack:     Selected toy whistle, boy
+Time: 375: Elf Jack:     Wrapped toy whistle, boy
+Time: 375: Elf Jack:     Placed toy whistle, boy
+Time: 376: Elf Jack:     Selected toy bracelet, boy
+Time: 376: Elf Jack:     Wrapped toy bracelet, boy
+Time: 376: Elf Jack:     Placed toy bracelet, boy
+Time: 378: Elf Jack:     Selected toy train, girl
+Time: 378: Elf Jack:     Wrapped toy train, girl
+Time: 379: Elf Jack:     Placed toy train, girl
+Time: 380: Elf Jack:     Selected toy fake tattoo, boy
+Time: 380: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 381: Elf Jack:     Placed toy fake tattoo, boy
+Time: 382: Elf Jack:     Selected toy doll, girl
+Time: 382: Elf Jack:     Wrapped toy doll, girl
+Time: 383: Elf Jack:     Placed toy doll, girl
+Time: 384: Elf Jack:     Selected toy fake tattoo, girl
+Time: 384: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 384: Elf Jack:     Placed toy fake tattoo, girl
+Time: 385: Elf Jack:     Selected toy doll, boy
+Time: 385: Elf Jack:     Wrapped toy doll, boy
+Time: 386: Elf Jack:     Placed toy doll, boy
+Time: 387: Elf Jack:     Selected toy doll, boy
+Time: 387: Elf Jack:     Wrapped toy doll, boy
+Time: 388: Elf Jack:     Placed toy doll, boy
+Time: 388: Elf Jack:     Selected toy whistle, boy
+Time: 389: Elf Jack:     Wrapped toy whistle, boy
+Time: 390: Elf Jack:     Placed toy whistle, boy
+Time: 391: Elf Jack:     Selected toy train, girl
+Time: 391: Elf Jack:     Wrapped toy train, girl
+Time: 392: Elf Jack:     Placed toy train, girl
+Time: 392: Elf Jack:     Selected toy doll, girl
+Time: 392: Elf Jack:     Wrapped toy doll, girl
+Time: 393: Elf Jack:     Placed toy doll, girl
+Time: 395: Elf Jack:     Selected toy dinosaur, girl
+Time: 395: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 395: Elf Jack:     Placed toy dinosaur, girl
+Time: 396: Elf Jack:     Selected toy whistle, girl
+Time: 396: Elf Jack:     Wrapped toy whistle, girl
+Time: 397: Elf Jack:     Placed toy whistle, girl
+Time: 397: Elf Jack:     Selected toy train, girl
+Time: 398: Elf Jack:     Wrapped toy train, girl
+Time: 398: Elf Jack:     Placed toy train, girl
+Time: 399: Elf Jack:     Selected toy bracelet, boy
+Time: 399: Elf Jack:     Wrapped toy bracelet, boy
+Time: 399: Elf Jack:     Placed toy bracelet, boy
+Time: 401: Elf Jack:     Selected toy whistle, boy
+Time: 401: Elf Jack:     Wrapped toy whistle, boy
+Time: 402: Elf Jack:     Placed toy whistle, boy
+Time: 403: Elf Jack:     Selected toy doll, boy
+Time: 403: Elf Jack:     Wrapped toy doll, boy
+Time: 404: Elf Jack:     Placed toy doll, boy
+Time: 405: Elf Jack:     Selected toy bracelet, girl
+Time: 405: Elf Jack:     Wrapped toy bracelet, girl
+Time: 406: Elf Jack:     Placed toy bracelet, girl
+Time: 407: Elf Jack:     Selected toy dinosaur, boy
+Time: 408: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 408: Elf Jack:     Placed toy dinosaur, boy
+Time: 410: Elf Jack:     Selected toy fake tattoo, girl
+Time: 410: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 410: Elf Jack:     Placed toy fake tattoo, girl
+Time: 412: Elf Jack:     Selected toy bracelet, girl
+Time: 412: Elf Jack:     Wrapped toy bracelet, girl
+Time: 412: Elf Jack:     Placed toy bracelet, girl
+Time: 413: Elf Jack:     Selected toy whistle, boy
+Time: 413: Elf Jack:     Wrapped toy whistle, boy
+Time: 413: Elf Jack:     Placed toy whistle, boy
+Time: 415: Elf Jack:     Selected toy doll, boy
+Time: 415: Elf Jack:     Wrapped toy doll, boy
+Time: 415: Elf Jack:     Placed toy doll, boy
+Time: 415: Elf Jack:     Selected toy dinosaur, boy
+Time: 416: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 416: Elf Jack:     Placed toy dinosaur, boy
+Time: 417: Elf Jack:     Selected toy train, girl
+Time: 418: Elf Jack:     Wrapped toy train, girl
+Time: 418: Elf Jack:     Placed toy train, girl
+Time: 419: Elf Jack:     Selected toy train, girl
+Time: 419: Elf Jack:     Wrapped toy train, girl
+Time: 420: Elf Jack:     Placed toy train, girl
+Time: 421: Elf Jack:     Selected toy fake tattoo, boy
+Time: 421: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 422: Elf Jack:     Placed toy fake tattoo, boy
+Time: 424: Elf Jack:     Selected toy whistle, girl
+Time: 424: Elf Jack:     Wrapped toy whistle, girl
+Time: 425: Elf Jack:     Placed toy whistle, girl
+Time: 426: Elf Jack:     Selected toy whistle, girl
+Time: 426: Elf Jack:     Wrapped toy whistle, girl
+Time: 427: Elf Jack:     Placed toy whistle, girl
+Time: 428: Elf Jack:     Selected toy fake tattoo, girl
+Time: 429: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 430: Elf Jack:     Placed toy fake tattoo, girl
+Time: 431: Elf Jack:     Selected toy doll, boy
+Time: 432: Elf Jack:     Wrapped toy doll, boy
+Time: 433: Elf Jack:     Placed toy doll, boy
+Time: 434: Elf Jack:     Selected toy train, boy
+Time: 435: Elf Jack:     Wrapped toy train, boy
+Time: 435: Elf Jack:     Placed toy train, boy
+Time: 436: Elf Jack:     Selected toy fake tattoo, girl
+Time: 437: Elf Jack:     Wrapped toy fake tattoo, girl
+Time: 438: Elf Jack:     Placed toy fake tattoo, girl
+Time: 439: Elf Jack:     Selected toy whistle, girl
+Time: 440: Elf Jack:     Wrapped toy whistle, girl
+Time: 441: Elf Jack:     Placed toy whistle, girl
+Time: 441: Elf Jack:     Selected toy whistle, boy
+Time: 442: Elf Jack:     Wrapped toy whistle, boy
+Time: 442: Elf Jack:     Placed toy whistle, boy
+Time: 443: Elf Jack:     Selected toy dinosaur, girl
+Time: 443: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 444: Elf Jack:     Placed toy dinosaur, girl
+Time: 445: Elf Jack:     Selected toy bracelet, boy
+Time: 446: Elf Jack:     Wrapped toy bracelet, boy
+Time: 446: Elf Jack:     Placed toy bracelet, boy
+Time: 447: Elf Jack:     Selected toy bracelet, girl
+Time: 447: Elf Jack:     Wrapped toy bracelet, girl
+Time: 448: Elf Jack:     Placed toy bracelet, girl
+Time: 448: Elf Jack:     Selected toy dinosaur, girl
+Time: 448: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 449: Elf Jack:     Placed toy dinosaur, girl
+Time: 450: Elf Jack:     Selected toy fake tattoo, boy
+Time: 451: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 451: Elf Jack:     Placed toy fake tattoo, boy
+Time: 451: Elf Jack:     Selected toy dinosaur, girl
+Time: 452: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 452: Elf Jack:     Placed toy dinosaur, girl
+Time: 453: Elf Jack:     Selected toy whistle, girl
+Time: 454: Elf Jack:     Wrapped toy whistle, girl
+Time: 454: Elf Jack:     Placed toy whistle, girl
+Time: 455: Elf Jack:     Selected toy train, boy
+Time: 456: Elf Jack:     Wrapped toy train, boy
+Time: 457: Elf Jack:     Placed toy train, boy
+Time: 457: Elf Jack:     Selected toy dinosaur, girl
+Time: 458: Elf Jack:     Wrapped toy dinosaur, girl
+Time: 458: Elf Jack:     Placed toy dinosaur, girl
+Time: 459: Elf Jack:     Selected toy dinosaur, boy
+Time: 460: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 460: Elf Jack:     Placed toy dinosaur, boy
+Time: 461: Elf Jack:     Selected toy train, girl
+Time: 461: Elf Jack:     Wrapped toy train, girl
+Time: 461: Elf Jack:     Placed toy train, girl
+Time: 462: Elf Jack:     Selected toy bracelet, girl
+Time: 463: Elf Jack:     Wrapped toy bracelet, girl
+Time: 463: Elf Jack:     Placed toy bracelet, girl
+Time: 464: Elf Jack:     Selected toy train, boy
+Time: 464: Elf Jack:     Wrapped toy train, boy
+Time: 464: Elf Jack:     Placed toy train, boy
+Time: 466: Elf Jack:     Selected toy doll, girl
+Time: 466: Elf Jack:     Wrapped toy doll, girl
+Time: 467: Elf Jack:     Placed toy doll, girl
+Time: 467: Elf Jack:     Selected toy bracelet, boy
+Time: 467: Elf Jack:     Wrapped toy bracelet, boy
+Time: 468: Elf Jack:     Placed toy bracelet, boy
+Time: 469: Elf Jack:     Selected toy train, boy
+Time: 469: Elf Jack:     Wrapped toy train, boy
+Time: 469: Elf Jack:     Placed toy train, boy
+Time: 470: Elf Jack:     Selected toy fake tattoo, boy
+Time: 470: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 470: Elf Jack:     Placed toy fake tattoo, boy
+Time: 472: Elf Jack:     Selected toy doll, boy
+Time: 472: Elf Jack:     Wrapped toy doll, boy
+Time: 473: Elf Jack:     Placed toy doll, boy
+Time: 473: Elf Jack:     Selected toy fake tattoo, boy
+Time: 474: Elf Jack:     Wrapped toy fake tattoo, boy
+Time: 474: Elf Jack:     Placed toy fake tattoo, boy
+Time: 475: Elf Jack:     Selected toy bracelet, girl
+Time: 476: Elf Jack:     Wrapped toy bracelet, girl
+Time: 476: Elf Jack:     Placed toy bracelet, girl
+Time: 477: Elf Jack:     Selected toy train, boy
+Time: 478: Elf Jack:     Wrapped toy train, boy
+Time: 478: Elf Jack:     Placed toy train, boy
+Time: 480: Elf Jack:     Selected toy dinosaur, boy
+Time: 480: Elf Jack:     Wrapped toy dinosaur, boy
+Time: 480: Elf Jack:     Placed toy dinosaur, boy
+Time: 480: Elf Jack:     Selected toy whistle, girl
+Time: 480: Elf Jack:     Wrapped toy whistle, girl
+Time: 480: Elf Jack:     Placed toy whistle, girl
